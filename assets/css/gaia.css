@@ -1752,6 +1752,18 @@ fieldset[disabled] .form-control {
         background-color: rgba(255, 255, 255, 0.2);
     }
 }
+.nav-text>li.active>a.blue{
+    color: white;
+    background-color: #104C66;
+}
+.btn-default.blue:active{
+    color: white;
+    background-color: #104C66;
+}
+.btn-default.blue:hover{
+    color: white;
+    background-color: #104C66;
+}
 
 .footer {
     background-color: #FFFFFF;
