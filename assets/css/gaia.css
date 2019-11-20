@@ -765,6 +765,10 @@ a,
     border-bottom: 5px solid #104C66;
 }
 
+.navbar .navbar-nav>li:hover {
+    border-bottom: 5px solid #104C66;
+}
+
 .btn-black.btn-fill .caret,
 .navbar .navbar-nav>li>a.btn-black.btn-fill .caret {
     border-top-color: #FFFFFF;
