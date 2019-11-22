@@ -11,6 +11,7 @@
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <link href="assets/css/gaia.css" rel="stylesheet" />
+    <link href="assets/css/style.css" rel="stylesheet" />
 
     <!--     Fonts and icons     -->
     <link href='https://fonts.googleapis.com/css?family=Cambo|Poppins:400,600' rel='stylesheet' type='text/css'>
@@ -78,27 +79,62 @@
 
     <div class="section section-header">
         <div class="parallax" style="margin-top: 50px;">
-            <div class="image" style="background-image: url('assets/img/petajkt.PNG');">
-            </div>
-            <div class="container">
-                <div class="content">
-                    <div class="title-area-3" style="color: black;">
-                        <h2 class="title-modern text-uppercase"><strong>Warehouse Locations</strong></h2>
+            <div class="image" style="background-image: url('assets/img/indo.png');">
+                <div id="jakarta-spot">
+                    <button type="button" class="spot" onclick="jakartaShow()"></button>
+                </div>
+                <div id="bandung-spot">
+                    <button type="button" class="spot" onclick="bandungShow()"></button>
+                </div>
+                <div id="surabaya-spot">
+                    <button type="button" class="spot" onclick="surabayaShow()"></button>
+                </div>
+                <div id="makassar-spot">
+                    <button type="button" class="spot" onclick="makassarShow()"></button>
+                </div>
+                <div id="palembang-spot">
+                    <button type="button" class="spot" onclick="palembangShow()"></button>
+                </div>
+                <div id="jakarta">
+                    <img src="./assets/img/Arrow_JKT.png"/>
+                </div>
+                <div id="bandung">
+                        <img src="./assets/img/Arrow_BDG.png"/>
+                    </div>
+                <div id="surabaya">
+                        <img src="./assets/img/Arrow_SBY.png"/>
+                    </div>
+                    <div id="palembang">
+                            <img src="./assets/img/Arrow_PLB.png"/>
+                        </div>
+                        <div id="makassar">
+                                <img src="./assets/img/Arrow_MKS.png"/>
+                            </div>
+                <div class="container ware-loc">
+                    <div class="content">
+                        <div class="title-area-3" style="color: black;">
+                            <h2 class="title-modern text-uppercase"><strong>Warehouse Locations</strong></h2>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
+    <div>
+        
+    </div>
+    
+
     <div class="section section-header" style="margin-top: 100px;">
         <div class="container">
             <div class="content">
                 <ul class="nav nav-text" role="tablist">
-                    <li class="active">
-                        <a href="#main" role="tab" data-toggle="tab" class="btn btn-default blue">Main Fuflfillment Center</a>
+                    <li class="active" id="main-button">
+                        <a href="#main" role="tab" data-toggle="tab" class="btn btn-default blue" onclick="jakartaShow()">Main Fuflfillment Center</a>
                     </li>
-                    <li>
-                        <a href="#mini" role="tab" data-toggle="tab" class="btn btn-default blue">Mini Fuflfillment Center</a>
+                    <li id="mini-button">
+                        <a href="#mini" role="tab" data-toggle="tab" class="btn btn-default blue" onclick="makassarShow()">Mini Fuflfillment Center</a>
                     </li>
                 </ul>
             </div>
@@ -114,14 +150,14 @@
                     </div>
 
                     <ul class="nav nav-text" role="tablist">
-                        <li class="active">
-                            <a href="#testimonial1" role="tab" data-toggle="tab"><strong>Jakarta</strong></a>
+                        <li class="active" id="jkt">
+                            <a href="#testimonial1" role="tab" data-toggle="tab" onclick="jakartaShow()"><strong>Jakarta</strong></a>
                         </li>
-                        <li>
-                            <a href="#testimonial2" role="tab" data-toggle="tab"><strong>Bandung</strong></a>
+                        <li id="bdg">
+                            <a href="#testimonial2" role="tab" data-toggle="tab"onclick="bandungShow()"><strong>Bandung</strong></a>
                         </li>
-                        <li>
-                            <a href="#testimonial3" role="tab" data-toggle="tab"><strong>Surabaya</strong></a>
+                        <li id="sby">
+                            <a href="#testimonial3" role="tab" data-toggle="tab" onclick="surabayaShow()"><strong>Surabaya</strong></a>
                         </li>
                     </ul>
 
@@ -320,11 +356,11 @@
                     </div>
 
                     <ul class="nav nav-text" role="tablist">
-                        <li class="active">
-                            <a href="#testimonial4" role="tab" data-toggle="tab"><strong>Makassar</strong></a>
+                        <li class="active" id="mks">
+                            <a href="#testimonial4" role="tab" data-toggle="tab" onclick="makassarShow()"><strong>Makassar</strong></a>
                         </li>
-                        <li>
-                            <a href="#testimonial5" role="tab" data-toggle="tab"><strong>Palembang</strong></a>
+                        <li id="plb">
+                            <a href="#testimonial5" role="tab" data-toggle="tab"onclick="palembangShow()"><strong>Palembang</strong></a>
                         </li>
                     </ul>
 
@@ -518,6 +554,6 @@
 <!--   file where we handle all the script from the Gaia - Bootstrap Template   -->
 <script type="text/javascript" src="assets/js/gaia.js"></script>
 
-<script src="assets/js/style.js"></script>
+<script type="text/javascript" src="assets/js/style.js"></script>
 
 </html>

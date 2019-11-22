@@ -1,0 +1,101 @@
+.spot {
+    background-color: yellow;
+    height: 15px !important;
+    width: 15px !important;
+    border-radius: 50%;
+}
+
+#jakarta-spot {
+    left: 32%;
+    top: 71%;
+    position: absolute;
+    z-index: 999;
+}
+
+#bandung-spot {
+    left: 29%;
+    top: 73%;
+    position: absolute;
+    z-index: 999;
+}
+
+#surabaya-spot {
+    left: 40%;
+    top: 73%;
+    position: absolute;
+    z-index: 999;
+}
+
+#makassar-spot {
+    left: 47%;
+    top: 70%;
+    position: absolute;
+    z-index: 999;
+}
+
+#palembang-spot {
+    left: 20%;
+    top: 62%;
+    position: absolute;
+    z-index: 999;
+}
+
+.ware-loc {
+    z-index: 20 !important;
+}
+
+#warehouse {
+    /* left: 20%; */
+    top: -72%;
+    position: absolute;
+    z-index: 999;
+}
+
+#delivery {
+    left: 20%;
+    top: -72%;
+    position: absolute;
+    z-index: 999;
+}
+
+#channel {
+    left: 33.3%;
+    top: -72%;
+    position: absolute;
+    z-index: 999;
+}
+
+#jakarta {
+    z-index: 99;
+    position: absolute;
+    left: 31%;
+    top: 27%;
+}
+
+#bandung {
+    z-index: 99;
+    position: absolute;
+    left: 28%;
+    top: 29%;
+}
+
+#surabaya {
+    z-index: 99;
+    position: absolute;
+    left: 39%;
+    top: 29%;
+}
+
+#palembang {
+    z-index: 99;
+    position: absolute;
+    left: 19%;
+    top: 18%;
+}
+
+#makassar {
+    z-index: 99;
+    position: absolute;
+    left: 46%;
+    top: 26%;
+}
