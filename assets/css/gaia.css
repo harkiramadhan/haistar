@@ -1571,8 +1571,21 @@ fieldset[disabled] .form-control {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
+.navbar-blue {
+    background-color: white;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.navbar-blue .navbar-nav>li>a:not(.btn) {
+    color:#104C66;;
+}
+
 .navbar-default .navbar-nav>li>a:not(.btn) {
     color: #434547;
+}
+
+.navbar-blue .navbar-nav>li.active {
+    border-bottom: 5px solid #104C66;
 }
 
 .navbar-default .navbar-nav>.active>a,
