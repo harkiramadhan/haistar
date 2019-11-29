@@ -99,3 +99,8 @@
     left: 46%;
     top: 26%;
 }
+
+@font-face {
+    font-family: "sui";
+    src: url("../fonts/sui\ generis\ free.ttf");
+    }
