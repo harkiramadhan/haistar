@@ -213,7 +213,7 @@
                                                 <div style="margin-left: 10%;  margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-14-40.png" />
                                                 </div>
-                                                <h4 style="color: #0f525e; margin-left: 10%;" class="text-left"><b>Dony Maya Wardhana <p>Chief Executive Officer</p></b></h4>
+                                                <h4 style="color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Dony Maya Wardhana <p>Chief Executive Officer</p></b></h4>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -231,7 +231,7 @@
                                                 <div style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-17.png" />
                                                 </div>
-                                                <h4 style="color: #0f525e; margin-left: 10%;" class="text-left"><b>Muhammad Fahrian</b><p>Chief Commercial Officer</p></h4>
+                                                <h4 style="color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Muhammad Fahrian</b><p>Chief Commercial Officer</p></h4>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -250,7 +250,7 @@
                                                 <div style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-32.png" />
                                                 </div > 
-                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left"><b>Rifani Budi Kristanto</b> <p>Commercial General Manager</p></h4>
+                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>Commercial General Manager</p></h4>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -268,7 +268,7 @@
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-41.png" />
                                                 </div>
-                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left"><b>Oki Hermawan</b> <p>Operational General Manager</p></p>
+                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>Operational General Manager</p></p>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -286,7 +286,7 @@
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-50.png" />
                                                 </div>
-                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left"><b>Albertus Aditya</b><p>Strategic Senior Manager</p> </h4>
+                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Albertus Aditya</b><p>Strategic Senior Manager</p> </h4>
                                             </div>
                                         </br>
                                         </div>

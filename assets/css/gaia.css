@@ -4119,6 +4119,9 @@ body {
 }
 
 @media (max-width: 930px) {
+    .text-xs-center {
+        text-align: center;
+    } 
     .section.section-our-team .title-description,
     .section.section-we-do .title-description {
         max-width: 550px;
