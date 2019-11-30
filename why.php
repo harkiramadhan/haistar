@@ -29,7 +29,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="index.html" class="navbar-brand">
+                <a href="index.php" class="navbar-brand">
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
@@ -45,13 +45,13 @@
                             <a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img height="25px" src="./assets/img/icon_youtube.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="mengapa.html"><strong>ID</strong></a>
+                            <a style="color: #104C66" href="mengapa.php"><strong>ID</strong></a>
                         </li>
                         <li>
                             <a href="#"><img height="25px" src="./assets/img/i.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="why.html"><strong>EN</strong></a>
+                            <a style="color: #104C66" href="why.php"><strong>EN</strong></a>
                         </li>
                     </ul>
                 </div>
@@ -63,22 +63,22 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
-                            <a href="index.html" >About</a>
+                            <a href="index.php" >About</a>
                         </li>
                         <li>
-                            <a href="service.html">Service</a>
+                            <a href="service.php">Service</a>
                         </li>
                         <li  class="active">
-                            <a href="why.html">Why Haistar</a>
+                            <a href="why.php">Why Haistar</a>
                         </li>
                         <li>
-                            <a href="client.html">Clients & Partners</a>
+                            <a href="client.php">Clients & Partners</a>
                         </li>
                         <li>
-                            <a href="locations.html">Location</a>
+                            <a href="locations.php">Location</a>
                         </li>
                         <li>
-                            <a href="contact_us.html">Contact Us</a>
+                            <a href="contact_us.php">Contact Us</a>
                         </li>
                     </ul>
                 </div>

@@ -29,7 +29,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="index.html" class="navbar-brand">
+                <a href="index.php" class="navbar-brand">
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
@@ -45,13 +45,13 @@
                             <a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img height="25px" src="./assets/img/icon_youtube.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="beranda.html"><strong>ID</strong></a>
+                            <a style="color: #104C66" href="beranda.php"><strong>ID</strong></a>
                         </li>
                         <li>
                             <a href="#"><img height="25px" src="./assets/img/i.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="index.html"><strong>EN</strong></a>
+                            <a style="color: #104C66" href="index.php"><strong>EN</strong></a>
                         </li>
                     </ul>
                 </div>
@@ -63,22 +63,22 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li class="active">
-                            <a href="index.html" >About</a>
+                            <a href="index.php" >About</a>
                         </li>
                         <li>
-                            <a href="service.html">Service</a>
+                            <a href="service.php">Service</a>
                         </li>
                         <li>
-                            <a href="why.html">Why Haistar</a>
+                            <a href="why.php">Why Haistar</a>
                         </li>
                         <li>
-                            <a href="client.html">Clients & Partners</a>
+                            <a href="client.php">Clients & Partners</a>
                         </li>
                         <li>
-                            <a href="locations.html">Location</a>
+                            <a href="locations.php">Location</a>
                         </li>
                         <li>
-                            <a href="contact_us.html">Contact Us</a>
+                            <a href="contact_us.php">Contact Us</a>
                         </li>
                     </ul>
                 </div>
@@ -213,7 +213,7 @@
                                                 <div style="margin-left: 10%;  margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-14-40.png" />
                                                 </div>
-                                                <p style="color: #0f525e; margin-left: 10%;"><b>Dony Maya Wardhana</b><br>
+                                                <p style="color: #0f525e; margin-left: 10%; font-size:small"><b>Dony Maya Wardhana</b><br>
                                                 Chief Executive Officer</p>
                                             </div>
                                         </div>
@@ -232,7 +232,7 @@
                                                 <div style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-17.png" />
                                                 </div>
-                                                <p style="color: #0f525e; margin-left: 15%;"><b>Muhammad Fahrian</b><br>
+                                                <p style="color: #0f525e; margin-left: 15%;  font-size:small"><b>Muhammad Fahrian</b><br>
                                                     Chief Commercial Officer
                                                 </p>
                                             </div>
@@ -253,7 +253,7 @@
                                                 <div style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-32.png" />
                                                 </div > 
-                                                <p style="color: #0f525e;"><b>Rifani Budi Kristanto</b><br>
+                                                <p style="color: #0f525e;  font-size:small"><b>Rifani Budi Kristanto</b><br>
                                                 Commercial General Manager</p>
                                             </div>
                                         </div>
@@ -272,7 +272,7 @@
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-41.png" />
                                                 </div>
-                                                <p style="color: #0f525e;"><b>Oki Hermawan</b> <br>
+                                                <p style="color: #0f525e;  font-size:small"><b>Oki Hermawan</b> <br>
                                                 Operational General Manager</p>
                                             </div>
                                         </div>
@@ -291,9 +291,11 @@
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-50.png" />
                                                 </div>
-                                                <p style="color: #0f525e;"><b>Albertus Aditya</b><br>
-                                                Strategic Senior Manager</p>
+                                                
+                                                <div style="color: #0f525e;"><b>Albertus Aditya</b></div>
+                                                <div style="color: #0f525e; margin-top:2%; margin-left:3% margin"> Strategic Senior Manager</div>
                                             </div>
+                                        </br>
                                         </div>
                                         <div class="col-md-10 text-left" style="padding-top: 50px;">
                                             <p style="font-family: roboto; font-size: medium;">Aditya has a unique blend of experiences in freight forwarding, logistics, banking, and e-commerce enablement industry, all with main focuses in business administration, business strategic analysis, and account
@@ -371,5 +373,4 @@
 <script type="text/javascript" src="assets/js/gaia.js"></script>
 
 <script src="assets/js/style.js"></script>
-
 </html>

@@ -37,7 +37,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="beranda.html" class="navbar-brand">
+                <a href="beranda.php" class="navbar-brand">
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
@@ -53,13 +53,13 @@
                             <a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img height="25px" src="./assets/img/icon_youtube.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="servis.html"><strong>ID</strong></a>
+                            <a style="color: #104C66" href="servis.php"><strong>ID</strong></a>
                         </li>
                         <li>
-                            <a href="beranda.html"><img height="25px" src="./assets/img/i.png"></a>
+                            <a href="beranda.php"><img height="25px" src="./assets/img/i.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="service.html"><strong>EN</strong></a>
+                            <a style="color: #104C66" href="service.php"><strong>EN</strong></a>
                         </li>
                     </ul>
                 </div>
@@ -71,22 +71,22 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
-                            <a href="beranda.html" style="color: #104C66">Tentang Haistar</a>
+                            <a href="beranda.php" style="color: #104C66">Tentang Haistar</a>
                         </li>
                         <li class="active">
-                            <a href="servis.html" style="color: #104C66">Layanan</a>
+                            <a href="servis.php" style="color: #104C66">Layanan</a>
                         </li>
                         <li>
-                            <a href="mengapa.html" style="color: #104C66">Mengapa Haistar?</a>
+                            <a href="mengapa.php" style="color: #104C66">Mengapa Haistar?</a>
                         </li>
                         <li>
-                            <a href="klien.html" style="color: #104C66">Klien & Partner</a>
+                            <a href="klien.php" style="color: #104C66">Klien & Partner</a>
                         </li>
                         <li>
-                            <a href="lokasi.html" style="color: #104C66">Lokasi</a>
+                            <a href="lokasi.php" style="color: #104C66">Lokasi</a>
                         </li>
                         <li>
-                            <a href="hubungi_kami.html"color: #104C66">Hubungi Kami</a>
+                            <a href="hubungi_kami.php"color: #104C66">Hubungi Kami</a>
                         </li>
                     </ul>
                 </div>

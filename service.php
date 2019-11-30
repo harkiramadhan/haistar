@@ -58,13 +58,13 @@
                             <a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img height="25px" src="./assets/img/icon_youtube.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="beranda.html"><strong>ID</strong></a>
+                            <a style="color: #104C66" href="beranda.php"><strong>ID</strong></a>
                         </li>
                         <li>
-                            <a href="beranda.html"><img height="25px" src="./assets/img/i.png"></a>
+                            <a href="beranda.php"><img height="25px" src="./assets/img/i.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="index.html"><strong>EN</strong></a>
+                            <a style="color: #104C66" href="index.php"><strong>EN</strong></a>
                         </li>
                     </ul>
                 </div>
@@ -76,22 +76,22 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
-                            <a href="index.html" style="color: #104C66">About</a>
+                            <a href="index.php" style="color: #104C66">About</a>
                         </li>
                         <li class="active">
-                            <a href="service.html" style="color: #104C66">Service</a>
+                            <a href="service.php" style="color: #104C66">Service</a>
                         </li>
                         <li>
-                            <a href="why.html" style="color: #104C66">Why Haistar</a>
+                            <a href="why.php" style="color: #104C66">Why Haistar</a>
                         </li>
                         <li>
-                            <a href="client.html" style="color: #104C66">Clients & Partners</a>
+                            <a href="client.php" style="color: #104C66">Clients & Partners</a>
                         </li>
                         <li>
-                            <a href="locations.html" style="color: #104C66">Location</a>
+                            <a href="locations.php" style="color: #104C66">Location</a>
                         </li>
                         <li>
-                            <a href="contact_us.html" style="color: #104C66">Contact Us</a>
+                            <a href="contact_us.php" style="color: #104C66">Contact Us</a>
                         </li>
                     </ul>
                 </div>

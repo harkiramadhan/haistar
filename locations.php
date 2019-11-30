@@ -30,7 +30,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="beranda.html" class="navbar-brand">
+                <a href="index.php" class="navbar-brand">
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
@@ -46,13 +46,13 @@
                             <a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img height="25px" src="./assets/img/icon_youtube.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="lokasi.html"><strong>ID</strong></a>
+                            <a style="color: #104C66" href="lokasi.php"><strong>ID</strong></a>
                         </li>
                         <li>
-                            <a href="beranda.html"><img height="25px" src="./assets/img/i.png"></a>
+                            <a href="beranda.php"><img height="25px" src="./assets/img/i.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="locations.html"><strong>EN</strong></a>
+                            <a style="color: #104C66" href="locations.php"><strong>EN</strong></a>
                         </li>
                     </ul>
                 </div>
@@ -64,22 +64,22 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
-                            <a href="index.html" style="color: #104C66">Tentang Haistar</a>
+                            <a href="index.php" style="color: #104C66">About</a>
                         </li>
                         <li >
-                            <a href="service.html" style="color: #104C66">Layanan</a>
+                            <a href="service.php" style="color: #104C66">Service</a>
                         </li>
                         <li>
-                            <a href="why.html" style="color: #104C66">Mengapa Haistar?</a>
+                            <a href="why.php" style="color: #104C66">Why Haistar</a>
                         </li>
                         <li >
-                            <a href="client.html" style="color: #104C66">Klien & Partner</a>
+                            <a href="client.php" style="color: #104C66">Clients & Partners</a>
                         </li>
                         <li class="active">
-                            <a href="locations.html" style="color: #104C66">Lokasi</a>
+                            <a href="locations.php" style="color: #104C66">Location</a>
                         </li>
                         <li>
-                            <a href="contact_us.html" style="color: #104C66">Hubungi Kami</a>
+                            <a href="contact_us.php" style="color: #104C66">Contact Us</a>
                         </li>
                     </ul>
                 </div>
@@ -89,20 +89,20 @@
     <div class="section section-header">
         <div class="parallax" style="margin-top: 50px;">
             <div class="image" style="background-image: url('assets/img/indo.png');">
-                <div id="jakarta-spot">
-                    <button type="button" class="spot" onclick="jakartaShow()"></button>
+                 <div id="jakarta-spot">
+                    <button type="button" class="spot" onmouseenter="jakartaShow()" onclick="jakartaShow()"></button>
                 </div>
                 <div id="bandung-spot">
-                    <button type="button" class="spot" onclick="bandungShow()"></button>
+                    <button type="button" class="spot" onmouseenter="bandungShow()" onclick="bandungShow()"></button>
                 </div>
                 <div id="surabaya-spot">
-                    <button type="button" class="spot" onclick="surabayaShow()"></button>
+                    <button type="button" class="spot" onmouseenter="surabayaShow()" onclick="surabayaShow()"></button>
                 </div>
                 <div id="makassar-spot">
-                    <button type="button" class="spot" onclick="makassarShow()"></button>
+                    <button type="button" class="spot" onmouseenter="makassarShow()" onclick="makassarShow()"></button>
                 </div>
                 <div id="palembang-spot">
-                    <button type="button" class="spot" onclick="palembangShow()"></button>
+                    <button type="button" class="spot" onmouseenter="palembangShow()" onclick="palembangShow()"></button>
                 </div>
                 <div id="jakarta">
                     <img src="./assets/img/Arrow_JKT.png"/>
@@ -155,7 +155,7 @@
             <div class="section section-our-clients-freebie">
                 <div class="container">
                     <div class="title-area" style="color: black;">
-                        <h2 class="title-modern text-uppercase"><strong>Fulfillment Center Utama</strong></h2>
+                        <h2 class="title-modern text-uppercase"><strong>Main Fuflfillment Center</strong></h2>
                     </div>
 
                     <ul class="nav nav-text" role="tablist">
@@ -508,7 +508,7 @@
                     <div class="info">
                         <h4 class="title" style="color: #158390;">ABOUT US</h4>
                         <p class="text-justify" style="color: #158390;">
-                            Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
+                            Haistar is an e-logistic solutions company that aims to help business owners to scale up their businesses by eliminating space, manpower, and system barriers with Haistar's industry-standard business process and Warehouse Management System.
                         </p><br>
                     </div>
 

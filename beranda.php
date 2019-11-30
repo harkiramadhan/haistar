@@ -29,7 +29,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="beranda.html" class="navbar-brand">
+                <a href="beranda.php" class="navbar-brand">
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
@@ -45,13 +45,13 @@
                             <a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img height="25px" src="./assets/img/icon_youtube.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="beranda.html"><strong>ID</strong></a>
+                            <a style="color: #104C66" href="beranda.php"><strong>ID</strong></a>
                         </li>
                         <li>
                             <a href="#"><img height="25px" src="./assets/img/i.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="index.html"><strong>EN</strong></a>
+                            <a style="color: #104C66" href="index.php"><strong>EN</strong></a>
                         </li>
                     </ul>
                 </div>
@@ -63,22 +63,22 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li class="active">
-                            <a href="beranda.html" >Tentang Haistar</a>
+                            <a href="beranda.php" >Tentang Haistar</a>
                         </li>
                         <li>
-                            <a href="servis.html">Layanan</a>
+                            <a href="servis.php">Layanan</a>
                         </li>
                         <li>
-                            <a href="mengapa.html">Mengapa Haistar?</a>
+                            <a href="mengapa.php">Mengapa Haistar?</a>
                         </li>
                         <li>
-                            <a href="klien.html">Klien & Partner</a>
+                            <a href="klien.php">Klien & Partner</a>
                         </li>
                         <li>
-                            <a href="lokasi.html">Lokasi</a>
+                            <a href="lokasi.php">Lokasi</a>
                         </li>
                         <li>
-                            <a href="hubungi_kami.html">Hubungi Kami</a>
+                            <a href="hubungi_kami.php">Hubungi Kami</a>
                         </li>
                     </ul>
                 </div>

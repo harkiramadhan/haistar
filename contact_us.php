@@ -1,3 +1,16 @@
+<?php 
+    session_start();
+
+    if(isset($_POST['submit'])){
+
+        $_SESSION['pesan'] = 'Pesan Terkirim';
+        echo'<script>window.location="user.php"</script>';
+    }
+
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -29,7 +42,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="beranda.html" class="navbar-brand">
+                <a href="index.php" class="navbar-brand">
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
@@ -45,13 +58,13 @@
                             <a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img height="25px" src="./assets/img/icon_youtube.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="hubungi_kami.html"><strong>ID</strong></a>
+                            <a style="color: #104C66" href="beranda.php"><strong>ID</strong></a>
                         </li>
                         <li>
-                            <a href="beranda.html"><img height="25px" src="./assets/img/i.png"></a>
+                            <a href="hubungi_kami.php"><img height="25px" src="./assets/img/i.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="contact_us.html"><strong>EN</strong></a>
+                            <a style="color: #104C66" href="contact_us.php"><strong>EN</strong></a>
                         </li>
                     </ul>
                 </div>
@@ -63,22 +76,22 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
-                            <a href="beranda.html" style="color: #104C66">Tentang Haistar</a>
+                            <a href="index.php" style="color: #104C66">About</a>
                         </li>
                         <li >
-                            <a href="servis.html" style="color: #104C66">Layanan</a>
+                            <a href="service.php" style="color: #104C66">Service</a>
                         </li>
                         <li>
-                            <a href="mengapa.html" style="color: #104C66">Mengapa Haistar?</a>
+                            <a href="why.php" style="color: #104C66">Why Haistar</a>
                         </li>
                         <li >
-                            <a href="klien.html" style="color: #104C66">Klien & Partner</a>
+                            <a href="client.php" style="color: #104C66">Clients & Partners</a>
                         </li>
                         <li >
-                            <a href="lokasi.html" style="color: #104C66">Lokasi</a>
+                            <a href="locations.php" style="color: #104C66">Location</a>
                         </li>
                         <li class="active">
-                            <a href="hubungi_kami.html" style="color: #104C66">Hubungi Kami</a>
+                            <a href="contact_us.php" style="color: #104C66">Contact Us</a>
                         </li>
                     </ul>
                 </div>
@@ -132,31 +145,31 @@
     <div class="section" style="background-color:white">
         <div class="container">
             <div class="row">
-                <form action="">
+                <form method="post" action="tambah.php">
                     <div class="col-md-6">
                         <div class="form-group">
-                            <b><input type="text" class="form-control" placeholder="Nama Depan Anda" style="background-color:#f2f2f2;"></b>
+                            <b><input type="text" name="firstname" class="form-control" placeholder="First Name" required style="background-color:#f2f2f2;"></b>
                         </div>
                         <div class="form-group">
-                            <b><input type="email" class="form-control" placeholder="E-mail Anda" style="background-color:#f2f2f2;"></b>
+                            <b><input type="email" name="email" class="form-control" placeholder="Email" required style="background-color:#f2f2f2;"></b>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
-                            <b><input type="text" class="form-control" placeholder="Nama Terakhir Anda" style="background-color:#f2f2f2;"></b>
+                            <b><input type="text" name="lastname" class="form-control" placeholder="Last Name" required style="background-color:#f2f2f2;"></b>
                         </div>
                         <div class="form-group">
-                            <b><input type="text" class="form-control" placeholder="Nomor Telepon Anda" style="background-color:#f2f2f2;"></b>
+                            <b><input type="text" name="phone" class="form-control" placeholder="Phone Number" required style="background-color:#f2f2f2;"></b>
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
-                            <b><textarea name="" id="" cols="30" rows="10" class="form-control" placeholder="Masukkan pesan Anda di sini" style="background-color:#f2f2f2;"></textarea></b>
+                            <b><textarea name="pesan" id="" cols="30" rows="10" class="form-control" placeholder="Enter Your Message Here" required style="background-color:#f2f2f2;"></textarea></b>
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
-                            <button class="btn btn-fill" style="background-color: #158390;">Kirim Pesan</button>
+                            <input type="submit" value="Send Masage" class="btn btn-fill" style="background-color: #158390;"></input>
                         </div>
                     </div>
                 </form>
@@ -171,7 +184,7 @@
                     <div class="info">
                         <h4 class="title" style="color: #158390;">ABOUT US</h4>
                         <p class="text-justify" style="color: #158390;">
-                            Haistar is an e-logistic solutions company that aims to help business owners to scale up their businesses by eliminating space, manpower, and system barriers with Haistar's industry-standard business process and Warehouse Management System.
+                            Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
                         </p><br>
                     </div>
 

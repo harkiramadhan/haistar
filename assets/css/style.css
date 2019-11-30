@@ -176,3 +176,9 @@
     opacity: 0.5;
 }
 /* mqr */
+
+#img{
+    position: relative;
+    z-index: 1;
+    top: 0px;
+}
