@@ -206,7 +206,7 @@
                     <div class="team">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="card card-member">
+                                <div class="card card-member" style="box-shadow:none; background-color: #F5F5F5">
                                     <div class="row">
                                         <div class="col-md-2">
                                             <div>
@@ -225,7 +225,7 @@
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="card card-member">
+                                <div class="card card-member" style="box-shadow:none; ">
                                     <div class="row">
                                         <div class="col-md-2">
                                             <div>
@@ -246,7 +246,7 @@
                             </div>
                           
                             <div class="col-md-12">
-                                <div class="card card-member"> 
+                                <div class="card card-member" style="box-shadow:none; "> 
                                     <div class="row">
                                         <div class="col-md-2">
                                             <div>
@@ -265,7 +265,7 @@
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="card card-member">
+                                <div class="card card-member" style="box-shadow:none; ">
                                     <div class="row">
                                         <div class="col-md-2">
                                             <div >
@@ -284,7 +284,7 @@
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="card card-member">
+                                <div class="card card-member" style="box-shadow:none; ">
                                     <div class="row">
                                         <div class="col-md-2">
                                             <div>
