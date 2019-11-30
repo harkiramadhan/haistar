@@ -122,134 +122,137 @@
 
     <!-- our service -->
     <div class="section section-our-clients-freebie">
-        <div class="container ">
-            <div class="title-area">
-                    <hr  style="width: 9%; border-width: 5px; margin-left: 45%; color: #158390; border-top: 5px solid #158390;" />
-                <h2 style="color: #158390;"> Our Service</h2>
-            </div>
-            
-            <div class="carousel nav nav-text moveNextCarousel container-carosel" style=" margin-top: -50px;">
-                
-                <div class="carousel-item">
-                    <div class="our-service-st">
-                            <div class="image-clients image-item-c">
-                                <img alt="..." class="img-circle" src="assets/img/Delivery Management Process.png"/>
+        <div class="parallax">
+            <div class="image" style="background-image: url('assets/img/plane.png'); margin-top: 50px">
+            <div class="container ">
+                <div class="title-area">
+                        <hr  style="width: 9%; border-width: 5px; margin-left: 45%; color: #158390; border-top: 5px solid #158390;" />
+                    <h2 style="color: #158390;"> Our Service</h2>
+                </div>
+                <div class="carousel nav nav-text moveNextCarousel container-carosel" style=" margin-top: -50px;">
+                    
+                    <div class="carousel-item">
+                        <div class="our-service-st">
+                                <div class="image-clients image-item-c">
+                                    <img alt="..." class="img-circle" src="assets/img/Delivery Management Process.png"/>
+                                </div>
+                                <div>
+                                        <h5>Delivery Management</h5>
+                                    </div>
+                                    <div>
+                                        <p class="content-oser">
+                                            <span>&#8226; &nbsp; </span>Handover to delivery company</br> 
+                                            <span>&#8226; &nbsp; </span>I3PL assignment</br> 
+                                            <span>&#8226; &nbsp; </span>Shipment monitoring and </br>
+                                            <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> reporting</br>  
+                                        </p>
+                                    </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                            <div class="our-service-st">
+                                <div class="image-clients image-item-c">
+                                    <img alt="..." class="img-circle" src="assets/img/Warehouse Service.png"/>
+                                </div>
+                                <div>
+                                    <h5>Warehouse Management</h5>
+                                </div>
+                                <div >
+                                    <p class="content-oser">
+                                        <span>&#8226; &nbsp; </span> Product storage</br> 
+                                        <span>&#8226; &nbsp; </span> Inbound process - quality</br> 
+                                        <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> control and put away</br> 
+                                        <span>&#8226; &nbsp; </span> Outbound process - picking and </br> 
+                                        <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> packing</br> 
+                                        <span>&#8226; &nbsp; </span> Stock monitoring and reporting</br> 
+                                        <span>&#8226; &nbsp; </span> Order monitoring and reporting</br>
+                                    </p>
+                                </div>
                             </div>
-                            <div>
-                                    <h5>Delivery Management</h5>
+                    </div>
+                    <div class="carousel-item">
+                            <div class="our-service-st">
+                                <div class="image-clients image-item-c">
+                                    <img alt="..." class="img-circle" src="assets/img/Store Operations.png"/>
+                                </div>
+                                <div>
+                                    <h5>Channel Management</h5>
                                 </div>
                                 <div>
                                     <p class="content-oser">
-                                        <span>&#8226; &nbsp; </span>Handover to delivery company</br> 
-                                        <span>&#8226; &nbsp; </span>I3PL assignment</br> 
-                                        <span>&#8226; &nbsp; </span>Shipment monitoring and </br>
-                                        <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> reporting</br>  
+                                        <span>&#8226; &nbsp; </span> Marketplace integration and </br>
+                                        <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> order management</br> 
+                                        <span>&#8226; &nbsp; </span> Third party (partner) multi-</br>
+                                        <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> channel platform</br> 
+                                        <span>&#8226; &nbsp; </span> Customer Service</br> 
                                     </p>
                                 </div>
+                            </div>
                     </div>
-                </div>
-                <div class="carousel-item">
-                        <div class="our-service-st">
-                            <div class="image-clients image-item-c">
-                                <img alt="..." class="img-circle" src="assets/img/Warehouse Service.png"/>
-                            </div>
-                            <div>
-                                <h5>Warehouse Management</h5>
-                            </div>
-                            <div >
-                                <p class="content-oser">
-                                    <span>&#8226; &nbsp; </span> Product storage</br> 
-                                    <span>&#8226; &nbsp; </span> Inbound process - quality</br> 
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> control and put away</br> 
-                                    <span>&#8226; &nbsp; </span> Outbound process - picking and </br> 
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> packing</br> 
-                                    <span>&#8226; &nbsp; </span> Stock monitoring and reporting</br> 
-                                    <span>&#8226; &nbsp; </span> Order monitoring and reporting</br>
-                                </p>
-                            </div>
-                        </div>
-                </div>
-                <div class="carousel-item">
-                        <div class="our-service-st">
-                            <div class="image-clients image-item-c">
-                                <img alt="..." class="img-circle" src="assets/img/Store Operations.png"/>
-                            </div>
-                            <div>
-                                <h5>Channel Management</h5>
-                            </div>
-                            <div>
-                                <p class="content-oser">
-                                    <span>&#8226; &nbsp; </span> Marketplace integration and </br>
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> order management</br> 
-                                    <span>&#8226; &nbsp; </span> Third party (partner) multi-</br>
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> channel platform</br> 
-                                    <span>&#8226; &nbsp; </span> Customer Service</br> 
-                                </p>
-                            </div>
-                        </div>
-                </div>
 
-                <!-- //PREV -->
-                <div class="next-item-cor">
-                        <a href="Previo" class="movePrevCarousel middle-indicator-text content-indicator l-b-pre"><i class="fa fa-angle-left fa-3x grey-muda"></i></a>
-                
-                        <a href="Siguiente" class=" moveNextCarousel middle-indicator-text content-indicator r-b-nex"><i class="fa fa-angle-right fa-3x grey-muda"></i></a>
-                
-                  </div> 
+                    <!-- //PREV -->
+                    <div class="next-item-cor">
+                            <a href="Previo" class="movePrevCarousel middle-indicator-text content-indicator l-b-pre"><i class="fa fa-angle-left fa-3x grey-muda"></i></a>
+                    
+                            <a href="Siguiente" class=" moveNextCarousel middle-indicator-text content-indicator r-b-nex"><i class="fa fa-angle-right fa-3x grey-muda"></i></a>
+                    
+                        </div> 
 
-            <!-- <ul class="nav nav-text" role="tablist">
-                <li class="active">
-                    <a href="#testimonial1" role="tab" data-toggle="tab">
-                        <div class="image-clients">
-                            <img alt="..." class="img-circle" src="assets/img/Delivery Management Process.png"/>
+                    <!-- <ul class="nav nav-text" role="tablist">
+                        <li class="active">
+                            <a href="#testimonial1" role="tab" data-toggle="tab">
+                                <div class="image-clients">
+                                    <img alt="..." class="img-circle" src="assets/img/Delivery Management Process.png"/>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#testimonial2" role="tab" data-toggle="tab">
+                                <div class="image-clients">
+                                    <img alt="..." class="img-circle" src="assets/img/Warehouse Service.png"/>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#testimonial3" role="tab" data-toggle="tab">
+                                <div class="image-clients">
+                                    <img alt="..." class="img-circle" src="assets/img/Store Operations.png"/>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="testimonial1">
+                            <h1  style="color: #158390;">Delivery Management </h1>
+                            <p class="description">
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Handover to delivery company &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; 3PL Assignment &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Shipment monitoring and reporting &nbsp;                         
+                            </p>
                         </div>
-                    </a>
-                </li>
-                <li>
-                    <a href="#testimonial2" role="tab" data-toggle="tab">
-                        <div class="image-clients">
-                            <img alt="..." class="img-circle" src="assets/img/Warehouse Service.png"/>
+                        <div class="tab-pane" id="testimonial2">
+                            <h1  style="color: #158390;">Warehouse Management</h1>
+                            <p class="description">
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Product Storage &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Inbound Process (quality control and put away) &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Outbound Process (picking and packing) &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Stock Monitoring and reporting &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Order Monitoring and reporting &nbsp;                            
+                            </p>
                         </div>
-                    </a>
-                </li>
-                <li>
-                    <a href="#testimonial3" role="tab" data-toggle="tab">
-                        <div class="image-clients">
-                            <img alt="..." class="img-circle" src="assets/img/Store Operations.png"/>
+                        <div class="tab-pane" id="testimonial3">
+                            <h1 style="color: #158390;">Channel Management</h1>
+                            <p class="description"> 
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Marketplace integration and order management &nbsp; 
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Third party (partner) multi-channel platform &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Product photoshoot for your online store &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Customer Service &nbsp;                            
+                            </p>
                         </div>
-                    </a>
-                </li>
-            </ul>
-            <div class="tab-content">
-                <div class="tab-pane active" id="testimonial1">
-                    <h1  style="color: #158390;">Delivery Management </h1>
-                    <p class="description">
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Handover to delivery company &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; 3PL Assignment &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Shipment monitoring and reporting &nbsp;                         
-                    </p>
+                    </div> -->
+                    
                 </div>
-                <div class="tab-pane" id="testimonial2">
-                    <h1  style="color: #158390;">Warehouse Management</h1>
-                    <p class="description">
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Product Storage &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Inbound Process (quality control and put away) &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Outbound Process (picking and packing) &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Stock Monitoring and reporting &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Order Monitoring and reporting &nbsp;                            
-                    </p>
-                </div>
-                <div class="tab-pane" id="testimonial3">
-                    <h1 style="color: #158390;">Channel Management</h1>
-                    <p class="description"> 
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Marketplace integration and order management &nbsp; 
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Third party (partner) multi-channel platform &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Product photoshoot for your online store &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Customer Service &nbsp;                            
-                    </p>
-                </div>
-            </div> -->
-            
+            </div>  
         </div>
     </div>
 
