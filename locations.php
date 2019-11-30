@@ -86,9 +86,17 @@
             </div>
     </nav>
 
-    <div class="section section-header">
-        <div class="parallax" style="margin-top: 50px;">
-            <div class="image" style="background-image: url('assets/img/indo.png');">
+    <div class="section section-header" style="margin-top:100px;">
+        <div class="container">
+            <div class="title-area">
+                <h2 class="title-modern text-uppercase" style="color: #104C66"><strong><br><br><br> Warehouse Locations</strong></h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="parallax">
+            <div class="image" style="background-image: url('assets/img/indo.png'); margin-top: 50px">
                  <div id="jakarta-spot">
                     <button type="button" class="spot" onmouseenter="jakartaShow()" onclick="jakartaShow()"></button>
                 </div>
@@ -108,23 +116,16 @@
                     <img src="./assets/img/Arrow_JKT.png"/>
                 </div>
                 <div id="bandung">
-                        <img src="./assets/img/Arrow_BDG.png"/>
-                    </div>
+                    <img src="./assets/img/Arrow_BDG.png"/>
+                </div>
                 <div id="surabaya">
-                        <img src="./assets/img/Arrow_SBY.png"/>
-                    </div>
-                    <div id="palembang">
-                            <img src="./assets/img/Arrow_PLB.png"/>
-                        </div>
-                        <div id="makassar">
-                                <img src="./assets/img/Arrow_MKS.png"/>
-                            </div>
-                <div class="container ware-loc">
-                    <div class="content">
-                        <div class="title-area-3" style="color: black;">
-                            <h2 class="title-modern text-uppercase" style="color: #104C66"><strong>Warehouse Locations</strong></h2>
-                        </div>
-                    </div>
+                    <img src="./assets/img/Arrow_SBY.png"/>
+                </div>
+                <div id="palembang">
+                    <img src="./assets/img/Arrow_PLB.png"/>
+                </div>
+                <div id="makassar">
+                    <img src="./assets/img/Arrow_MKS.png"/>
                 </div>
             </div>
         </div>
