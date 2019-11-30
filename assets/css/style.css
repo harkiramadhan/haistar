@@ -162,8 +162,9 @@
 }
 
 .next-item-cor {
-    position: absolute;
+    /* position: absolute; */
     margin-top: 200px;
+    margin-left: -378px;
 }
 
 .next-item-cor-pr {

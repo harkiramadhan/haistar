@@ -129,74 +129,74 @@
                         <hr  style="width: 9%; border-width: 5px; margin-left: 45%; color: #158390; border-top: 5px solid #158390;" />
                     <h2 style="color: #158390;"> Our Service</h2>
                 </div>
-                <div class="carousel nav nav-text moveNextCarousel container-carosel" style=" margin-top: -50px;">
+                <div class="carousel nav nav-text moveNextCarousel" style=" margin-top: -50px;">
                     
                     <div class="carousel-item">
                         <div class="our-service-st">
-                                <div class="image-clients image-item-c">
-                                    <img alt="..." class="img-circle" src="assets/img/Delivery Management Process.png"/>
-                                </div>
-                                <div>
-                                        <h5>Delivery Management</h5>
-                                    </div>
-                                    <div>
-                                        <p class="content-oser">
-                                            <span>&#8226; &nbsp; </span>Handover to delivery company</br> 
-                                            <span>&#8226; &nbsp; </span>I3PL assignment</br> 
-                                            <span>&#8226; &nbsp; </span>Shipment monitoring and </br>
-                                            <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> reporting</br>  
-                                        </p>
-                                    </div>
+                            <div class="image-clients image-item-c">
+                                <img alt="..." class="img-circle" src="assets/img/Delivery Management Process.png"/>
+                            </div>
+                            <div>
+                                <h5>Delivery Management</h5>
+                            </div>
+                            <div>
+                                <p class="content-oser">
+                                    <span>&#8226; &nbsp; </span>Handover to delivery company</br> 
+                                    <span>&#8226; &nbsp; </span>I3PL assignment</br> 
+                                    <span>&#8226; &nbsp; </span>Shipment monitoring and </br>
+                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> reporting</br>  
+                                </p>
+                            </div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                            <div class="our-service-st">
-                                <div class="image-clients image-item-c">
-                                    <img alt="..." class="img-circle" src="assets/img/Warehouse Service.png"/>
-                                </div>
-                                <div>
-                                    <h5>Warehouse Management</h5>
-                                </div>
-                                <div >
-                                    <p class="content-oser">
-                                        <span>&#8226; &nbsp; </span> Product storage</br> 
-                                        <span>&#8226; &nbsp; </span> Inbound process - quality</br> 
-                                        <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> control and put away</br> 
-                                        <span>&#8226; &nbsp; </span> Outbound process - picking and </br> 
-                                        <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> packing</br> 
-                                        <span>&#8226; &nbsp; </span> Stock monitoring and reporting</br> 
-                                        <span>&#8226; &nbsp; </span> Order monitoring and reporting</br>
-                                    </p>
-                                </div>
+                        <div class="our-service-st">
+                            <div class="image-clients image-item-c">
+                                <img alt="..." class="img-circle" src="assets/img/Warehouse Service.png"/>
                             </div>
+                            <div>
+                                <h5>Warehouse Management</h5>
+                            </div>
+                            <div >
+                                <p class="content-oser">
+                                    <span>&#8226; &nbsp; </span> Product storage</br> 
+                                    <span>&#8226; &nbsp; </span> Inbound process - quality</br> 
+                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> control and put away</br> 
+                                    <span>&#8226; &nbsp; </span> Outbound process - picking and </br> 
+                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> packing</br> 
+                                    <span>&#8226; &nbsp; </span> Stock monitoring and reporting</br> 
+                                    <span>&#8226; &nbsp; </span> Order monitoring and reporting</br>
+                                </p>
+                            </div>
+                        </div>
                     </div>
                     <div class="carousel-item">
-                            <div class="our-service-st">
-                                <div class="image-clients image-item-c">
-                                    <img alt="..." class="img-circle" src="assets/img/Store Operations.png"/>
-                                </div>
-                                <div>
-                                    <h5>Channel Management</h5>
-                                </div>
-                                <div>
-                                    <p class="content-oser">
-                                        <span>&#8226; &nbsp; </span> Marketplace integration and </br>
-                                        <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> order management</br> 
-                                        <span>&#8226; &nbsp; </span> Third party (partner) multi-</br>
-                                        <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> channel platform</br> 
-                                        <span>&#8226; &nbsp; </span> Customer Service</br> 
-                                    </p>
-                                </div>
+                        <div class="our-service-st">
+                            <div class="image-clients image-item-c">
+                                <img alt="..." class="img-circle" src="assets/img/Store Operations.png"/>
                             </div>
+                            <div>
+                                <h5>Channel Management</h5>
+                            </div>
+                            <div>
+                                <p class="content-oser">
+                                    <span>&#8226; &nbsp; </span> Marketplace integration and </br>
+                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> order management</br> 
+                                    <span>&#8226; &nbsp; </span> Third party (partner) multi-</br>
+                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> channel platform</br> 
+                                    <span>&#8226; &nbsp; </span> Customer Service</br> 
+                                </p>
+                            </div>
+                        </div>
                     </div>
 
                     <!-- //PREV -->
                     <div class="next-item-cor">
-                            <a href="Previo" class="movePrevCarousel middle-indicator-text content-indicator l-b-pre"><i class="fa fa-angle-left fa-3x grey-muda"></i></a>
-                    
-                            <a href="Siguiente" class=" moveNextCarousel middle-indicator-text content-indicator r-b-nex"><i class="fa fa-angle-right fa-3x grey-muda"></i></a>
-                    
-                        </div> 
+                        <a href="Previo" class="movePrevCarousel middle-indicator-text content-indicator l-b-pre"><i class="fa fa-angle-left fa-3x grey-muda"></i></a>
+                
+                        <a href="Siguiente" class=" moveNextCarousel middle-indicator-text content-indicator r-b-nex"><i class="fa fa-angle-right fa-3x grey-muda"></i></a>
+                
+                    </div> 
 
                     <!-- <ul class="nav nav-text" role="tablist">
                         <li class="active">
