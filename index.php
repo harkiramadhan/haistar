@@ -157,7 +157,7 @@
 
     <div class="section">
         <div class="parallax">
-            <div class="image" style="background-image: url('assets/img/Rocket.png')">
+            <div class="image" style="background-image: url('assets/img/visi.png')">
             </div>
             <div class="container">
                 <div class="title-area">
