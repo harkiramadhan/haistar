@@ -208,16 +208,15 @@
                             <div class="col-md-12">
                                 <div class="card card-member" style="box-shadow:none; background-color: #F5F5F5">
                                     <div class="row">
-                                        <div class="col-md-2">
+                                        <div class="col-md-3">
                                             <div>
                                                 <div style="margin-left: 10%;  margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-14-40.png" />
                                                 </div>
-                                                <p style="color: #0f525e; margin-left: 10%; font-size:small"><b>Dony Maya Wardhana</b><br>
-                                                Chief Executive Officer</p>
+                                                <h4 style="color: #0f525e; margin-left: 10%;" class="text-left"><b>Dony Maya Wardhana <p>Chief Executive Officer</p></b></h4>
                                             </div>
                                         </div>
-                                        <div class="col-md-10 text-left" style="padding-top: 50px;">
+                                        <div class="col-md-9 text-left" style="padding-top: 50px;">
                                             <p style="font-family: roboto; font-size: medium;">Donny has over 22 years of experience in supply chain, logistics, and e-commerce enablement industry with focus on Operations and Sales. Donny is a strategic thinker and a visionary leader with strong analytical
                                                 skill in market intelligence. Some of the companies he had worked for as part of the senior management team were aCommerce, Quantum Solutions - Singapore Post, JNE, UPS, TNT, and DHL Express.</p>
                                         </div>
@@ -227,17 +226,15 @@
                             <div class="col-md-12">
                                 <div class="card card-member" style="box-shadow:none; ">
                                     <div class="row">
-                                        <div class="col-md-2">
+                                        <div class="col-md-3">
                                             <div>
                                                 <div style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-17.png" />
                                                 </div>
-                                                <p style="color: #0f525e; margin-left: 15%;  font-size:small"><b>Muhammad Fahrian</b><br>
-                                                    Chief Commercial Officer
-                                                </p>
+                                                <h4 style="color: #0f525e; margin-left: 10%;" class="text-left"><b>Muhammad Fahrian</b><p>Chief Commercial Officer</p></h4>
                                             </div>
                                         </div>
-                                        <div class="col-md-10 text-left" style="padding-top: 50px;">
+                                        <div class="col-md-9 text-left" style="padding-top: 50px;">
                                             <p style="font-family: roboto; font-size: medium;">Fahrian brings with him 12 years of experience in consulting management, business development, e-commerce enablement, and technology development and implementation. He had previously worked for Accenture and
                                                 aCommerce and is an IT graduate from University of Indonesia.</p>
                                         </div>
@@ -248,16 +245,15 @@
                             <div class="col-md-12">
                                 <div class="card card-member" style="box-shadow:none; "> 
                                     <div class="row">
-                                        <div class="col-md-2">
+                                        <div class="col-md-3">
                                             <div>
                                                 <div style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-32.png" />
                                                 </div > 
-                                                <p style="color: #0f525e;  font-size:small"><b>Rifani Budi Kristanto</b><br>
-                                                Commercial General Manager</p>
+                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left"><b>Rifani Budi Kristanto</b> <p>Commercial General Manager</p></h4>
                                             </div>
                                         </div>
-                                        <div class="col-md-10 text-left" style="padding-top: 50px;">
+                                        <div class="col-md-9 text-left" style="padding-top: 50px;">
                                             <p style="font-family: roboto; font-size: medium;">With 10 years of experience in education, consulting, logistics, and e-commerce enablement industry, Rifani has sharpened his expertise in consulting, strategic business planning, marketing, and sales, in addition
                                                 to his Master Degree in Marketing from PPM Manajemen. Rifani's previous roles were at PPM Manajemen, JNE, and aCommerce. </p>
                                         </div>
@@ -267,16 +263,15 @@
                             <div class="col-md-12">
                                 <div class="card card-member" style="box-shadow:none; ">
                                     <div class="row">
-                                        <div class="col-md-2">
+                                        <div class="col-md-3">
                                             <div >
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-41.png" />
                                                 </div>
-                                                <p style="color: #0f525e;  font-size:small"><b>Oki Hermawan</b> <br>
-                                                Operational General Manager</p>
+                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left"><b>Oki Hermawan</b> <p>Operational General Manager</p></p>
                                             </div>
                                         </div>
-                                        <div class="col-md-10 text-left" style="padding-top: 50px;">
+                                        <div class="col-md-9 text-left" style="padding-top: 50px;">
                                             <p style="font-family: roboto; font-size: medium;">Oki has a strong capability and 17 years worth of experience in operational strategic planning and leadership. Oki came with a degree in Transport Management from STMT Trisakti before jumping into various industries
                                                 such as retail and distribution, e-commerce fashion, and e-commerce enablement. Oki previously worked at aCommerce, Zalora Indonesia, and Oriflame Indonesia.</p>
                                         </div>
@@ -286,18 +281,16 @@
                             <div class="col-md-12">
                                 <div class="card card-member" style="box-shadow:none; ">
                                     <div class="row">
-                                        <div class="col-md-2">
+                                        <div class="col-md-3">
                                             <div>
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-50.png" />
                                                 </div>
-                                                
-                                                <div style="color: #0f525e;"><b>Albertus Aditya</b></div>
-                                                <div style="color: #0f525e; margin-top:2%; margin-left:3% margin"> Strategic Senior Manager</div>
+                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left"><b>Albertus Aditya</b><p>Strategic Senior Manager</p> </h4>
                                             </div>
                                         </br>
                                         </div>
-                                        <div class="col-md-10 text-left" style="padding-top: 50px;">
+                                        <div class="col-md-9 text-left" style="padding-top: 50px;">
                                             <p style="font-family: roboto; font-size: medium;">Aditya has a unique blend of experiences in freight forwarding, logistics, banking, and e-commerce enablement industry, all with main focuses in business administration, business strategic analysis, and account
                                                 management over the past 10 years. Aditya also has a Master degree in Management focusing in Marketing Strategy from PPM Management School and a Bachelor degree in Economy from Swiss German University.</p>
                                         </div>
