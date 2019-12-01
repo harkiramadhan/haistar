@@ -106,9 +106,9 @@
             <div class="container">
                 <div class="content">
                     <div class="title-area-2" style="color: black;">
-                        <h2 style="color: #0b2f3c;"><strong><b>Hassle-free services</strong></b></h2>
-                        <h2 style="color: #158390; margin: -0.6em 0 !important; margin-bottom: 8px !important;"><strong><b> tailored to your needs</strong></b></h2>
-                        <p>
+                        <h2 style="font-family:'sui'; color: #0b2f3c;"><strong><b>Hassle-free services</strong></b></h2>
+                        <h2 style="font-family:'sui'; color: #158390; margin: -0.6em 0 !important; margin-bottom: 8px !important;"><strong><b> tailored to your needs</strong></b></h2>
+                        <p style="font-family:roboto">
                             Managing multiple marketplaces can be overwhelming. This is where <br>
                             our Store Operations capability can step in. Haistar will assist you in <br>
                             managing your order so you can focus on developing products and <br>
@@ -127,7 +127,7 @@
             <div class="container ">
                 <div class="title-area">
                         <hr  style="width: 9%; border-width: 5px; margin-left: 45%; color: #158390; border-top: 5px solid #158390;" />
-                    <h2 style="color: #158390;"> Our Service</h2>
+                    <h2 style="font-family:'sui'; color: #158390;"> Our Service</h2>
                 </div>
                 <div class="carousel nav nav-text moveNextCarousel" style=" margin-top: -50px;">
                     
@@ -137,10 +137,10 @@
                                 <img alt="..." class="img-circle" src="assets/img/Delivery Management Process.png"/>
                             </div>
                             <div>
-                                <h5>Delivery Management</h5>
+                                <h5 style="color: #158390;">Delivery Management</h5>
                             </div>
                             <div>
-                                <p class="content-oser">
+                                <p class="content-oser" style="font-family: robotoha">
                                     <span>&#8226; &nbsp; </span>Handover to delivery company</br> 
                                     <span>&#8226; &nbsp; </span>I3PL assignment</br> 
                                     <span>&#8226; &nbsp; </span>Shipment monitoring and </br>
@@ -155,10 +155,10 @@
                                 <img alt="..." class="img-circle" src="assets/img/Warehouse Service.png"/>
                             </div>
                             <div>
-                                <h5>Warehouse Management</h5>
+                                <h5 style="color: #158390;">Warehouse Management</h5>
                             </div>
                             <div >
-                                <p class="content-oser">
+                                <p class="content-oser" style="font-family: roboto">
                                     <span>&#8226; &nbsp; </span> Product storage</br> 
                                     <span>&#8226; &nbsp; </span> Inbound process - quality</br> 
                                     <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> control and put away</br> 
@@ -176,10 +176,10 @@
                                 <img alt="..." class="img-circle" src="assets/img/Store Operations.png"/>
                             </div>
                             <div>
-                                <h5>Channel Management</h5>
+                                <h5 style="color: #158390;">Channel Management</h5>
                             </div>
                             <div>
-                                <p class="content-oser">
+                                <p class="content-oser" style="font-family: roboto">
                                     <span>&#8226; &nbsp; </span> Marketplace integration and </br>
                                     <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> order management</br> 
                                     <span>&#8226; &nbsp; </span> Third party (partner) multi-</br>
@@ -259,8 +259,8 @@
     <div class="section">
         <div class="container">
             <div class="title-area">
-                <h2 style="color: #158390;">Warehouse Management System</h2>
-                <p class="texte-center text-uppercase">
+                <h2 style="color: #158390; font-family:'sui';">Warehouse Management System</h2>
+                <p class="texte-center text-uppercase" style="font-family:roboto">
                     Our Warehouse Management System (WMS) covers the entire order process from Shipping, Receiving, Putaway, Movement, and Packing. It provides realtime visibility and accuracy on transaction process and inventory stock.                         
                 </p>
                 <!-- <p class="description"> 

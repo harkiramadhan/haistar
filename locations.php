@@ -89,7 +89,7 @@
     <div class="section section-header" style="margin-top:100px;">
         <div class="container">
             <div class="title-area">
-                <h2 class="title-modern text-uppercase" style="color: #104C66"><strong><br><br><br> Warehouse Locations</strong></h2>
+                <h2 class="title-modern" style="font-family: sui generis free; color: #104C66"><strong><br><br><br> Warehouse Locations</strong></h2>
             </div>
         </div>
     </div>
@@ -156,7 +156,7 @@
             <div class="section section-our-clients-freebie">
                 <div class="container">
                     <div class="title-area" style="color: black;">
-                        <h2 class="title-modern text-uppercase"><strong>Main Fuflfillment Center</strong></h2>
+                        <h2 class="title-modern" style="font-family: sui generis free; color: #158390"><strong>Main Fuflfillment Center</strong></h2>
                     </div>
 
                     <ul class="nav nav-text" role="tablist">
@@ -362,7 +362,7 @@
             <div class="section section-our-clients-freebie">
                 <div class="container">
                     <div class="title-area" style="color: black;">
-                        <h2 class="title-modern text-uppercase"><strong>Mini Fuflfillment Center</strong></h2>
+                        <h2 class="title-modern" style="font-family: sui generis free; color: #158390"><strong>Mini Fuflfillment Center</strong></h2>
                     </div>
 
                     <ul class="nav nav-text" role="tablist">

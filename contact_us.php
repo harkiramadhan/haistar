@@ -113,7 +113,7 @@
             <div class="row">
                 <div class="col-md-3 text-center">
                     <h1><img style="max-height: 70px;" src="assets/img/Location.png"></h1>
-                    <h3 class="title-modern pt-5" style="color: #158390;">Head Quarter</h3>   
+                    <h3 class="title-modern pt-5" style="font-family: sui generis free; color: #158390;">Head Quarter</h3>   
                     <p class="text-justify">
                         <br>
                         Jl. Pegangsaan Dua No. KM 42, Pegangsaan Dua, Kelapa Gading  
@@ -123,18 +123,18 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <h1><img style="max-height: 70px;" src="assets/img/Call Us.png"></h1>
-                    <h3 class="title-modern pt-5" style="color: #158390;">Head Office</h3>
+                    <h3 class="title-modern pt-5" style="font-family: sui generis free; color: #158390;">Head Office</h3>
                     <br>   
                     <p class="text-center">(021) 460 42 21</p>
                 </div>
                 <div class="col-md-3 text-center">
                     <h1><img style="max-height: 70px;" src="assets/img/whatsapp.png"></h1>
-                    <h3 class="title-modern pt-5" style="color: #158390;"> Sales / Costumer Service</h3>   
+                    <h3 class="title-modern pt-5" style="font-family: sui generis free; color: #158390;"> Sales / Costumer Service</h3>   
                     <p class="text-center">+62 812 9655 5536</p>
                 </div>
                 <div class="col-md-3 text-center"> 
                     <h1><img style="max-height: 70px;" src="assets/img/Mail.png"></i></h1>
-                    <h3 class="title-modern pt-5" style="color: #158390;">Mails</h3>
+                    <h3 class="title-modern pt-5" style="font-family: sui generis free; color: #158390;">Mails</h3>
                     <br>   
                     <p class="text-center">&nbsp;&nbsp;&nbsp;&nbsp;sales@haistar.asia</p>
                 </div>
