@@ -11,19 +11,24 @@
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     
     
+    
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="assets/css/materialize.min-1.0.0.css">
+
+    
+
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <link href="assets/css/gaia.css" rel="stylesheet"/>
-
-   <!-- Compiled and minified CSS -->
-   <link rel="stylesheet" href="assets/css/materialize.min-1.0.0.css">
-
-    <!-- Compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link href="assets/css/style.css" rel="stylesheet"/>
 
     <!--     Fonts and icons     -->
     <link href='https://fonts.googleapis.com/css?family=Cambo|Poppins:400,600' rel='stylesheet' type='text/css'>
-    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <!-- <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 </head>
 
 <body>
@@ -37,7 +42,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="beranda.php" class="navbar-brand">
+                <a href="http://www.creative-tim.com" class="navbar-brand">
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
@@ -86,7 +91,7 @@
                             <a href="lokasi.php" style="color: #104C66">Lokasi</a>
                         </li>
                         <li>
-                            <a href="hubungi_kami.php"color: #104C66">Hubungi Kami</a>
+                            <a href="hubungu_kami.php" style="color: #104C66">Hubungi Kami</a>
                         </li>
                     </ul>
                 </div>
@@ -101,10 +106,12 @@
             <div class="container">
                 <div class="content">
                     <div class="title-area-2" style="color: black;">
-                        <h2 style="color: #0b2f3c;"><strong><b>Layanan tanpa kesulitan</strong></b></h2>
-                        <h2 style="color: #158390; margin: -0.6em 0 !important; margin-bottom: 8px !important;"><strong><b> yang disesuaikan dengan kebutuhan Anda</strong></b></h2>
-                        <p >
-                            Mengelola banyak marketplace di saat yang bersamaan bisa membuat Anda kewalahan. Di sinilah layanan Channel Management kami bisa mengambil alih masalah Anda. Haistar akan mendampingi Anda dalam mengelola pesanan sehingga Anda dapat fokus berinovasi dan mengembangkan produk, meningkatkan demand, dan berkompetisi di pasar. 
+                        <h2 style="font-size:30px; font-family:'sui'; color: #0b2f3c;"><strong><b>Layanan tanpa kesulitan yang</strong></b></h2>
+                        <h2 style="font-size:30px; font-family:'sui'; color: #158390; margin: -0.6em 0 !important; margin-bottom: 8px !important;"><strong><b>  disesuaikan dengan kebutuhan Anda</strong></b></h2>
+                        <p style="font-family:roboto">
+                        Mengelola banyak marketplace di saat yang bersamaan bisa membuat Anda kewalahan. Di sinilah layanan Channel Management kami bisa mengambil <br>
+                         alih masalah Anda. Haistar akan mendampingi Anda dalam mengelola <br> pesanan sehingga Anda dapat fokus berinovasi dan mengembangkan produk, <br>
+                          meningkatkan demand, dan berkompetisi di pasar. 
                         </p>
                     </div>
                 </div>
@@ -112,131 +119,148 @@
         </div>
     </div>
 
+    <!-- our service -->
     <div class="section section-our-clients-freebie">
-        <div class="container" style="height: 500px;">
-            <div class="title-area">
-                    <hr  style="width: 9%; border-width: 5px; margin-left: 45%; color: #158390; border-top: 5px solid #158390;" />
-                <h2 style="color: #158390;"> Layanan Kami</h2>
-            </div>
-            
-            <div class="carousel nav nav-text moveNextCarousel" style="display: block; width: 50%;">
-                <!-- //PREV -->
-                    <div class="left" style="margin-left: 100px; margin-top: 100px;">
-                            <a href="Previo" class="movePrevCarousel middle-indicator-text content-indicator"><i class="material-icons left  middle-indicator-text"><H3><span style="color:lightskyblue;"><</span></span></H3></i></a>
-                           </div>
+        <div class="parallax">
+            <div class="image" style="background-image: url('assets/img/plane.png'); margin-top: 50px">
+            <div class="container ">
+                <div class="title-area">
+                        <hr  style="width: 9%; border-width: 5px; margin-left: 45%; color: #158390; border-top: 5px solid #158390;" />
+                    <h2 style="font-family:'sui'; color: #158390;">Layanan Kami</h2>
+                </div>
+                <div class="carousel nav nav-text moveNextCarousel" style=" margin-top: -50px;">
+                    
+                    <div class="carousel-item">
+                        <div class="our-service-st">
+                            <div class="image-clients image-item-c">
+                                <img alt="..." class="img-circle" src="assets/img/Delivery Management Process.png"/>
+                            </div>
+                            <div>
+                                <h5 style="color: #158390;">Pengelolaan Pengantaran</h5>
+                            </div>
+                            <div>
+                                <p class="content-oser" style="font-family: robotoha">
+                                    <span>&#8226; &nbsp; </span>Serah terima dengan perusahaan pengantaran</br> 
+                                    <span>&#8226; &nbsp; </span>Penunjukkan 3PL</br> 
+                                    <span>&#8226; &nbsp; </span>Pengawasan dan pelaporan </br>
+                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span>  pengiriman</br>  
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="our-service-st">
+                            <div class="image-clients image-item-c">
+                                <img alt="..." class="img-circle" src="assets/img/Warehouse Service.png"/>
+                            </div>
+                            <div>
+                                <h5 style="color: #158390;">Pengelolaan Gudang</h5>
+                            </div>
+                            <div >
+                                <p class="content-oser" style="font-family: roboto">
+                                    <span>&#8226; &nbsp; </span> Penyimpanan produk </br> 
+                                    <span>&#8226; &nbsp; </span> Proses inbound - quality</br> 
+                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> control dan put away</br> 
+                                    <span>&#8226; &nbsp; </span> Proses outbound  - picking dan  </br> 
+                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> packing</br> 
+                                    <span>&#8226; &nbsp; </span> Pengawasan dan pelaporan stok</br> 
+                                    <span>&#8226; &nbsp; </span> Pengawasan dan pelaporan order</br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="our-service-st">
+                            <div class="image-clients image-item-c">
+                                <img alt="..." class="img-circle" src="assets/img/Store Operations.png"/>
+                            </div>
+                            <div>
+                                <h5 style="color: #158390;">Pengelolaan Kanal Penjualan</h5>
+                            </div>
+                            <div>
+                                <p class="content-oser" style="font-family: roboto">
+                                    <span>&#8226; &nbsp; </span> Integrasi marketplace dan  </br>
+                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> manajemen order</br> 
+                                    <span>&#8226; &nbsp; </span> Platform multi-kanal dari </br>
+                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> pihak ketiga (partner)</br> 
+                                    <span>&#8226; &nbsp; </span> Layanan pelanggan</br> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
 
-                <div class="carousel-item" style="width: 450px; height: 350px; background-color: honeydew; border: lightskyblue;">
-                        <a href="#testimonial1" role="tab" data-toggle="tab">
-                                <div class="image-clients" style="margin-left: 40%;">
+                    <!-- //PREV -->
+                    <div class="next-item-cor">
+                        <a href="Previo" class="movePrevCarousel middle-indicator-text content-indicator l-b-pre"><i class="fa fa-angle-left fa-3x grey-muda"></i></a>
+                
+                        <a href="Siguiente" class=" moveNextCarousel middle-indicator-text content-indicator r-b-nex"><i class="fa fa-angle-right fa-3x grey-muda"></i></a>
+                
+                    </div> 
+
+                    <!-- <ul class="nav nav-text" role="tablist">
+                        <li class="active">
+                            <a href="#testimonial1" role="tab" data-toggle="tab">
+                                <div class="image-clients">
                                     <img alt="..." class="img-circle" src="assets/img/Delivery Management Process.png"/>
                                 </div>
                             </a>
-                                <h5 style="color: #158390;">Pengelolaan Pengantaran </h5>   
-                              <p>1. Serah terima dengan perusahaan pengantaran</p>
-                              <p style="margin-left: -50%;">2. Penunjukkan 3PL</p>
-                              <p style="margin-left: -12%;">3. Pengawasan dan pelaporan pengiriman</p>
-                            
-                              
+                        </li>
+                        <li>
+                            <a href="#testimonial2" role="tab" data-toggle="tab">
+                                <div class="image-clients">
+                                    <img alt="..." class="img-circle" src="assets/img/Warehouse Service.png"/>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#testimonial3" role="tab" data-toggle="tab">
+                                <div class="image-clients">
+                                    <img alt="..." class="img-circle" src="assets/img/Store Operations.png"/>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="testimonial1">
+                            <h1  style="color: #158390;">Delivery Management </h1>
+                            <p class="description">
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Handover to delivery company &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; 3PL Assignment &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Shipment monitoring and reporting &nbsp;                         
+                            </p>
+                        </div>
+                        <div class="tab-pane" id="testimonial2">
+                            <h1  style="color: #158390;">Warehouse Management</h1>
+                            <p class="description">
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Product Storage &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Inbound Process (quality control and put away) &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Outbound Process (picking and packing) &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Stock Monitoring and reporting &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Order Monitoring and reporting &nbsp;                            
+                            </p>
+                        </div>
+                        <div class="tab-pane" id="testimonial3">
+                            <h1 style="color: #158390;">Channel Management</h1>
+                            <p class="description"> 
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Marketplace integration and order management &nbsp; 
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Third party (partner) multi-channel platform &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Product photoshoot for your online store &nbsp;
+                                <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Customer Service &nbsp;                            
+                            </p>
+                        </div>
+                    </div> -->
+                    
                 </div>
-
-                <div class="carousel-item" style="width: 450px; height: 350px; background-color: honeydew; border: lightskyblue;">
-                    <a href="#testimonial1" role="tab" data-toggle="tab">
-                            <div class="image-clients" style="margin-left: 40%;">
-                                <img alt="..." class="img-circle" src="assets/img/Warehouse Service.png"/>
-                            </div>
-                        </a>
-                            <h5 style="color: #158390;">Pengelolaan Gudang </h5>   
-                          <p style="margin-left: -25%;">1. Penyimpanan produk </p>
-                          <p style="margin-left: 13%;">2. Proses inbound - quality control dan put away</p>
-                          <p style="margin-left: 3%;">3. Proses outbound - picking dan packing</p>
-                          <p style="margin-left: -7%;">4. Pengawasan dan pelaporan stok</p>
-                          <p style="margin-left: -6%;">5. Pengawasan dan pelaporan order</p>
-                        
-                          
-            </div>
-
-            <div class="carousel-item" style="width: 450px; height: 350px; background-color: honeydew; border: lightskyblue;">
-                <a href="#testimonial1" role="tab" data-toggle="tab">
-                        <div class="image-clients" style="margin-left: 40%;">
-                            <img alt="..." class="img-circle" src="assets/img/Store Operations.png"/>
-                        </div>
-                    </a>
-                        <h5 style="color: #158390;">Pengelolaan Kanal Penjualan  </h5>   
-                      <p>1. Integrasi marketplace dan manajemen order <p>
-                      <p style="margin-left: 2%;">2. Platform multi-kanal dari pihak ketiga (partner)</p>
-                      <p style="margin-left: -40%;">3. Layanan pelanggan</p>                 
-        </div>
-
-                <!-- //NEX -->
-                <div class="right" style="margin-right: 30px; margin-top: 80px;">
-                        <a href="Siguiente" class=" moveNextCarousel middle-indicator-text waves-effect waves-light content-indicator"><i class="material-icons right middle-indicator-text"><span style="color:lightskyblue;"><h3>></h3></span></i></a>
-                        </div>
-                  </div>
-
-            <!-- <ul class="nav nav-text" role="tablist">
-                <li class="active">
-                    <a href="#testimonial1" role="tab" data-toggle="tab">
-                        <div class="image-clients">
-                            <img alt="..." class="img-circle" src="assets/img/Delivery Management Process.png"/>
-                        </div>
-                    </a>
-                </li>
-                <li>
-                    <a href="#testimonial2" role="tab" data-toggle="tab">
-                        <div class="image-clients">
-                            <img alt="..." class="img-circle" src="assets/img/Warehouse Service.png"/>
-                        </div>
-                    </a>
-                </li>
-                <li>
-                    <a href="#testimonial3" role="tab" data-toggle="tab">
-                        <div class="image-clients">
-                            <img alt="..." class="img-circle" src="assets/img/Store Operations.png"/>
-                        </div>
-                    </a>
-                </li>
-            </ul>
-            <div class="tab-content">
-                <div class="tab-pane active" id="testimonial1">
-                    <h1  style="color: #158390;">Delivery Management </h1>
-                    <p class="description">
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Handover to delivery company &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; 3PL Assignment &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Shipment monitoring and reporting &nbsp;                         
-                    </p>
-                </div>
-                <div class="tab-pane" id="testimonial2">
-                    <h1  style="color: #158390;">Warehouse Management</h1>
-                    <p class="description">
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Product Storage &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Inbound Process (quality control and put away) &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Outbound Process (picking and packing) &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Stock Monitoring and reporting &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Order Monitoring and reporting &nbsp;                            
-                    </p>
-                </div>
-                <div class="tab-pane" id="testimonial3">
-                    <h1 style="color: #158390;">Channel Management</h1>
-                    <p class="description"> 
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Marketplace integration and order management &nbsp; 
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Third party (partner) multi-channel platform &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Product photoshoot for your online store &nbsp;
-                        <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Customer Service &nbsp;                            
-                    </p>
-                </div>
-            </div> -->
-            
+            </div>  
         </div>
     </div>
-    <br>
-    <br>
 
     <div class="section">
         <div class="container">
             <div class="title-area">
-                <h2 style="color: #158390;">Sistem Pengelolaan Gudang</h2>
-                <p class="texte-center text-uppercase">
-                    Sistem Pengelolaan Gudang kami meliputi keseluruhan proses dari  Shipping, Receiving, Putaway, Movement, dan Packing. Sistem ini menyediakan visibilitas yang realtime dan akurat pada proses transaksi dan inventarisasi stok.                         
+                <h2 style="color: #158390; font-family:'sui';">Sistem Pengelolaan Gudang</h2>
+                <p class="texte-center text-uppercase" style="font-family:roboto">
+                Sistem Pengelolaan Gudang kami meliputi keseluruhan proses dari  Shipping, Receiving, Putaway, Movement, dan Packing. Sistem ini menyediakan visibilitas yang realtime dan akurat pada proses transaksi dan inventarisasi stok.                         
                 </p>
                 <!-- <p class="description"> 
                     <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Simple and straight forward UI/UX &nbsp; 
@@ -256,12 +280,36 @@
         </div>
     </div>
 
-    <div class="section section-header">
-        <div class="parallax">
+    <!-- display product -->
+    <div class="section">
+            <div class="container">
+                <div class="carousel">
+                        
+        
+                        <div class="carousel-item carousel-item-product" >
+                                    <img style="height: auto;" alt="..." src="assets/img/wms 1.png"/>
+                        </div>
+                        <div class="carousel-item carousel-item-product" >
+                                    <img style="height: auto;" alt="..." src="assets/img/wms 2.png"/>
+                        </div>
+                        <div class="carousel-item carousel-item-product" >
+                                    <img style="height: auto;" alt="..." src="assets/img/wms 3.png"/>
+                        </div>
+        
+                    <!-- //PREV -->
+                    <div class="next-item-cor-pr">
+                            <a href="Previo" class="movePrevCarousel middle-indicator-text content-indicator l-b-pre-pr"><i class="fa fa-angle-left fa-3x grey-muda"></i></a>
+                    
+                            <a href="Siguiente" class=" moveNextCarousel middle-indicator-text content-indicator r-b-nex-pr"><i class="fa fa-angle-right fa-3x grey-muda"></i></a>
+                    
+                    </div> 
+                </div>
+        <!-- <div class="parallax">
             <div class="image"
                 style="background-image: url('assets/img/Wms.png');">
             </div>
-        </div>
+        </div> -->
+            </div>
     </div>
 
     <div class="section section-header">
@@ -274,17 +322,17 @@
                     <div class="col-xl-2"></div>
                     <div class="col-xl-6">
                         <div class="text-area" style="margin-left: 30%;">
-                            <h3 style="color: white;">Kapabilitas</h3>
-                            <h5 style="color: white;">
+                            <h2 style="color: white;">Kapabilitas</h2>
+                            <h4 style="color: white;">
                                 <i class="fa fa-check-circle"></i> UI/UX yang sederhana dan mudah dioperasikan <br>
                                 <i class="fa fa-check-circle"></i> Dasbor status order <br>
                                 <i class="fa fa-check-circle"></i> Kapabilitas untuk menggunggah massal <br>
                                 <i class="fa fa-check-circle"></i> Kapabilitas untuk terhubung dengan lebih dari satu gudang dan kanal <br>
                                 <i class="fa fa-check-circle"></i> Koneksi ke 3PL dengan sistem API (application program interface) untuk mengelola order dan transport <br>
                                 <i class="fa fa-check-circle"></i> Memberikan informasi realtime untuk inventaris dan stok yang menipis yang memudahkan klien dalam: <br>
-                                1. Memahami heatmap: di mana SKU (stock keeping unit) bergerak paling cepat maupun lambat, memberikan indikasi performa penjualan terbaik dan terburuk sehingga perbaikan bisa dilakukan
-                                2. Perencanaan inventaris: pengisian ulang inventaris dan pengelolaan stok mati
-                            </h5>
+                                &nbsp;&nbsp; 1. Memahami heatmap: di mana SKU (stock keeping unit) bergerak paling cepat maupun lambat, <br> &nbsp;&nbsp;&nbsp; &nbsp;memberikan indikasi performa penjualan terbaik dan terburuk sehingga perbaikan bisa dilakukan <br>
+                                &nbsp;&nbsp; 2.  Perencanaan inventaris: pengisian ulang inventaris dan pengelolaan stok mati <br>
+                            </h4>
                             <button class="btn btn-fill btn-sm btn-white">JOIN US NOW</button>
                         </div>
                     </div>
@@ -294,14 +342,14 @@
         </div>
     </div>
 
-    <footer class="footer footer-big footer-color-gray">
+    <!-- <footer class="footer footer-big footer-color-gray">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="info">
                         <h4 class="title" style="color: #158390;">TENTANG HAISTAR</h4>
                         <p class="text-justify" style="color: #158390;">
-                            Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
+                        Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
                         </p><br>
                     </div>
 
@@ -338,7 +386,7 @@
                 </script> Haistar
             </div>
         </div>
-    </footer>
+    </footer> -->
 
 </body>
 

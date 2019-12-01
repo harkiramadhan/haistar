@@ -58,13 +58,13 @@
                             <a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img height="25px" src="./assets/img/icon_youtube.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="beranda.php"><strong>ID</strong></a>
+                            <a style="color: #104C66" href="servis.php"><strong>ID</strong></a>
                         </li>
                         <li>
                             <a href="beranda.php"><img height="25px" src="./assets/img/i.png"></a>
                         </li>
                         <li>
-                            <a style="color: #104C66" href="index.php"><strong>EN</strong></a>
+                            <a style="color: #104C66" href="service.php.php"><strong>EN</strong></a>
                         </li>
                     </ul>
                 </div>
@@ -325,12 +325,14 @@
                         <div class="text-area" style="margin-left: 30%;">
                             <h2 style="color: white;">Capability</h2>
                             <h4 style="color: white;">
-                                <i class="fa fa-check-circle"></i> Simple Straight Forward UI/UX <br>
-                                <i class="fa fa-check-circle"></i> Order Status Dashboard <br>
-                                <i class="fa fa-check-circle"></i> Mass Upload Capability <br>
-                                <i class="fa fa-check-circle"></i> API System <br>
-                                <i class="fa fa-check-circle"></i> Real Time Inventory Check <br>
-                                <i class="fa fa-check-circle"></i> Minimum Stock Awarness <br>
+                                <i class="fa fa-check-circle"></i> Simple and straight forward UI/UX <br>
+                                <i class="fa fa-check-circle"></i> Order status dashboard <br>
+                                <i class="fa fa-check-circle"></i> Mass upload capability <br>
+                                <i class="fa fa-check-circle"></i> Multi warehouse and multi channel capability <br>
+                                <i class="fa fa-check-circle"></i> Connection to 3PL: API system for order and transport management <br>
+                                <i class="fa fa-check-circle"></i> Realtime inventory check & minimum stock alert that help client in: <br>
+                                &nbsp;&nbsp;1. Understanding heatmap: fast and slow moving SKUs (Stock Keeping Unit) indicating best <br>  &nbsp;&nbsp; &nbsp;&nbsp;and worst sales performance for future improvement <br>
+                                &nbsp;&nbsp;2. Inventory planning: inventory replenishment and dead stock management<br>
                             </h4>
                             <button class="btn btn-fill btn-sm btn-white">JOIN US NOW</button>
                         </div>
@@ -341,7 +343,7 @@
         </div>
     </div>
 
-    <footer class="footer footer-big footer-color-gray">
+    <!-- <footer class="footer footer-big footer-color-gray">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -385,7 +387,7 @@
                 </script> Haistar
             </div>
         </div>
-    </footer>
+    </footer> -->
 
 </body>
 

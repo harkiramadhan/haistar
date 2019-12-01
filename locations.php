@@ -502,7 +502,7 @@
         </div>
     </div>
 
-    <footer class="footer footer-big footer-color-gray">
+    <!-- <footer class="footer footer-big footer-color-gray">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -546,7 +546,7 @@
                 </script> Haistar
             </div>
         </div>
-    </footer>
+    </footer> -->
 </body>
 
 <!--   core js files    -->

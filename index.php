@@ -93,7 +93,7 @@
             <div class="container">
                 <div class="content">
                     <div class="title-area-2">
-                        <h2 class="title-modern" style="font-family: sui generis free;"><strong><br><br>We Help Grow Your E-Commerce <br> Business With No Hassle</strong></h2>
+                    <h2 class="title-modern" style="margin-top:5%; font-family: sui generis free; font-size:22px">We Help Grow Your E-Commerce <br> Business With No Hassle</strong></h2>
                         <p style="font-size: medium; text-transform: none; font-family: roboto;">A Jakarta-based e-logistics solutions company equipped with experienced management team in the industry, warehouses <br> in five different cities, integrated warehouse management system, and <br> industry-standard business process
                             and infrastructure, Haistar aims to <br> ease your way in scaling up your business.</p>
                         <p style="font-size: medium; text-transform: none; font-family: roboto;"> Whether you’re just starting, in the middle of growing, or getting too big still be independent, we can adjust and provide to your specific needs.
@@ -304,7 +304,7 @@
         </div>
     </div>
 
-    <footer class="footer footer-big footer-color-gray">
+    <!-- <footer class="footer footer-big footer-color-gray">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -348,7 +348,7 @@
                 </script> Haistar
             </div>
         </div>
-    </footer>
+    </footer> -->
 
 </body>
 

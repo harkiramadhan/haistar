@@ -30,7 +30,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="beranda.php" class="navbar-brand">
+                <a href="index.php" class="navbar-brand">
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
@@ -64,67 +64,68 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
-                            <a href="index.php" style="color: #104C66">Tentang Haistar</a>
+                            <a href="beranda.php" style="color: #104C66">Tentang Haistar</a>
                         </li>
                         <li >
-                            <a href="service.php" style="color: #104C66">Layanan</a>
+                            <a href="servis.php" style="color: #104C66">Layanan</a>
                         </li>
                         <li>
-                            <a href="why.php" style="color: #104C66">Mengapa Haistar?</a>
+                            <a href="mengapa.php" style="color: #104C66">Mengapa Haistar?</a>
                         </li>
                         <li >
-                            <a href="client.php" style="color: #104C66">Klien & Partner</a>
+                            <a href="klien.php" style="color: #104C66">Klien & Partner</a>
                         </li>
                         <li class="active">
-                            <a href="locations.php" style="color: #104C66">Lokasi</a>
+                            <a href="lokasi.php" style="color: #104C66">Lokasi</a>
                         </li>
                         <li>
-                            <a href="contact_us.php" style="color: #104C66">Hubungi Kami</a>
+                            <a href="hubungi_kami.php" style="color: #104C66">Hubungi Kami</a>
                         </li>
                     </ul>
                 </div>
             </div>
     </nav>
 
-    <div class="section section-header">
-        <div class="parallax" style="margin-top: 50px;">
-            <div class="image" style="background-image: url('assets/img/indo.png');">
-                <div id="jakarta-spot">
-                    <button type="button" class="spot" onclick="jakartaShow()"></button>
+    <div class="section section-header" style="margin-top:100px;">
+        <div class="container">
+            <div class="title-area">
+                <h2 class="title-modern" style="font-family: sui generis free; color: #104C66"><strong><br><br><br>Lokasi Warehouse</strong></h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="parallax">
+            <div class="image" style="background-image: url('assets/img/indo.png'); margin-top: 50px">
+                 <div id="jakarta-spot">
+                    <button type="button" class="spot" onmouseenter="jakartaShow()" onclick="jakartaShow()"></button>
                 </div>
                 <div id="bandung-spot">
-                    <button type="button" class="spot" onclick="bandungShow()"></button>
+                    <button type="button" class="spot" onmouseenter="bandungShow()" onclick="bandungShow()"></button>
                 </div>
                 <div id="surabaya-spot">
-                    <button type="button" class="spot" onclick="surabayaShow()"></button>
+                    <button type="button" class="spot" onmouseenter="surabayaShow()" onclick="surabayaShow()"></button>
                 </div>
                 <div id="makassar-spot">
-                    <button type="button" class="spot" onclick="makassarShow()"></button>
+                    <button type="button" class="spot" onmouseenter="makassarShow()" onclick="makassarShow()"></button>
                 </div>
                 <div id="palembang-spot">
-                    <button type="button" class="spot" onclick="palembangShow()"></button>
+                    <button type="button" class="spot" onmouseenter="palembangShow()" onclick="palembangShow()"></button>
                 </div>
                 <div id="jakarta">
                     <img src="./assets/img/Arrow_JKT.png"/>
                 </div>
                 <div id="bandung">
-                        <img src="./assets/img/Arrow_BDG.png"/>
-                    </div>
+                    <img src="./assets/img/Arrow_BDG.png"/>
+                </div>
                 <div id="surabaya">
-                        <img src="./assets/img/Arrow_SBY.png"/>
-                    </div>
-                    <div id="palembang">
-                            <img src="./assets/img/Arrow_PLB.png"/>
-                        </div>
-                        <div id="makassar">
-                                <img src="./assets/img/Arrow_MKS.png"/>
-                            </div>
-                <div class="container ware-loc">
-                    <div class="content">
-                        <div class="title-area-3" style="color: black;">
-                            <h2 class="title-modern text-uppercase" style="color: #104C66"><strong>Warehouse Locations</strong></h2>
-                        </div>
-                    </div>
+                    <img src="./assets/img/Arrow_SBY.png"/>
+                </div>
+                <div id="palembang">
+                    <img src="./assets/img/Arrow_PLB.png"/>
+                </div>
+                <div id="makassar">
+                    <img src="./assets/img/Arrow_MKS.png"/>
                 </div>
             </div>
         </div>
@@ -140,10 +141,10 @@
             <div class="content">
                 <ul class="nav nav-text" role="tablist">
                     <li class="active" id="main-button">
-                        <a href="#main" role="tab" data-toggle="tab" class="btn btn-default blue" onclick="jakartaShow()">Main Fuflfillment Center</a>
+                        <a href="#main" role="tab" data-toggle="tab" class="btn btn-default blue" onclick="jakartaShow()">Fulfillment Center Utama</a>
                     </li>
                     <li id="mini-button">
-                        <a href="#mini" role="tab" data-toggle="tab" class="btn btn-default blue" onclick="makassarShow()">Mini Fuflfillment Center</a>
+                        <a href="#mini" role="tab" data-toggle="tab" class="btn btn-default blue" onclick="makassarShow()">Fulfillment Center Pendukung</a>
                     </li>
                 </ul>
             </div>
@@ -155,7 +156,7 @@
             <div class="section section-our-clients-freebie">
                 <div class="container">
                     <div class="title-area" style="color: black;">
-                        <h2 class="title-modern text-uppercase"><strong>Fulfillment Center Utama</strong></h2>
+                        <h2 class="title-modern" style="font-family: sui generis free; color: #158390"><strong>Fulfillment Center Utama</strong></h2>
                     </div>
 
                     <ul class="nav nav-text" role="tablist">
@@ -361,7 +362,7 @@
             <div class="section section-our-clients-freebie">
                 <div class="container">
                     <div class="title-area" style="color: black;">
-                        <h2 class="title-modern text-uppercase"><strong>Mini Fuflfillment Center</strong></h2>
+                        <h2 class="title-modern" style="font-family: sui generis free; color: #158390"><strong>Fulfillment Center Pendukung</strong></h2>
                     </div>
 
                     <ul class="nav nav-text" role="tablist">
@@ -501,14 +502,14 @@
         </div>
     </div>
 
-    <footer class="footer footer-big footer-color-gray">
+    <!-- <footer class="footer footer-big footer-color-gray">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="info">
-                        <h4 class="title" style="color: #158390;">ABOUT US</h4>
+                        <h4 class="title" style="color: #158390;">TENTANG HAISTAR</h4>
                         <p class="text-justify" style="color: #158390;">
-                            Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
+                        Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
                         </p><br>
                     </div>
 
@@ -545,7 +546,7 @@
                 </script> Haistar
             </div>
         </div>
-    </footer>
+    </footer> -->
 </body>
 
 <!--   core js files    -->

@@ -29,7 +29,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="beranda.php" class="navbar-brand">
+                <a href="index.php" class="navbar-brand">
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
@@ -89,7 +89,7 @@
     <div class="section section-header">
         <div class="parallax">
             <div class="image"
-                style="background-image: url('assets/img/Why.png')">
+                style="background-image: url('assets/img/Whyindo.png')">
             </div>
         </div>
     </div>
@@ -98,9 +98,10 @@
         <div class="container">
             <div class="title-area">
                     <hr  style="width: 9%; border-width: 5px; margin-left: 40%; color: #158390; border-top: 5px solid #158390;" />
-                <h2 style="color: #158390;">Kenapa Kita Harus Berkolaborasi?</h2>
-                <p class="texte-center text-uppercase">
-                    Sebagai tim yang terdiri dari para profesional yang sudah berpengalaman dalam bidang logistik dan pemberdayaan e-commerce, setiap harinya kami berusaha untuk memberikan solusi terbaik bagi masalah apapun yang mungkin kerap terjadi dalam bisnis Anda. Kami mengerti kompleksitasnya, sehingga kami pun beroperasi sesuai dengan standar industri dan melakukan evaluasi dan perbaikan secara reguler.
+                <h2 style="font-family: sui generis free; color: #158390; font-size:30px">Kenapa Kita Harus Berkolaborasi?</h2>
+                
+                <p class="texte-center text-uppercase" style="font-family:roboto">
+                Sebagai tim yang terdiri dari para profesional yang sudah berpengalaman dalam bidang logistik dan pemberdayaan e-commerce, setiap harinya kami berusaha untuk memberikan solusi terbaik bagi masalah apapun yang mungkin kerap terjadi dalam bisnis Anda. Kami mengerti kompleksitasnya, sehingga kami pun beroperasi sesuai dengan standar industri dan melakukan evaluasi dan perbaikan secara reguler.
                 </p>
             </div>
             <div class="row">
@@ -110,9 +111,9 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1> <img style="max-height: 70px;" src="assets/img/time.png"> </h1>
-                                <h3 class="title" style="color: #158390;">Kami Menjunjung Waktu dan Produktivitas</h3>
+                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px">Kami Menjunjung Waktu dan Produktivitas</h3>
                                 <p class="small-text"></p>
-                                <p class="description text-justify">Kami sangat berkomitmen dalam memberikan yang terbaik, sesuai dengan ekspektasi Anda. Kami fokus pada kinerja yang efisien, tepat waktu, dan produktif. Kami bekerja sesuai dengan standar Service Level Agreement (SLA) dan Key Performance Indicators (KPI) yang terukur untuk menghasilkan hasil yang nyata dan unggul.</p>
+                                <p class="description text-justify"  style="font-family:roboto">Kami sangat berkomitmen dalam memberikan yang terbaik, sesuai dengan ekspektasi Anda. Kami fokus pada kinerja yang efisien, tepat waktu, dan produktif. Kami bekerja sesuai dengan standar Service Level Agreement (SLA) dan Key Performance Indicators (KPI) yang terukur untuk menghasilkan hasil yang nyata dan unggul.</p>
                             </div>
                             <div class="col-md-1"></div>
                         </div>
@@ -124,10 +125,10 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1> <img style="max-height: 70px;" src="assets/img/task.png"></h1>
-                                <h3 class="title" style="color: #158390;">Perencanaan Inventaris yang Lebih Baik</h3>
+                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px">Perencanaan Inventaris yang Lebih Baik</h3>
                                 <p class="small-text"></p>
-                                <p class="description text-justify">Bekerjasama dengan kami berarti 100% transparansi. Transparansi akan keseluruhan proses bisnis.
-                                    Transparansi biaya, dan transparansi dan akurasi stok inventaris. Sistem kami akan memberikan peringatan pada Anda untuk stok yang menipis dan stok mati agar dapat membuat perencanaan dan pengisian ulang inventaris yang lebih baik.</p>
+                                <p class="description text-justify"  style="font-family:roboto">Bekerjasama dengan kami berarti 100% transparansi. Transparansi akan keseluruhan proses bisnis.
+                                   Transparansi biaya, dan transparansi dan akurasi stok inventaris. Sistem kami akan memberikan peringatan pada Anda untuk stok yang menipis dan stok mati agar dapat membuat perencanaan dan pengisian ulang inventaris yang lebih baik.</p>
                             </div>
                             <div class="col-md-1"></div>
                         </div>
@@ -139,9 +140,9 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1><img style="max-height: 70px;" src="assets/img/integrated.png"></h1>
-                                <h3 class="title" style="color: #158390;">Sistem Terintegrasi, Aksesibilitas Menyeluruh, Visibilitas Realtime, Komunikasi</h3>
+                                <h3 class="title" style="color: #158390;font-family: sui generis free; font-size:15px">Sistem Terintegrasi, Aksesibilitas Menyeluruh, Visibilitas Realtime, Komunikasi</h3>
                                 <p class="small-text"></p>
-                                <p class="description text-justify">Sistem kami memungkinkan Anda untuk mengakses Order Management System (OMS), Warehouse Management System (WMS), dan Transport Management System (TMS) pada satu dashboard. Integrasi Application Programming Interface (API) kami menghubungkan antara marketplace, sistem Anda, dan sistem kami dengan visibilitas yang menyeluruh. Selain itu, kami juga mempunyai kebijakan di mana kami harus cepat memberikan respon ketika berkomunikasi dengan marketplace dan Anda.</p>
+                                <p class="description text-justify"  style="font-family:roboto">Sistem kami memungkinkan Anda untuk mengakses Order Management System (OMS), Warehouse Management System (WMS), dan Transport Management System (TMS) pada satu dashboard. Integrasi Application Programming Interface (API) kami menghubungkan antara marketplace, sistem Anda, dan sistem kami dengan visibilitas yang menyeluruh. Selain itu, kami juga mempunyai kebijakan di mana kami harus cepat memberikan respon ketika berkomunikasi dengan marketplace dan Anda.</p>
                             </div>
                             <div class="col-md-1"></div>
                         </div>
@@ -156,9 +157,9 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1><img style="max-height: 70px;" src="assets/img/data mining.png"></i></h1>
-                                <h3 class="title" style="color: #158390;">Penggalian Data, Wawasan Perilaku Pelanggan, Perkiraan Penjualan yang Lebih Baik</h3>
+                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px">Penggalian Data, Wawasan Perilaku Pelanggan, Perkiraan Penjualan yang Lebih Baik</h3>
                                 <p class="small-text"></p>
-                                <p class="description text-justify">Akses untuk melihat keseluruhan proses bisnis secara realtime berarti akan ada banyak sekali data yang bisa digali. Tim kami akan menganalisa dan menerjemahkan data ini menjadi sebuah laporan komprehensif yang mencakup informasi mengenai perilaku pelanggan dari Stock Keeping Unit (SKU) Anda yang cepat habis, lama habis, heatmap penjualan, serta rekomendasi best practice pemasaran yang bisa Anda lakukan. Dengan ini Anda bisa fokus pada pengembangan inti bisnis Anda dan membuat perkiraan penjualan serta pendekatan pemasaran yang lebih tepat untuk menghindari kerugian.</p>
+                                <p class="description text-justify"  style="font-family:roboto">Akses untuk melihat keseluruhan proses bisnis secara realtime berarti akan ada banyak sekali data yang bisa digali. Tim kami akan menganalisa dan menerjemahkan data ini menjadi sebuah laporan komprehensif yang mencakup informasi mengenai perilaku pelanggan dari Stock Keeping Unit (SKU) Anda yang cepat habis, lama habis, heatmap penjualan, serta rekomendasi best practice pemasaran yang bisa Anda lakukan. Dengan ini Anda bisa fokus pada pengembangan inti bisnis Anda dan membuat perkiraan penjualan serta pendekatan pemasaran yang lebih tepat untuk menghindari kerugian.</p>
                             </div>
                             <div class="col-md-1"></div>
                         </div>
@@ -170,9 +171,9 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1><img style="max-height: 70px;" src="assets/img/fleksible.png"></h1>
-                                <h3 class="title" style="color: #158390;">Sumber Daya yang Fleksibel dan Dapat Disesuaikan</h3>
+                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px">Sumber Daya yang Fleksibel dan Dapat Disesuaikan</h3>
                                 <p class="small-text"></p>
-                                <p class="description text-justify">Fluktuasi volume dapat menjadi sumber resiko dan masalah untuk pengelolaan sumber daya manusia Anda. Dengan wawasan dan informasi yang disebut di atas, kami dapat membantu Anda menyesuaikan sumber daya Anda sesuai dengan masa penjualan tinggi maupun rendah dan merekomendasikan perencanaan Full Time Employee (FTE) yang ideal.</p>
+                                <p class="description text-justify"  style="font-family:roboto">Fluktuasi volume dapat menjadi sumber resiko dan masalah untuk pengelolaan sumber daya manusia Anda. Dengan wawasan dan informasi yang disebut di atas, kami dapat membantu Anda menyesuaikan sumber daya Anda sesuai dengan masa penjualan tinggi maupun rendah dan merekomendasikan perencanaan Full Time Employee (FTE) yang ideal.</p>
                             </div>
                             <div class="col-md-1"></div>
                         </div>
@@ -184,9 +185,9 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1><img style="max-height: 70px;" src="assets/img/warehouse.png"></h1>
-                                <h3 class="title" style="color: #158390;">Multi Fulfillment Center</h3>
+                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px">Multi Fulfillment Center</h3>
                                 <p class="small-text"></p>
-                                <p class="description text-justify">Kami mempunyai gudang-gudang utama di Jakarta dan gudang-gudang pendukung di kota-kota lainnya di Indonesia. Kami juga berkolaborasi dengan sebanyak mungkin partner fasilitas di kota-kota lain yang space gudangnya bisa disesuaikan dengan kebutuhan Anda, sekecil apapun. Kami dapat membantu Anda menjangkau pasar yang lain/baru dan menjadi lebih dekat ke pembeli. Skema ini memungkinkan Anda untuk mengoptimalkan biaya logistik dan melakukan model online to offline (O2O).</p>
+                                <p class="description text-justify" style="font-family:roboto">Kami mempunyai gudang-gudang utama di Jakarta dan gudang-gudang pendukung di kota-kota lainnya di Indonesia. Kami juga berkolaborasi dengan sebanyak mungkin partner fasilitas di kota-kota lain yang space gudangnya bisa disesuaikan dengan kebutuhan Anda, sekecil apapun. Kami dapat membantu Anda menjangkau pasar yang lain/baru dan menjadi lebih dekat ke pembeli. Skema ini memungkinkan Anda untuk mengoptimalkan biaya logistik dan melakukan model online to offline (O2O).</p>
                             </div>
                             <div class="col-md-1"></div>
                         </div>
@@ -196,14 +197,14 @@
         </div>
     </div>
 
-    <footer class="footer footer-big footer-color-gray">
+    <!-- <footer class="footer footer-big footer-color-gray">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="info">
-                        <h4 class="title" style="color: #158390;">ABOUT US</h4>
+                        <h4 class="title" style="color: #158390;">TENANH HAISTAR</h4>
                         <p class="text-justify" style="color: #158390;">
-                            Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
+                        Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
                         </p><br>
                     </div>
 
@@ -240,7 +241,7 @@
                 </script> Haistar
             </div>
         </div>
-    </footer>
+    </footer> -->
 
 </body>
 

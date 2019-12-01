@@ -29,7 +29,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="beranda.php" class="navbar-brand">
+                <a href="index.php" class="navbar-brand">
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
@@ -93,10 +93,10 @@
             <div class="container">
                 <div class="content">
                     <div class="title-area-2">
-                        <h2 class="title-modern"><strong><br><br><br>Hilangkan Kerumitan Dalam Menumbuhkan Bisnis  <br>  E-commerce Anda Dengan Haistar</strong></h2>
-                        <p style="font-size: medium;">Haistar adalah perusahaan solusi e-logistic yang memiliki tim manajemen berpengalaman di industri, gudang di lima kota, manajemen sistem gudang yang terintegrasi, dan infrastruktur serta proses bisnis yang sesuai dengan standar industri.</p>
-                        <p style="font-size: medium;"> 
-                            Haistar bertujuan menjadi rekan yang memudahkan Anda dalam memperbesar skala bisnis, apapun ukurannya.  Baik Anda baru memulai, <br> sedang bertumbuh, atau justru bisnis Anda sudah terlalu <br>   besar untuk masih ditangani sendiri,  kami dapat <br> menyesuaikan solusi kami dengan kebutuhan spesifik Anda.
+                        <h2 class="title-modern" style="margin-top:5%; font-family: sui generis free; font-size:22px"><strong><br><br>Hilangkan Kerumitan Dalam Menumbuhkan Bisnis <br> E-commerce Anda Dengan Haistar</strong></h2>
+                        <p style="font-size: medium; text-transform: none; font-family: roboto;">Haistar adalah perusahaan solusi e-logistic yang memiliki tim manajemen berpengalaman di industri, gudang di lima kota, manajemen sistem gudang yang terintegrasi, dan infrastruktur serta proses bisnis yang sesuai dengan standar industri.</p>
+                        <p style="font-size: medium; text-transform: none; font-family: roboto;"> 
+                             Haistar bertujuan menjadi rekan yang memudahkan Anda dalam memperbesar skala bisnis, apapun ukurannya. Baik Anda baru memulai, sedang bertumbuh, atau justru bisnis Anda sudah terlalu besar untuk masih ditangani sendiri, kami dapat menyesuaikan solusi kami dengan kebutuhan spesifik Anda.
                         </p>
                     </div>
                 </div>
@@ -129,23 +129,21 @@
         <div class="container">
             <div class="title-area">
                     <hr  style="width: 9%; border-width: 5px; margin-left: 45%; color: #158390; border-top: 5px solid #158390;" />
-                <h2 style="color: #158390;">Tentang Kami</h2>
+                <h2 style="font-family:'sui'; color: #158390;">Tentang Kami</h2>
                 
             </div>
             <div class="row">
                 <div class="col-md-6">
-                    <p class="text-justify">
-                        Berdiri sejak April 2018, Haistar bertujuan untuk membantu para pemilik bisnis dalam memperbesar skala bisnis mereka dengan mengeliminasi berbagai hambatan seperti space, tenaga kerja, dan isu sistem, melalui proses bisnis yang mengikuti standar industri dan sistem manajemen gudang yang terintegrasi.
-
+                    <p class="text-justify" style="font-family: roboto; font-size: medium;">
+                    Berdiri sejak April 2018, Haistar bertujuan untuk membantu para pemilik bisnis dalam memperbesar skala bisnis mereka dengan mengeliminasi berbagai hambatan seperti space, tenaga kerja, dan isu sistem, melalui proses bisnis yang mengikuti standar industri dan sistem manajemen gudang yang terintegrasi.
                     </p>
 
-                    <p class="text-justify">
-                       
-                        Haistar fokus pada berbagai skala bisnis. Mulai dari toko online di media sosial, penjual di marketplace, e-commerce, sampai toko online resmi brand yang ingin memperbesar operasi dan mengelola volume order yang lebih besar.
+                    <p class="text-justify" style="font-family: roboto; font-size: medium;">
+                    Haistar fokus pada berbagai skala bisnis. Mulai dari toko online di media sosial, penjual di marketplace, e-commerce, sampai toko online resmi brand yang ingin memperbesar operasi dan mengelola volume order yang lebih besar.
                     </p>
 
-                    <p class="text-justify">
-                        Haistar akan mengelola aktivitas operasional klien agar klien dapat lebih fokus dalam memperluas permintaan bisnis dan mengembangkan produk.
+                    <p class="text-justify" style="font-family: roboto; font-size: medium;">
+                    Haistar akan mengelola aktivitas operasional klien agar klien dapat lebih fokus dalam memperluas permintaan bisnis dan mengembangkan produk.
                     </p>
                 </div>
                 <div class="col-md-6">
@@ -159,31 +157,31 @@
 
     <div class="section">
         <div class="parallax">
-            <div class="image" style="background-image: url('assets/img/Rocket.png')">
+            <div class="image" style="background-image: url('assets/img/visi.png')">
             </div>
             <div class="container">
                 <div class="title-area">
-                    <h2  style="color: #158390;">Visi</h2>
+                    <h2  style="font-family:'sui'; color: #158390;">Visi</h2>
                     <p class="text-justify" style="font-size: medium;">
-                        Menjadi partner teknologi regional pilihan yang dikenal karena jaringan logistik dan keahlian industri yang kuat bagi para pemilik Usaha Kecil Menengah (UKM) dan brand yang ingin memperbesar dan mempercepat pertumbuhan bisnis mereka di Indonesia maupun Asia Tenggara.
+                    Menjadi partner teknologi regional pilihan yang dikenal karena jaringan logistik dan keahlian industri yang kuat bagi para pemilik Usaha Kecil Menengah (UKM) dan brand yang ingin memperbesar dan mempercepat pertumbuhan bisnis mereka di Indonesia maupun Asia Tenggara.
                     </p>
                 </div>
                 <div class="title-area mt-3">
-                    <h2  style="color: #158390;">Misi</h2>
+                    <h2  style="font-family:'sui'; color: #158390;">Misi</h2>
                     <p class="text-justify" style="font-size: medium;">
-                        Menyediakan solusi rantai pasokan bagi pemilik bisnis tanpa menyulitkan: masuk akal dalam biaya, pengalaman pengguna yang mulus, dan ekosistem logistik yang kuat namun fleksibel.
+                    Menyediakan solusi rantai pasokan bagi pemilik bisnis tanpa menyulitkan: masuk akal dalam biaya, pengalaman pengguna yang mulus, dan ekosistem logistik yang kuat namun fleksibel.
                     </p>
                     <p class="text-justify" style="font-size: medium;">
-                        Proses bisnis dan infrastruktur yang sesuai standar kelayakan industri
+                    Proses bisnis dan infrastruktur yang sesuai standar kelayakan industri
                     </p>
                     <p class="text-justify" style="font-size: medium;">
                         Sistem yang terintegrasi, mudah digunakan, serta memberikan visibilitas dan transparansi dalam memonitor kegiatan operasional klien
                     </p>
                     <p class="text-justify" style="font-size: medium;">
-                        Investasi yang masuk akal dan teroptimalisasi untuk memperbesar skala usaha ketika memasuki dan menumbuhkan bisnis e-commerce. Haistar memiliki fleksibilitas yang memungkinkan pemilik bisnis untuk berkolaborasi dengan partner Haistar di kota manapun di Indonesia dan Asia Tenggara sehingga biaya yang dikeluarkan lebih efisien dan digunakan secara optimal
+                    Investasi yang masuk akal dan teroptimalisasi untuk memperbesar skala usaha ketika memasuki dan menumbuhkan bisnis e-commerce. Haistar memiliki fleksibilitas yang memungkinkan pemilik bisnis untuk berkolaborasi dengan partner Haistar di kota manapun di Indonesia dan Asia Tenggara sehingga biaya yang dikeluarkan lebih efisien dan digunakan secara optimal
                     </p>
                     <p class="text-justify" style="font-size: medium;">
-                        Membentuk ekosistem logistik baru di mana pemilik bisnis, Haistar, dan para stakeholder yang terlibat bersinergi dan tumbuh bersama-sama
+                    Membentuk ekosistem logistik baru di mana pemilik bisnis, Haistar, dan para stakeholder yang terlibat bersinergi dan tumbuh bersama-sama
                     </p>
                 </div>
             </div>
@@ -199,99 +197,95 @@
                 <div class="content">
                     <div class="row">
                         <div class="title-area">
-                            <h2 class="text-white" style="color: #104C66;">Tim Manajemen</h2>
+                            <h2 class="text-white" style="font-family:'sui'; color: #0f525e;">Tim Manajemen</h2>
                         </div>
                     </div>
 
                     <div class="team">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="card card-member">
+                                <div class="card card-member" style="box-shadow:none; background-color: #F5F5F5">
                                     <div class="row">
-                                        <div class="col-md-2">
-                                            <div class="content">
-                                                <div class="avatar avatar-danger">
-                                                    <img alt="..." class="img-circle" src="./assets/img/leadership/Screenshot at 2019-11-16 12-14-40.png" />
+                                        <div class="col-md-3">
+                                            <div>
+                                                <div style="margin-left: 10%;  margin-top: 10%;">
+                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-14-40.png" />
                                                 </div>
-                                                <p style="color: #0f525e;"><b>Dony Maya Wardhana</b></p>
-                                                <p class="small-text">Chief Executive Officer</p>
+                                                <h4 style="color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Dony Maya Wardhana <p>Chief Executive Officer</p></b></h4>
                                             </div>
                                         </div>
-                                        <div class="col-md-10 text-left" style="padding-top: 50px;">
-                                            <p class="description">Donny memiliki lebih dari 22 tahun pengalaman di industri supply chain, logistik, dan pemberdayaan e-commerce dengan fokus pada Operations dan Sales. Donny adalah seorang pemikir strategis dan pemimpin yang visioner dengan kemampuan analisa intelejensia pasar yang kuat. Beberapa perusahaan tempat Donny menjadi bagian dari tim manajemen senior sebelum Haistar adalah aCommerce, Quantum Solutions - Singapore Post, JNE, UPS, TNT, dan DHL Express.</p>
+                                        <div class="col-md-9 text-left" style="padding-top: 50px;">
+                                            <p style="font-family: roboto; font-size: medium;">Donny memiliki lebih dari 22 tahun pengalaman di industri supply chain, logistik, dan pemberdayaan e-commerce dengan fokus pada Operations dan Sales. Donny adalah seorang pemikir strategis dan pemimpin yang visioner dengan kemampuan analisa intelejensia pasar yang kuat. Beberapa perusahaan tempat Donny menjadi bagian dari tim manajemen senior sebelum Haistar adalah aCommerce, Quantum Solutions - Singapore Post, JNE, UPS, TNT, dan DHL Express.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="card card-member">
+                                <div class="card card-member" style="box-shadow:none; ">
                                     <div class="row">
-                                        <div class="col-md-2">
-                                            <div class="content">
-                                                <div class="avatar avatar-danger">
-                                                    <img alt="..." class="img-circle" src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-17.png" />
+                                        <div class="col-md-3">
+                                            <div>
+                                                <div style="margin-left: 10%; margin-top: 10%;">
+                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-17.png" />
                                                 </div>
-                                                <p style="color: #0f525e;"><b>Muhammad Fahrian</b></p>
-                                                <p class="small-text">Chief Commercial Officer</p>
+                                                <h4 style="color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Muhammad Fahrian</b><p>Chief Commercial Officer</p></h4>
                                             </div>
                                         </div>
-                                        <div class="col-md-10 text-left" style="padding-top: 50px;">
-                                            <p class="description">Fahrian memiliki 12 tahun pengalaman dalam bidang manajemen konsultasi, pengembangan bisnis, pemberdayaan e-commerce, serta pengembangan dan implementasi teknologi. Sebelumnya Fahrian pernah bekerja untuk Accenture dan aCommerce dan merupakan Sarjana Teknologi Informatika dari Universitas Indonesia.</p>
+                                        <div class="col-md-9 text-left" style="padding-top: 50px;">
+                                            <p style="font-family: roboto; font-size: medium;">Fahrian memiliki 12 tahun pengalaman dalam bidang manajemen konsultasi, pengembangan bisnis, pemberdayaan e-commerce, serta pengembangan dan implementasi teknologi. Sebelumnya Fahrian pernah bekerja untuk Accenture dan aCommerce dan merupakan Sarjana Teknologi Informatika dari Universitas Indonesia.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                           
                             <div class="col-md-12">
-                                <div class="card card-member">
+                                <div class="card card-member" style="box-shadow:none; "> 
                                     <div class="row">
-                                        <div class="col-md-2">
-                                            <div class="content">
-                                                <div class="avatar avatar-danger">
-                                                    <img alt="..." class="img-circle" src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-32.png" />
-                                                </div>
-                                                <p style="color: #0f525e;"><b>Rifani Budi Kristanto</b></p>
-                                                <p class="small-text">Commercial General Manager</p>
+                                        <div class="col-md-3">
+                                            <div>
+                                                <div style="margin-left: 10%; margin-top: 10%;">
+                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-32.png" />
+                                                </div > 
+                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>Commercial General Manager</p></h4>
                                             </div>
                                         </div>
-                                        <div class="col-md-10 text-left" style="padding-top: 50px;">
-                                            <p class="description">Dengan 10 tahun pengalaman di dunia edukasi, konsultasi, logistik, dan pemberdayaan e-commerce, Rifani telah membentuk keahliannya dalam bidang konsultasi, perencanaan bisnis strategis, pemasaran, dan penjualan, selain memiliki gelar S2 di bidang Pemasaran dari PPM School of Management. Rifani sebelumnya pernah bekerja di PPM Manajemen, JNE, dan aCommerce.</p>
+                                        <div class="col-md-9 text-left" style="padding-top: 50px;">
+                                            <p style="font-family: roboto; font-size: medium;">Dengan 10 tahun pengalaman di dunia edukasi, konsultasi, logistik, dan pemberdayaan e-commerce, Rifani telah membentuk keahliannya dalam bidang konsultasi, perencanaan bisnis strategis, pemasaran, dan penjualan, selain memiliki gelar S2 di bidang Pemasaran dari PPM School of Management. Rifani sebelumnya pernah bekerja di PPM Manajemen, JNE, dan aCommerce.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="card card-member">
+                                <div class="card card-member" style="box-shadow:none; ">
                                     <div class="row">
-                                        <div class="col-md-2">
-                                            <div class="content">
-                                                <div class="avatar avatar-danger">
-                                                    <img alt="..." class="img-circle" src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-41.png" />
+                                        <div class="col-md-3">
+                                            <div >
+                                                <div  style="margin-left: 10%; margin-top: 10%;">
+                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-41.png" />
                                                 </div>
-                                                <p style="color: #0f525e;"><b>Oki Hermawan</b></p>
-                                                <p class="small-text">Operational General Manager</p>
+                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>Operational General Manager</p></p>
                                             </div>
                                         </div>
-                                        <div class="col-md-10 text-left" style="padding-top: 50px;">
-                                            <p class="description">Oki memiliki kapabilitas yang kuat serta 17 tahun pengalaman dalam bidang perencanaan operasional strategis, sekaligus kepemimpinan. Oki datang dengan latar belakang pendidikan S1 Manajement Transpor STMT Trisakti sebelum masuk ke berbagai industri seperti distribusi dan ritel, e-commerce fesyen, dan pemberdayaan e-commerce. Sebelumnya Oki pernah bekerja untuk aCommerce, Zalora  Indonesia, dan Oriflame Indonesia.</p>
+                                        <div class="col-md-9 text-left" style="padding-top: 50px;">
+                                            <p style="font-family: roboto; font-size: medium;">Oki memiliki kapabilitas yang kuat serta 17 tahun pengalaman dalam bidang perencanaan operasional strategis, sekaligus kepemimpinan. Oki datang dengan latar belakang pendidikan S1 Manajement Transpor STMT Trisakti sebelum masuk ke berbagai industri seperti distribusi dan ritel, e-commerce fesyen, dan pemberdayaan e-commerce. Sebelumnya Oki pernah bekerja untuk aCommerce, Zalora  Indonesia, dan Oriflame Indonesia.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="card card-member">
+                                <div class="card card-member" style="box-shadow:none; ">
                                     <div class="row">
-                                        <div class="col-md-2">
-                                            <div class="content">
-                                                <div class="avatar avatar-danger">
-                                                    <img alt="..." class="img-circle" src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-50.png" />
+                                        <div class="col-md-3">
+                                            <div>
+                                                <div  style="margin-left: 10%; margin-top: 10%;">
+                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-50.png" />
                                                 </div>
-                                                <p style="color: #0f525e;"><b>Albertus Aditya</b></p>
-                                                <p class="small-text">Strategic Senior Manager</p>
+                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Albertus Aditya</b><p>Strategic Senior Manager</p> </h4>
                                             </div>
+                                        </br>
                                         </div>
-                                        <div class="col-md-10 text-left" style="padding-top: 50px;">
-                                            <p class="description">Aditya memiliki paduan pengalaman kerja yang unik dalam bidang freight forwarding, logistik, perbankan, dan pemberdayaan e-commerce. Semuanya dengan fokus dalam administrasi bisnis dan analisis strategis serta account management dalam 10 tahun terakhir. Aditya memilliki gelar S2 di bidang Strategi Pemasaran dari PPM School of Management dan gelar S1 Ekonomi dari Swiss German University.</p>
+                                        <div class="col-md-9 text-left" style="padding-top: 50px;">
+                                            <p style="font-family: roboto; font-size: medium;">Aditya memiliki paduan pengalaman kerja yang unik dalam bidang freight forwarding, logistik, perbankan, dan pemberdayaan e-commerce. Semuanya dengan fokus dalam administrasi bisnis dan analisis strategis serta account management dalam 10 tahun terakhir. Aditya memilliki gelar S2 di bidang Strategi Pemasaran dari PPM School of Management dan gelar S1 Ekonomi dari Swiss German University.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -303,14 +297,14 @@
         </div>
     </div>
 
-    <footer class="footer footer-big footer-color-gray">
+    <!-- <footer class="footer footer-big footer-color-gray">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="info">
                         <h4 class="title" style="color: #158390;">TENTANG HAISTAR</h4>
                         <p class="text-justify" style="color: #158390;">
-                            Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
+                        Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
                         </p><br>
                     </div>
 
@@ -347,7 +341,7 @@
                 </script> Haistar
             </div>
         </div>
-    </footer>
+    </footer> -->
 
 </body>
 
@@ -365,10 +359,4 @@
 <script type="text/javascript" src="assets/js/gaia.js"></script>
 
 <script src="assets/js/style.js"></script>
-
 </html>
-
-
-
-
-

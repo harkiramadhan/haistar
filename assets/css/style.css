@@ -7,7 +7,7 @@
 
 #jakarta-spot {
     left: 32%;
-    top: 71%;
+    top: 75%;
     position: absolute;
     z-index: 999;
 }
@@ -69,35 +69,35 @@
     z-index: 99;
     position: absolute;
     left: 31%;
-    top: 27%;
+    top: 35%;
 }
 
 #bandung {
     z-index: 99;
     position: absolute;
     left: 28%;
-    top: 29%;
+    top: 33%;
 }
 
 #surabaya {
     z-index: 99;
     position: absolute;
     left: 39%;
-    top: 29%;
+    top: 33%;
 }
 
 #palembang {
     z-index: 99;
     position: absolute;
     left: 19%;
-    top: 18%;
+    top: 21%;
 }
 
 #makassar {
     z-index: 99;
     position: absolute;
     left: 46%;
-    top: 26%;
+    top: 29%;
 }
 
 @font-face {

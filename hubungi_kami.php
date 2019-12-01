@@ -1,3 +1,16 @@
+<?php 
+    session_start();
+
+    if(isset($_POST['submit'])){
+
+        $_SESSION['pesan'] = 'Pesan Terkirim';
+        echo'<script>window.location="user.php"</script>';
+    }
+
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -29,7 +42,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="beranda.php" class="navbar-brand">
+                <a href="index.php" class="navbar-brand">
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
@@ -48,7 +61,7 @@
                             <a style="color: #104C66" href="hubungi_kami.php"><strong>ID</strong></a>
                         </li>
                         <li>
-                            <a href="beranda.php"><img height="25px" src="./assets/img/i.png"></a>
+                            <a href="hubungi_kami.php"><img height="25px" src="./assets/img/i.png"></a>
                         </li>
                         <li>
                             <a style="color: #104C66" href="contact_us.php"><strong>EN</strong></a>
@@ -100,7 +113,7 @@
             <div class="row">
                 <div class="col-md-3 text-center">
                     <h1><img style="max-height: 70px;" src="assets/img/Location.png"></h1>
-                    <h3 class="title-modern pt-5" style="color: #158390;">Head Quarter</h3>   
+                    <h3 class="title-modern pt-5" style="font-family: sui generis free; color: #158390;">Head Quarter</h3>   
                     <p class="text-justify">
                         <br>
                         Jl. Pegangsaan Dua No. KM 42, Pegangsaan Dua, Kelapa Gading  
@@ -110,18 +123,18 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <h1><img style="max-height: 70px;" src="assets/img/Call Us.png"></h1>
-                    <h3 class="title-modern pt-5" style="color: #158390;">Head Office</h3>
+                    <h3 class="title-modern pt-5" style="font-family: sui generis free; color: #158390;">Kantor Pusat</h3>
                     <br>   
                     <p class="text-center">(021) 460 42 21</p>
                 </div>
                 <div class="col-md-3 text-center">
                     <h1><img style="max-height: 70px;" src="assets/img/whatsapp.png"></h1>
-                    <h3 class="title-modern pt-5" style="color: #158390;"> Sales / Costumer Service</h3>   
+                    <h3 class="title-modern pt-5" style="font-family: sui generis free; color: #158390;"> Sales / Costumer Service</h3>   
                     <p class="text-center">+62 812 9655 5536</p>
                 </div>
                 <div class="col-md-3 text-center"> 
                     <h1><img style="max-height: 70px;" src="assets/img/Mail.png"></i></h1>
-                    <h3 class="title-modern pt-5" style="color: #158390;">Mails</h3>
+                    <h3 class="title-modern pt-5" style="font-family: sui generis free; color: #158390;">Mails</h3>
                     <br>   
                     <p class="text-center">&nbsp;&nbsp;&nbsp;&nbsp;sales@haistar.asia</p>
                 </div>
@@ -132,31 +145,31 @@
     <div class="section" style="background-color:white">
         <div class="container">
             <div class="row">
-                <form action="">
+                <form method="post" action="tambah.php">
                     <div class="col-md-6">
                         <div class="form-group">
-                            <b><input type="text" class="form-control" placeholder="Nama Depan Anda" style="background-color:#f2f2f2;"></b>
+                            <b><input type="text" name="firstname" class="form-control" placeholder="First Name" required style="background-color:#f2f2f2;"></b>
                         </div>
                         <div class="form-group">
-                            <b><input type="email" class="form-control" placeholder="E-mail Anda" style="background-color:#f2f2f2;"></b>
+                            <b><input type="email" name="email" class="form-control" placeholder="Email" required style="background-color:#f2f2f2;"></b>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
-                            <b><input type="text" class="form-control" placeholder="Nama Terakhir Anda" style="background-color:#f2f2f2;"></b>
+                            <b><input type="text" name="lastname" class="form-control" placeholder="Last Name" required style="background-color:#f2f2f2;"></b>
                         </div>
                         <div class="form-group">
-                            <b><input type="text" class="form-control" placeholder="Nomor Telepon Anda" style="background-color:#f2f2f2;"></b>
+                            <b><input type="text" name="phone" class="form-control" placeholder="Phone Number" required style="background-color:#f2f2f2;"></b>
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
-                            <b><textarea name="" id="" cols="30" rows="10" class="form-control" placeholder="Masukkan pesan Anda di sini" style="background-color:#f2f2f2;"></textarea></b>
+                            <b><textarea name="pesan" id="" cols="30" rows="10" class="form-control" placeholder="Enter Your Message Here" required style="background-color:#f2f2f2;"></textarea></b>
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
-                            <button class="btn btn-fill" style="background-color: #158390;">Kirim Pesan</button>
+                            <input type="submit" value="Kirim" class="btn btn-fill" style="background-color: #158390;"></input>
                         </div>
                     </div>
                 </form>
@@ -169,14 +182,14 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="info">
-                        <h4 class="title" style="color: #158390;">ABOUT US</h4>
+                        <h4 class="title" style="color: #158390;">TENTANG HAISTAR</h4>
                         <p class="text-justify" style="color: #158390;">
-                            Haistar is an e-logistic solutions company that aims to help business owners to scale up their businesses by eliminating space, manpower, and system barriers with Haistar's industry-standard business process and Warehouse Management System.
+                            Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
                         </p><br>
                     </div>
 
                     <div class="info">
-                        <h4 class="title" style="color: #158390;">HEAD OFFIICE</h4>
+                        <h4 class="title" style="color: #158390;">KANTOR PUSAT</h4>
                         <p class="text-justify" style="color: #158390;">
                             Jl. Pegangsaan Dua No. KM 42, Pegangsaan Dua, Kelapa Gading Jakarta Utara, DKI Jakarta 14250
                         </p>
@@ -184,7 +197,7 @@
                 </div>
                 <div class="col-md-3">
                     <div class="info">
-                        <h4 class="title" style="color: #158390;">CONTACT</h4>
+                        <h4 class="title" style="color: #158390;">KONTAK</h4>
                         <nav>
                             <ul>
                                 <li style="color: #158390;"><i class="fa fa-envelope" style="color: #158390;"></i> sales@haistar.asia</li>
