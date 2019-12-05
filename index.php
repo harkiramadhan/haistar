@@ -107,15 +107,15 @@
     <div class="section">
         <div class="container">
             <div class="row">
-                <div class="col-md-2 text-center" id="warehouse">
+                <div class="col-md-2 col-sm-4 text-center" id="warehouse">
                     <img src="./assets/img/Warehouse Service.png" style="max-height: 150px;">
                     <h3 class="title-modern pt-5" style="color: #158390;">Warehouse Service</h3>
                 </div>
-                <div class="col-md-2 text-center" id="delivery">
+                <div class="col-md-2 col-sm-4 text-center" id="delivery">
                     <img src="./assets/img/Delivery Management Process.png" style="max-height: 150px;">
                     <h3 class="title-modern pt-5" style="color: #158390";>Delivery Management <br> Process</h3>
                 </div>
-                <div class="col-md-2 text-center" style="color: #158390" id="channel">
+                <div class="col-md-2 col-sm-4 text-center" style="color: #158390" id="channel">
                     <img src="./assets/img/Store Operations.png" style="max-height: 150px;">
                     <h3 class="title-modern pt-5">Channel Management</h3>
                 </div>
@@ -206,7 +206,7 @@
                     <div class="team">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="card card-member" style="box-shadow:none; background-color: #F5F5F5">
+                                <div class="card card-member" id="leader-1" style="box-shadow:none;">
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div>
@@ -224,7 +224,7 @@
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="card card-member" style="box-shadow:none; ">
+                                <div class="card card-member" id="leader-2" style="box-shadow:none; ">
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div>
@@ -243,7 +243,7 @@
                             </div>
                           
                             <div class="col-md-12">
-                                <div class="card card-member" style="box-shadow:none; "> 
+                                <div class="card card-member" id="leader-3" style="box-shadow:none; "> 
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div>
@@ -261,7 +261,7 @@
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="card card-member" style="box-shadow:none; ">
+                                <div class="card card-member" id="leader-4" style="box-shadow:none; ">
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div >
@@ -279,7 +279,7 @@
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="card card-member" style="box-shadow:none; ">
+                                <div class="card card-member" id="leader-5" style="box-shadow:none; ">
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div>
