@@ -324,7 +324,7 @@
                                 &nbsp;&nbsp;1. Understanding heatmap: fast and slow moving SKUs (Stock Keeping Unit) indicating best <br>  &nbsp;&nbsp; &nbsp;&nbsp;and worst sales performance for future improvement <br>
                                 &nbsp;&nbsp;2. Inventory planning: inventory replenishment and dead stock management<br>
                             </h4>
-                            <button class="btn btn-fill btn-sm btn-white">JOIN US NOW</button>
+                            <button class="btn btn-fill btn-sm btn-white" style="border-radius: 50px; color: #104C66">JOIN US NOW</button>
                         </div>
                     </div>
                     <div class="col-xl-4"></div>
