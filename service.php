@@ -33,7 +33,7 @@
 
 <body>
 
-    <nav class="navbar navbar-default navbar-transparent navbar-fixed-top" style="background-color: white;">
+<nav class="navbar navbar-default navbar-transparent navbar-fixed-top" style="background-color: white;">
         <div class="container">
             <div class="navbar-header">
                 <button id="menu-toggle" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example">
@@ -42,30 +42,20 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="http://www.creative-tim.com" class="navbar-brand">
+                <a href="index.php" class="navbar-brand">
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
             <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav navbar-right navbar-uppercase">
-                        <li>
-                            <a href="https://api.whatsapp.com/send?phone=6281296555536"><img height="25px" src="./assets/img/wa.png"></a>
-                        </li>
-                        <li>
-                            <a href="https://www.instagram.com/haistar.id/"><img height="25px" src="./assets/img/icon_ig.png"></a>
-                        </li>
-                        <li>
-                            <a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img height="25px" src="./assets/img/icon_youtube.png"></a>
-                        </li>
-                        <li>
-                            <a style="color: #104C66" href="servis.php"><strong>ID</strong></a>
-                        </li>
-                        <li>
-                            <a href="beranda.php"><img height="25px" src="./assets/img/i.png"></a>
-                        </li>
-                        <li>
-                            <a style="color: #104C66" href="service.php.php"><strong>EN</strong></a>
-                        </li>
+                    <ul class="nav navbar-nav navbar-right" style="margin-right:30px; margin-top:30px;">
+                        <div>
+                            <a href="https://api.whatsapp.com/send?phone=6281296555536"><img width="25" height="25" src="./assets/img/wa.png"></a>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/haistar.id/"><img width="25" height="25" src="./assets/img/icon_ig.png"></a>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img style="padding:1px" width="25" height="25" src="./assets/img/icon_youtube.png"></a>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px;" href="servis.php"><strong>ID</strong></a>
+                            &nbsp;&nbsp;<a href="#"><img height="25px" src="./assets/img/i.png"></a>
+                            &nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px" href="service.php"><strong>EN</strong></a>
+                        </div>
                     </ul>
                 </div>
         </div>
@@ -74,7 +64,7 @@
 
         <div class="container">
                 <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav navbar-right navbar-uppercase">
+                    <ul class="nav navbar-nav navbar-right">
                         <li>
                             <a href="index.php" style="color: #104C66">About</a>
                         </li>
@@ -127,7 +117,7 @@
             <div class="container ">
                 <div class="title-area">
                         <hr  style="width: 9%; border-width: 5px; margin-left: 45%; color: #158390; border-top: 5px solid #158390;" />
-                    <h2 style="font-family:'sui'; color: #158390;"> Our Service</h2>
+                    <h2 style="font-family:'sui'; color: #158390;"> Our Services</h2>
                 </div>
                 <div class="carousel nav nav-text moveNextCarousel" style=" margin-top: -50px;">
                     
@@ -260,7 +250,7 @@
         <div class="container">
             <div class="title-area">
                 <h2 style="color: #158390; font-family:'sui';">Warehouse Management System</h2>
-                <p class="texte-center text-uppercase" style="font-family:roboto">
+                <p class="texte-center" style="font-family:roboto">
                     Our Warehouse Management System (WMS) covers the entire order process from Shipping, Receiving, Putaway, Movement, and Packing. It provides realtime visibility and accuracy on transaction process and inventory stock.                         
                 </p>
                 <!-- <p class="description"> 
@@ -323,7 +313,7 @@
                     <div class="col-xl-2"></div>
                     <div class="col-xl-6">
                         <div class="text-area" style="margin-left: 30%;">
-                            <h2 style="color: white;">Capability</h2>
+                            <h2 style="font-family:'sui'; color: white;">Capability</h2>
                             <h4 style="color: white;">
                                 <i class="fa fa-check-circle"></i> Simple and straight forward UI/UX <br>
                                 <i class="fa fa-check-circle"></i> Order status dashboard <br>

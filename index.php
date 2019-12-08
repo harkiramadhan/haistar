@@ -34,25 +34,15 @@
                 </a>
             </div>
             <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav navbar-right navbar-uppercase">
-                        <li>
-                            <a href="https://api.whatsapp.com/send?phone=6281296555536"><img height="25px" src="./assets/img/wa.png"></a>
-                        </li>
-                        <li>
-                            <a href="https://www.instagram.com/haistar.id/"><img height="25px" src="./assets/img/icon_ig.png"></a>
-                        </li>
-                        <li>
-                            <a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img height="25px" src="./assets/img/icon_youtube.png"></a>
-                        </li>
-                        <li>
-                            <a style="color: #104C66" href="beranda.php"><strong>ID</strong></a>
-                        </li>
-                        <li>
-                            <a href="#"><img height="25px" src="./assets/img/i.png"></a>
-                        </li>
-                        <li>
-                            <a style="color: #104C66" href="index.php"><strong>EN</strong></a>
-                        </li>
+                    <ul class="nav navbar-nav navbar-right" style="margin-right:30px; margin-top:30px;">
+                        <div>
+                            <a href="https://api.whatsapp.com/send?phone=6281296555536"><img width="25" height="25" src="./assets/img/wa.png"></a>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/haistar.id/"><img width="25" height="25" src="./assets/img/icon_ig.png"></a>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img style="padding:1px" width="25" height="25" src="./assets/img/icon_youtube.png"></a>
+                            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px;" href="beranda.php"><strong>ID</strong></a>
+                            &nbsp;&nbsp;<a href="#"><img height="25px" src="./assets/img/i.png"></a>
+                            &nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px" href="index.php"><strong>EN</strong></a>
+                        </div>
                     </ul>
                 </div>
         </div>
@@ -61,7 +51,7 @@
 
         <div class="container">
                 <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav navbar-right navbar-uppercase">
+                    <ul class="nav navbar-nav navbar-right">
                         <li class="active">
                             <a href="index.php" >About</a>
                         </li>
@@ -213,7 +203,7 @@
                                                 <div style="margin-left: 10%;  margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-14-40.png" />
                                                 </div>
-                                                <h4 style="color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Dony Maya Wardhana <p>Chief Executive Officer</p></b></h4>
+                                                <h5 style="font-family:'sui'; color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Dony Maya Wardhana <p>Chief Executive Officer</p></b></h5>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -231,7 +221,7 @@
                                                 <div style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-17.png" />
                                                 </div>
-                                                <h4 style="color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Muhammad Fahrian</b><p>Chief Commercial Officer</p></h4>
+                                                <h5 style="font-family:'sui'; color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Muhammad Fahrian</b><p>Chief Commercial Officer</p></h5>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -250,7 +240,7 @@
                                                 <div style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-32.png" />
                                                 </div > 
-                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>Commercial General Manager</p></h4>
+                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>Commercial General Manager</p></h4>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -268,7 +258,7 @@
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-41.png" />
                                                 </div>
-                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>Operational General Manager</p></p>
+                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>Operational General Manager</p></p>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -286,7 +276,7 @@
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-50.png" />
                                                 </div>
-                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Albertus Aditya</b><p>Strategic Senior Manager</p> </h4>
+                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Albertus Aditya</b><p>Strategic Senior Manager</p> </h4>
                                             </div>
                                         </br>
                                         </div>

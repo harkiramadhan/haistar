@@ -33,7 +33,7 @@
 
 <body>
 
-    <nav class="navbar navbar-default navbar-transparent navbar-fixed-top" style="background-color: white;">
+<nav class="navbar navbar-default navbar-transparent navbar-fixed-top" style="background-color: white;">
         <div class="container">
             <div class="navbar-header">
                 <button id="menu-toggle" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example">
@@ -47,25 +47,15 @@
                 </a>
             </div>
             <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav navbar-right navbar-uppercase">
-                        <li>
-                            <a href="https://api.whatsapp.com/send?phone=6281296555536"><img height="25px" src="./assets/img/wa.png"></a>
-                        </li>
-                        <li>
-                            <a href="https://www.instagram.com/haistar.id/"><img height="25px" src="./assets/img/icon_ig.png"></a>
-                        </li>
-                        <li>
-                            <a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img height="25px" src="./assets/img/icon_youtube.png"></a>
-                        </li>
-                        <li>
-                            <a style="color: #104C66" href="beranda.php"><strong>ID</strong></a>
-                        </li>
-                        <li>
-                            <a href="hubungi_kami.php"><img height="25px" src="./assets/img/i.png"></a>
-                        </li>
-                        <li>
-                            <a style="color: #104C66" href="contact_us.php"><strong>EN</strong></a>
-                        </li>
+                    <ul class="nav navbar-nav navbar-right" style="margin-right:30px; margin-top:30px;">
+                        <div>
+                            <a href="https://api.whatsapp.com/send?phone=6281296555536"><img width="25" height="25" src="./assets/img/wa.png"></a>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/haistar.id/"><img width="25" height="25" src="./assets/img/icon_ig.png"></a>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img style="padding:1px" width="25" height="25" src="./assets/img/icon_youtube.png"></a>
+                            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px;" href="hubungi_kami.php"><strong>ID</strong></a>
+                            &nbsp;&nbsp;<a href="#"><img height="25px" src="./assets/img/i.png"></a>
+                            &nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px" href="contact_us.php"><strong>EN</strong></a>
+                        </div>
                     </ul>
                 </div>
         </div>
@@ -74,7 +64,7 @@
 
         <div class="container">
                 <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav navbar-right navbar-uppercase">
+                    <ul class="nav navbar-nav navbar-right">
                         <li>
                             <a href="index.php" style="color: #104C66">About</a>
                         </li>
