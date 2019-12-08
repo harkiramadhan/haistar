@@ -98,7 +98,7 @@
                     <div class="title-area-2" style="color: black;">
                         <h2 style="font-family:'sui'; color: #0b2f3c;"><strong><b>Hassle-free services</strong></b></h2>
                         <h2 style="font-family:'sui'; color: #158390; margin: -0.6em 0 !important; margin-bottom: 8px !important;"><strong><b> tailored to your needs</strong></b></h2>
-                        <p style="font-family:roboto">
+                        <p style="font-family:roboto; text-transform: none">
                             Managing multiple marketplaces can be overwhelming. This is where <br>
                             our Store Operations capability can step in. Haistar will assist you in <br>
                             managing your order so you can focus on developing products and <br>
