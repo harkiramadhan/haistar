@@ -94,21 +94,19 @@
         </div>
     </div>
 
-    <div class="section">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-2 col-sm-4 text-center" id="warehouse">
-                    <img src="./assets/img/Warehouse Service.png" style="max-height: 150px;">
-                    <h3 class="title-modern pt-5" style="color: #158390;">Warehouse Service</h3>
-                </div>
-                <div class="col-md-2 col-sm-4 text-center" id="delivery">
-                    <img src="./assets/img/Delivery Management Process.png" style="max-height: 150px;">
-                    <h3 class="title-modern pt-5" style="color: #158390";>Delivery Management <br> Process</h3>
-                </div>
-                <div class="col-md-2 col-sm-4 text-center" style="color: #158390" id="channel">
-                    <img src="./assets/img/Store Operations.png" style="max-height: 150px;">
-                    <h3 class="title-modern pt-5">Channel Management</h3>
-                </div>
+    <div class="section">\
+        <div class="row">
+            <div class="col-sm-4 text-center" id="warehouse" >
+                <img src="./assets/img/Warehouse Service.png" style="max-height: 150px;" class="img-rounded">
+                <h3 class="title-modern pt-5" style="color: #158390;">Warehouse Service</h3>
+            </div>
+            <div class="col-sm-4 text-center" id="delivery" style="margin-left: -40px">
+                <img src="./assets/img/Delivery Management Process.png" style="max-height: 150px;" class="img-rounded">
+                <h3 class="title-modern pt-5" style="color: #158390";>Delivery Management <br> Process</h3>
+            </div>
+            <div class="col-sm-4 text-center" style="color: #158390; margin-left: 50px" id="channel">
+                <img src="./assets/img/Store Operations.png" style="max-height: 150px;" class="img-rounded">
+                <h3 class="title-modern pt-5">Channel Management</h3>
             </div>
         </div>
     </div>
