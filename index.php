@@ -143,33 +143,37 @@
 
     <hr>
 
-    <div class="section" style="background-image: url('assets/img/visi.png'); background-size: contain; background-repeat: no-repeat;">
-        <div class="container">
-            <div class="title-area">
-                <h2  style="font-family:'sui'; color: #158390;">Vision</h2>
-                <p class="text-justify" style="font-size: medium;">
-                    To become the preferred regional technology partner widely known for its strong logistics network and industry expertise for Small and Medium-Sized Enterprises (SMEs) and brands aiming to scale up and accelerate their business in Indonesia and Southeast
-                    Asia.
-                </p>
+    <div class="section">
+        <div class="parralax">
+            <div class="image" style="background-image: url('assets/img/visi.png'); height: 135vh">
             </div>
-            <div class="title-area mt-3">
-                <h2  style="font-family:'sui'; color: #158390;">Mission</h2>
-                <p class="text-justify" style="font-size: medium;">
-                    Providing hassle-free supply chain solutions for business owners: reasonable cost, seamless user experience, strong yet flexible logistics ecosystem.
-                </p>
-                <p class="text-justify" style="font-size: medium;">
-                    Industry standard business process and infrastructure
-                </p>
-                <p class="text-justify" style="font-size: medium;">
-                    Integrated and easy to use system that gives visibility and transparency for business owners to monitor their operations
-                </p>
-                <p class="text-justify" style="font-size: medium;">
-                    Reasonable and optimized investment to scale up business upon entering and growing e-commerce presence. Haistar is flexible in facilitating collaboration with
-                    our partners across Indonesia and Southeast Asia that results in cost-efficient operations.
-                </p>
-                <p class="text-justify" style="font-size: medium;">
-                    Building new logistics ecosystem that allows Haistar, business owners, and stakeholders to synergize and grow together.
-                </p>
+            <div class="container">
+                <div class="title-area">
+                    <h2  style="font-family:'sui'; color: #158390;">Vision</h2>
+                    <p class="text-justify" style="font-size: medium;">
+                        To become the preferred regional technology partner widely known for its strong logistics network and industry expertise for Small and Medium-Sized Enterprises (SMEs) and brands aiming to scale up and accelerate their business in Indonesia and Southeast
+                        Asia.
+                    </p>
+                </div>
+                <div class="title-area">
+                    <h2  style="font-family:'sui'; color: #158390;">Mission</h2>
+                    <p class="text-justify" style="font-size: medium;">
+                        Providing hassle-free supply chain solutions for business owners: reasonable cost, seamless user experience, strong yet flexible logistics ecosystem.
+                    </p>
+                    <p class="text-justify" style="font-size: medium;">
+                        Industry standard business process and infrastructure
+                    </p>
+                    <p class="text-justify" style="font-size: medium;">
+                        Integrated and easy to use system that gives visibility and transparency for business owners to monitor their operations
+                    </p>
+                    <p class="text-justify" style="font-size: medium;">
+                        Reasonable and optimized investment to scale up business upon entering and growing e-commerce presence. Haistar is flexible in facilitating collaboration with
+                        our partners across Indonesia and Southeast Asia that results in cost-efficient operations.
+                    </p>
+                    <p class="text-justify" style="font-size: medium;">
+                        Building new logistics ecosystem that allows Haistar, business owners, and stakeholders to synergize and grow together. 
+                    </p>
+                </div>
             </div>
         </div>
     </div>
