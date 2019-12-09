@@ -146,10 +146,6 @@
                                         <img src="./assets/img/Client/Crayola.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">    
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
                                         <img src="./assets/img/Client/Danone.png" alt="" style="max-height: 100px">
@@ -165,6 +161,15 @@
                                         <img src="./assets/img/Client/Jbl.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">    
+                                <div class="col-xs-6 col-md-4">
+                                    <a href="#" class="thumbnail" style="border: 0">
+                                         <img src="./assets/img/Client/Jbl.png" alt="" style="max-height: 100px">
+                                    </a>
+                                </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
                                         <img src="./assets/img/Client/Lote Mart.png" alt="" style="max-height: 100px">
@@ -177,13 +182,9 @@
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/Pioneer.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/Pioneer.png" alt="" style="max-height: 100px">    
                                     </a>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">        
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
                                         <img src="./assets/img/Client/REddorz.png" alt="" style="max-height: 100px">
@@ -204,6 +205,35 @@
                                         <img src="./assets/img/Client/sopi.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
+                                <div class="col-xs-6 col-md-4">
+                                    <a href="#" class="thumbnail" style="border: 0">
+                                        <img src="./assets/img/Client/toped.png" alt="" style="max-height: 100px">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">        
+                            <div class="col-xs-6 col-md-4">
+                                    <a href="#" class="thumbnail" style="border: 0">
+                                        <img src="./assets/img/Client/Torch.png" alt="" style="max-height: 100px">
+                                    </a>
+                                </div>
+                                <div class="col-xs-6 col-md-4">
+                                    <a href="#" class="thumbnail" style="border: 0">
+                                        <img src="./assets/img/Client/mi.png" alt="" style="max-height: 100px">
+                                    </a>
+                                </div>
+                                <div class="col-xs-6 col-md-4">
+                                    <a href="#" class="thumbnail" style="border: 0">
+                                        <img src="./assets/img/Client/Zlinggo.png" alt="" style="max-height: 100px">
+                                    </a>
+                                </div>
+                                <div class="col-xs-6 col-md-4">
+                                    <a href="#" class="thumbnail" style="border: 0">
+                                        <!-- <img src="./assets/img/Client/sopi.png" alt="" style="max-height: 100px"> -->
+                                    </a>
+                                </div>
                                 <!-- <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0;">
                                         <img src="./assets/img/Client/senheiser.png" alt="" style="max-height: 100px">
@@ -216,12 +246,12 @@
                                 </div> -->
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/toped.png" alt="" style="max-height: 100px">
+                                        <!-- <img src="./assets/img/Client/toped.png" alt="" style="max-height: 100px"> -->
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/Torch.png" alt="" style="max-height: 100px">
+                                        <!-- <img src="./assets/img/Client/Torch.png" alt="" style="max-height: 100px"> -->
                                     </a>
                                 </div>
                             </div>
@@ -230,12 +260,12 @@
                             <div class="row">    
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/mi.png" alt="" style="max-height: 100px">
+                                        <!-- <img src="./assets/img/Client/mi.png" alt="" style="max-height: 100px"> -->
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/Zlinggo.png" alt="" style="max-height: 100px">
+                                        <!-- <img src="./assets/img/Client/Zlinggo.png" alt="" style="max-height: 100px"> -->
                                     </a>
                                 </div>
                                 <!-- <div class="col-xs-6 col-md-4">
