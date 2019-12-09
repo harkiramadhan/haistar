@@ -54,7 +54,7 @@
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img style="padding:1px" width="25" height="25" src="./assets/img/icon_youtube.png"></a>
                             &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px;" href="servis.php"><strong>ID</strong></a>
                             &nbsp;&nbsp;<a href="#"><img height="25px" src="./assets/img/i.png"></a>
-                            &nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px" href="sevice.php"><strong>EN</strong></a>
+                            &nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px" href="service.php"><strong>EN</strong></a>
                         </div>
                     </ul>
                 </div>

@@ -69,7 +69,7 @@
                             <a href="index.php" style="color: #104C66">About</a>
                         </li>
                         <li class="active">
-                            <a href="service.php" style="color: #104C66">Service</a>
+                            <a href="service.php" style="color: #104C66">Services</a>
                         </li>
                         <li>
                             <a href="why.php" style="color: #104C66">Why Haistar</a>
@@ -113,7 +113,7 @@
     <!-- our service -->
     <div class="section section-our-clients-freebie">
         <div class="parallax">
-            <div class="image" style="background-image: url('assets/img/plane.png'); margin-top: 50px">
+            <div class="image" style="background-image: url('assets/img/plane.png'); margin-top: 40px;">
             <div class="container ">
                 <div class="title-area">
                         <hr  style="width: 9%; border-width: 5px; margin-left: 45%; color: #158390; border-top: 5px solid #158390;" />
@@ -130,11 +130,11 @@
                                 <h5 style="color: #158390;">Delivery Management</h5>
                             </div>
                             <div>
-                                <p class="content-oser" style="font-family: robotoha">
-                                    <span>&#8226; &nbsp; </span>Handover to delivery company</br> 
-                                    <span>&#8226; &nbsp; </span>I3PL assignment</br> 
-                                    <span>&#8226; &nbsp; </span>Shipment monitoring and </br>
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> reporting</br>  
+                                <p class="content-oser" style="font-family: roboto">
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; &nbsp; </span>Handover to delivery company</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; &nbsp; </span>I3PL assignment</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; &nbsp; </span>Shipment monitoring and </br>
+                                &nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> reporting</br>  
                                 </p>
                             </div>
                         </div>
@@ -170,11 +170,11 @@
                             </div>
                             <div>
                                 <p class="content-oser" style="font-family: roboto">
-                                    <span>&#8226; &nbsp; </span> Marketplace integration and </br>
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> order management</br> 
-                                    <span>&#8226; &nbsp; </span> Third party (partner) multi-</br>
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> channel platform</br> 
-                                    <span>&#8226; &nbsp; </span> Customer Service</br> 
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Marketplace integration and </br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> order management</br> 
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Third party (partner) multi-</br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> channel platform</br> 
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Customer Service</br> 
                                 </p>
                             </div>
                         </div>

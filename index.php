@@ -78,7 +78,7 @@
 
     <div class="section section-header">
         <div class="parallax">
-            <div class="image" style="background-image: url('assets/img/Banner.jpg')">
+            <div class="image" style="background-image: url('assets/img/home.png')">
             </div>
             <div class="container">
                 <div class="content">
@@ -86,7 +86,7 @@
                     <h2 class="title-modern" style="margin-top:5%; font-family: sui generis free; font-size:22px">We Help Grow Your E-Commerce <br> Business With No Hassle</strong></h2>
                         <p style="font-size: medium; text-transform: none; font-family: roboto;">A Jakarta-based e-logistics solutions company equipped with experienced management team in the industry, warehouses <br> in five different cities, integrated warehouse management system, and <br> industry-standard business process
                             and infrastructure, Haistar aims to <br> ease your way in scaling up your business.</p>
-                        <p style="font-size: medium; text-transform: none; font-family: roboto;"> Whether you’re just starting, in the middle of growing, or getting too big still be independent, we can adjust and provide to your specific needs.
+                        <p style="font-size: medium; text-transform: none; font-family: roboto;"> Whether you’re just starting, in the middle of growing, <br> or getting too big still be independent, <br> we can adjust and provide to your specific needs.
                         </p>
                     </div>
                 </div>
@@ -199,7 +199,7 @@
                                         <div class="col-md-3">
                                             <div>
                                                 <div style="margin-left: 10%;  margin-top: 10%;">
-                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-14-40.png" />
+                                                    <img alt="..." src="./assets/img/leadership/Donny.png" />
                                                 </div>
                                                 <h5 style="font-family:'sui'; color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Dony Maya Wardhana <p>Chief Executive Officer</p></b></h5>
                                             </div>
@@ -217,7 +217,7 @@
                                         <div class="col-md-3">
                                             <div>
                                                 <div style="margin-left: 10%; margin-top: 10%;">
-                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-17.png" />
+                                                    <img alt="..." src="./assets/img/leadership/Fahrian.png" />
                                                 </div>
                                                 <h5 style="font-family:'sui'; color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Muhammad Fahrian</b><p>Chief Commercial Officer</p></h5>
                                             </div>
@@ -236,7 +236,7 @@
                                         <div class="col-md-3">
                                             <div>
                                                 <div style="margin-left: 10%; margin-top: 10%;">
-                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-32.png" />
+                                                    <img alt="..." src="./assets/img/leadership/Rifani.png" />
                                                 </div > 
                                                 <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>Commercial General Manager</p></h4>
                                             </div>
@@ -254,7 +254,7 @@
                                         <div class="col-md-3">
                                             <div >
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
-                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-41.png" />
+                                                    <img alt="..." src="./assets/img/leadership/Oky.png" />
                                                 </div>
                                                 <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>Operational General Manager</p></p>
                                             </div>
@@ -272,7 +272,7 @@
                                         <div class="col-md-3">
                                             <div>
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
-                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-50.png" />
+                                                    <img alt="..." src="./assets/img/leadership/Albertus.png" />
                                                 </div>
                                                 <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Albertus Aditya</b><p>Strategic Senior Manager</p> </h4>
                                             </div>

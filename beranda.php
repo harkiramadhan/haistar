@@ -78,7 +78,7 @@
 
     <div class="section section-header">
         <div class="parallax">
-            <div class="image" style="background-image: url('assets/img/Banner.jpg')">
+            <div class="image" style="background-image: url('assets/img/home.png')">
             </div>
             <div class="container">
                 <div class="content">
@@ -86,7 +86,7 @@
                         <h2 class="title-modern" style="margin-top:5%; font-family: sui generis free; font-size:22px"><strong><br><br>Hilangkan Kerumitan Dalam Menumbuhkan Bisnis <br> E-commerce Anda Dengan Haistar</strong></h2>
                         <p style="font-size: medium; text-transform: none; font-family: roboto;">Haistar adalah perusahaan solusi e-logistic yang memiliki tim manajemen berpengalaman di industri, gudang di lima kota, manajemen sistem gudang yang terintegrasi, dan infrastruktur serta proses bisnis yang sesuai dengan standar industri.</p>
                         <p style="font-size: medium; text-transform: none; font-family: roboto;"> 
-                             Haistar bertujuan menjadi rekan yang memudahkan Anda dalam memperbesar skala bisnis, apapun ukurannya. Baik Anda baru memulai, sedang bertumbuh, atau justru bisnis Anda sudah terlalu besar untuk masih ditangani sendiri, kami dapat menyesuaikan solusi kami dengan kebutuhan spesifik Anda.
+                             Haistar bertujuan menjadi rekan yang memudahkan Anda dalam memperbesar <br> skala bisnis, apapun ukurannya. Baik Anda baru memulai, <br> sedang bertumbuh, atau justru bisnis Anda sudah terlalu besar <br> untuk masih ditangani sendiri, kami dapat menyesuaikan solusi <br> kami dengan kebutuhan spesifik Anda.
                         </p>
                     </div>
                 </div>
@@ -146,32 +146,32 @@
     <hr>
 
     <div class="section">
-        <div class="parallax">
-            <div class="image" style="background-image: url('assets/img/visi.png')">
+        <div class="parralax">
+            <div class="image" style="background-image: url('assets/img/visi.png'); height: 135vh">
             </div>
             <div class="container">
                 <div class="title-area">
                     <h2  style="font-family:'sui'; color: #158390;">Visi</h2>
-                    <p class="text-justify" style="font-size: medium;">
+                    <p class="text-justify" style="font-size: 12px;">
                     Menjadi partner teknologi regional pilihan yang dikenal karena jaringan logistik dan keahlian industri yang kuat bagi para pemilik Usaha Kecil Menengah (UKM) dan brand yang ingin memperbesar dan mempercepat pertumbuhan bisnis mereka di Indonesia maupun Asia Tenggara.
                     </p>
                 </div>
-                <div class="title-area mt-3">
+                <div class="title-area">
                     <h2  style="font-family:'sui'; color: #158390;">Misi</h2>
-                    <p class="text-justify" style="font-size: medium;">
+                    <p class="text-justify" style="font-size: 12px;">
                     Menyediakan solusi rantai pasokan bagi pemilik bisnis tanpa menyulitkan: masuk akal dalam biaya, pengalaman pengguna yang mulus, dan ekosistem logistik yang kuat namun fleksibel.
                     </p>
-                    <p class="text-justify" style="font-size: medium;">
-                    Proses bisnis dan infrastruktur yang sesuai standar kelayakan industri
+                    <p class="text-justify" style="font-size: 12px;">
+                     Proses bisnis dan infrastruktur yang sesuai standar kelayakan industri
                     </p>
-                    <p class="text-justify" style="font-size: medium;">
-                        Sistem yang terintegrasi, mudah digunakan, serta memberikan visibilitas dan transparansi dalam memonitor kegiatan operasional klien
+                    <p class="text-justify" style="font-size: 12px;">
+                    Sistem yang terintegrasi, mudah digunakan, serta memberikan visibilitas dan transparansi dalam memonitor kegiatan operasional klien
                     </p>
-                    <p class="text-justify" style="font-size: medium;">
+                    <p class="text-justify" style="font-size: 12px;">
                     Investasi yang masuk akal dan teroptimalisasi untuk memperbesar skala usaha ketika memasuki dan menumbuhkan bisnis e-commerce. Haistar memiliki fleksibilitas yang memungkinkan pemilik bisnis untuk berkolaborasi dengan partner Haistar di kota manapun di Indonesia dan Asia Tenggara sehingga biaya yang dikeluarkan lebih efisien dan digunakan secara optimal
                     </p>
-                    <p class="text-justify" style="font-size: medium;">
-                    Membentuk ekosistem logistik baru di mana pemilik bisnis, Haistar, dan para stakeholder yang terlibat bersinergi dan tumbuh bersama-sama
+                    <p class="text-justify" style="font-size: 12px;">
+                    Membentuk ekosistem logistik baru di mana pemilik bisnis, Haistar, dan para stakeholder yang terlibat bersinergi dan tumbuh bersama-sama 
                     </p>
                 </div>
             </div>
@@ -187,95 +187,100 @@
                 <div class="content">
                     <div class="row">
                         <div class="title-area">
-                            <h2 class="text-white" style="font-family:'sui'; color: #0f525e;">Tim Manajemen</h2>
+                            <h2 class="text-white" style="font-family:'sui'; color: #0f525e;">Leadership Team</h2>
                         </div>
                     </div>
 
                     <div class="team">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="card card-member" style="box-shadow:none; background-color: #F5F5F5">
+                                <div class="card card-member" id="leader-1" style="box-shadow:none;">
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div>
                                                 <div style="margin-left: 10%;  margin-top: 10%;">
-                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-14-40.png" />
+                                                    <img alt="..." src="./assets/img/leadership/Donny.png" />
                                                 </div>
-                                                <h4 style="color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Dony Maya Wardhana <p>Chief Executive Officer</p></b></h4>
+                                                <h5 style="font-family:'sui'; color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Dony Maya Wardhana <p>Chief Executive Officer</p></b></h5>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
-                                            <p style="font-family: roboto; font-size: medium;">Donny memiliki lebih dari 22 tahun pengalaman di industri supply chain, logistik, dan pemberdayaan e-commerce dengan fokus pada Operations dan Sales. Donny adalah seorang pemikir strategis dan pemimpin yang visioner dengan kemampuan analisa intelejensia pasar yang kuat. Beberapa perusahaan tempat Donny menjadi bagian dari tim manajemen senior sebelum Haistar adalah aCommerce, Quantum Solutions - Singapore Post, JNE, UPS, TNT, dan DHL Express.</p>
+                                            <p style="font-family: roboto; font-size: medium;">Donny has over 22 years of experience in supply chain, logistics, and e-commerce enablement industry with focus on Operations and Sales. Donny is a strategic thinker and a visionary leader with strong analytical
+                                                skill in market intelligence. Some of the companies he had worked for as part of the senior management team were aCommerce, Quantum Solutions - Singapore Post, JNE, UPS, TNT, and DHL Express.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="card card-member" style="box-shadow:none; ">
+                                <div class="card card-member" id="leader-2" style="box-shadow:none; ">
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div>
                                                 <div style="margin-left: 10%; margin-top: 10%;">
-                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-17.png" />
+                                                    <img alt="..." src="./assets/img/leadership/Fahrian.png" />
                                                 </div>
-                                                <h4 style="color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Muhammad Fahrian</b><p>Chief Commercial Officer</p></h4>
+                                                <h5 style="font-family:'sui'; color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Muhammad Fahrian</b><p>Chief Commercial Officer</p></h5>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
-                                            <p style="font-family: roboto; font-size: medium;">Fahrian memiliki 12 tahun pengalaman dalam bidang manajemen konsultasi, pengembangan bisnis, pemberdayaan e-commerce, serta pengembangan dan implementasi teknologi. Sebelumnya Fahrian pernah bekerja untuk Accenture dan aCommerce dan merupakan Sarjana Teknologi Informatika dari Universitas Indonesia.</p>
+                                            <p style="font-family: roboto; font-size: medium;">Fahrian brings with him 12 years of experience in consulting management, business development, e-commerce enablement, and technology development and implementation. He had previously worked for Accenture and
+                                                aCommerce and is an IT graduate from University of Indonesia.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                           
                             <div class="col-md-12">
-                                <div class="card card-member" style="box-shadow:none; "> 
+                                <div class="card card-member" id="leader-3" style="box-shadow:none; "> 
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div>
                                                 <div style="margin-left: 10%; margin-top: 10%;">
-                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-32.png" />
+                                                    <img alt="..." src="./assets/img/leadership/Rifani.png" />
                                                 </div > 
-                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>Commercial General Manager</p></h4>
+                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>Commercial General Manager</p></h4>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
-                                            <p style="font-family: roboto; font-size: medium;">Dengan 10 tahun pengalaman di dunia edukasi, konsultasi, logistik, dan pemberdayaan e-commerce, Rifani telah membentuk keahliannya dalam bidang konsultasi, perencanaan bisnis strategis, pemasaran, dan penjualan, selain memiliki gelar S2 di bidang Pemasaran dari PPM School of Management. Rifani sebelumnya pernah bekerja di PPM Manajemen, JNE, dan aCommerce.</p>
+                                            <p style="font-family: roboto; font-size: medium;">With 10 years of experience in education, consulting, logistics, and e-commerce enablement industry, Rifani has sharpened his expertise in consulting, strategic business planning, marketing, and sales, in addition
+                                                to his Master Degree in Marketing from PPM Manajemen. Rifani's previous roles were at PPM Manajemen, JNE, and aCommerce. </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="card card-member" style="box-shadow:none; ">
+                                <div class="card card-member" id="leader-4" style="box-shadow:none; ">
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div >
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
-                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-41.png" />
+                                                    <img alt="..." src="./assets/img/leadership/Oky.png" />
                                                 </div>
-                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>Operational General Manager</p></p>
+                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>Operational General Manager</p></p>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
-                                            <p style="font-family: roboto; font-size: medium;">Oki memiliki kapabilitas yang kuat serta 17 tahun pengalaman dalam bidang perencanaan operasional strategis, sekaligus kepemimpinan. Oki datang dengan latar belakang pendidikan S1 Manajement Transpor STMT Trisakti sebelum masuk ke berbagai industri seperti distribusi dan ritel, e-commerce fesyen, dan pemberdayaan e-commerce. Sebelumnya Oki pernah bekerja untuk aCommerce, Zalora  Indonesia, dan Oriflame Indonesia.</p>
+                                            <p style="font-family: roboto; font-size: medium;">Oki has a strong capability and 17 years worth of experience in operational strategic planning and leadership. Oki came with a degree in Transport Management from STMT Trisakti before jumping into various industries
+                                                such as retail and distribution, e-commerce fashion, and e-commerce enablement. Oki previously worked at aCommerce, Zalora Indonesia, and Oriflame Indonesia.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="card card-member" style="box-shadow:none; ">
+                                <div class="card card-member" id="leader-5" style="box-shadow:none; ">
                                     <div class="row">
                                         <div class="col-md-3">
                                             <div>
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
-                                                    <img alt="..." src="./assets/img/leadership/Screenshot at 2019-11-16 12-15-50.png" />
+                                                    <img alt="..." src="./assets/img/leadership/Albertus.png" />
                                                 </div>
-                                                <h4 style="color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Albertus Aditya</b><p>Strategic Senior Manager</p> </h4>
+                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Albertus Aditya</b><p>Strategic Senior Manager</p> </h4>
                                             </div>
                                         </br>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
-                                            <p style="font-family: roboto; font-size: medium;">Aditya memiliki paduan pengalaman kerja yang unik dalam bidang freight forwarding, logistik, perbankan, dan pemberdayaan e-commerce. Semuanya dengan fokus dalam administrasi bisnis dan analisis strategis serta account management dalam 10 tahun terakhir. Aditya memilliki gelar S2 di bidang Strategi Pemasaran dari PPM School of Management dan gelar S1 Ekonomi dari Swiss German University.</p>
+                                            <p style="font-family: roboto; font-size: medium;">Aditya has a unique blend of experiences in freight forwarding, logistics, banking, and e-commerce enablement industry, all with main focuses in business administration, business strategic analysis, and account
+                                                management over the past 10 years. Aditya also has a Master degree in Management focusing in Marketing Strategy from PPM Management School and a Bachelor degree in Economy from Swiss German University.</p>
                                         </div>
                                     </div>
                                 </div>
