@@ -306,14 +306,14 @@
     <div class="section section-header">
         <div class="parallax">
             <div class="image"
-                style="background-image: url('assets/img/Wms2.png');">
+                style="background-image: url('assets/img/Wms2.png'); height: 120vh;">
             </div>
             <div class="container">
                 <div class="row">
                     <div class="col-xl-2"></div>
                     <div class="col-xl-6">
                         <div class="text-area" style="margin-left: 30%;">
-                            <h2 style="font-family:'sui'; color: white;">Capability</h2>
+                            <h2 style="font-family:'sui'; color: #104C66">Capability</h2>
                             <h4 style="color: white;">
                                 <i class="fa fa-check-circle"></i> Simple and straight forward UI/UX <br>
                                 <i class="fa fa-check-circle"></i> Order status dashboard <br>
