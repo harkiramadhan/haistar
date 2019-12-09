@@ -130,10 +130,10 @@
                             </div>
                             <div>
                                 <p class="content-oser" style="font-family: robotoha">
-                                    <span>&#8226; &nbsp; </span>Serah terima dengan perusahaan pengantaran</br> 
-                                    <span>&#8226; &nbsp; </span>Penunjukkan 3PL</br> 
-                                    <span>&#8226; &nbsp; </span>Pengawasan dan pelaporan </br>
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span>  pengiriman</br>  
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span>Serah terima dengan perusahaan <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pengantaran</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span>Penunjukkan 3PL</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span>Pengawasan dan pelaporan </br>
+                                &nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span>  pengiriman</br>  
                                 </p>
                             </div>
                         </div>
@@ -148,13 +148,13 @@
                             </div>
                             <div >
                                 <p class="content-oser" style="font-family: roboto">
-                                    <span>&#8226; &nbsp; </span> Penyimpanan produk </br> 
-                                    <span>&#8226; &nbsp; </span> Proses inbound - quality</br> 
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> control dan put away</br> 
-                                    <span>&#8226; &nbsp; </span> Proses outbound  - picking dan  </br> 
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> packing</br> 
-                                    <span>&#8226; &nbsp; </span> Pengawasan dan pelaporan stok</br> 
-                                    <span>&#8226; &nbsp; </span> Pengawasan dan pelaporan order</br>
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Penyimpanan produk </br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Proses inbound - quality</br> 
+                                &nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> control dan put away</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Proses outbound  - picking dan  </br> 
+                                &nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> packing</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Pengawasan dan pelaporan stok</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Pengawasan dan pelaporan order</br>
                                 </p>
                             </div>
                         </div>
@@ -169,11 +169,11 @@
                             </div>
                             <div>
                                 <p class="content-oser" style="font-family: roboto">
-                                    <span>&#8226; &nbsp; </span> Integrasi marketplace dan  </br>
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> manajemen order</br> 
-                                    <span>&#8226; &nbsp; </span> Platform multi-kanal dari </br>
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> pihak ketiga (partner)</br> 
-                                    <span>&#8226; &nbsp; </span> Layanan pelanggan</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Integrasi marketplace dan  </br>
+                                &nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> manajemen order</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Platform multi-kanal dari </br>
+                                &nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> pihak ketiga (partner)</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Layanan pelanggan</br> 
                                 </p>
                             </div>
                         </div>
@@ -305,25 +305,25 @@
     <div class="section section-header">
         <div class="parallax">
             <div class="image"
-                style="background-image: url('assets/img/Wms2.png');">
+                style="background-image: url('assets/img/Wms2.png'); height: 120vh;">
             </div>
             <div class="container">
                 <div class="row">
                     <div class="col-xl-2"></div>
                     <div class="col-xl-6">
                         <div class="text-area" style="margin-left: 30%;">
-                            <h2 style="font-family:'sui'; color: white;">Kapabilitas</h2>
+                            <h2 style="font-family:'sui'; color: #104C66">Kapabilias</h2>
                             <h4 style="color: white;">
                                 <i class="fa fa-check-circle"></i> UI/UX yang sederhana dan mudah dioperasikan <br>
                                 <i class="fa fa-check-circle"></i> Dasbor status order <br>
                                 <i class="fa fa-check-circle"></i> Kapabilitas untuk menggunggah massal <br>
-                                <i class="fa fa-check-circle"></i> Kapabilitas untuk terhubung dengan lebih dari satu gudang dan kanal <br>
-                                <i class="fa fa-check-circle"></i> Koneksi ke 3PL dengan sistem API (application program interface) untuk mengelola order dan transport <br>
+                                <i class="fa fa-check-circle"></i> Terhubung dengan lebih dari satu gudang dan kanal <br>
+                                <i class="fa fa-check-circle"></i> Koneksi ke 3PL dengan sistem API (application program interface) untuk mengelola order dan transpor <br>
                                 <i class="fa fa-check-circle"></i> Memberikan informasi realtime untuk inventaris dan stok yang menipis yang memudahkan klien dalam: <br>
-                                &nbsp;&nbsp; 1. Memahami heatmap: di mana SKU (stock keeping unit) bergerak paling cepat maupun lambat, <br> &nbsp;&nbsp;&nbsp; &nbsp;memberikan indikasi performa penjualan terbaik dan terburuk sehingga perbaikan bisa dilakukan <br>
-                                &nbsp;&nbsp; 2.  Perencanaan inventaris: pengisian ulang inventaris dan pengelolaan stok mati <br>
+                                &nbsp;&nbsp;1. Memahami heatmap: di mana SKU (stock keeping unit) bergerak paling cepat maupun lambat,  <br>  &nbsp;&nbsp; &nbsp;&nbsp;memberikan indikasi performa penjualan terbaik dan terburuk sehingga perbaikan bisa dilakukan <br>
+                                &nbsp;&nbsp;2. Perencanaan inventaris: pengisian ulang inventaris dan pengelolaan stok mati<br>
                             </h4>
-                            <button class="btn btn-fill btn-sm btn-white">JOIN US NOW</button>
+                            <button class="btn btn-fill btn-sm btn-white" style="border-radius: 50px; color: #104C66">JOIN US NOW</button>
                         </div>
                     </div>
                     <div class="col-xl-4"></div>
