@@ -91,7 +91,7 @@
     <div class="section section-header">
         <div class="parallax">
             <div class="image"
-                style="background-image: url('assets/img/Service.jpg');">
+                style="background: url('assets/img/Icon.png');  background-size: 800px 300px; background-repeat: no-repeat;  background-position: right; ">
             </div>
             <div class="container">
                 <div class="content">
@@ -113,7 +113,16 @@
     <!-- our service -->
     <div class="section section-our-clients-freebie">
         <div class="parallax">
-            <div class="image" style="background-image: url('assets/img/plane.png'); margin-top: 40px;">
+            <div style="position:absolute; margin-left:25%; margin-top:60px">
+                <img height="auto" width="150" src="assets/img/Clouds.png" alt="">
+            </div>
+            <div style="position:absolute; float:right; margin-left:70%; margin-top:450px">
+                <img height="auto" width="150" src="assets/img/Clouds.png" alt="">
+            </div>
+            <div style="position:absolute; margin-left:70%; margin-top:30px">
+                <img height="auto" width="150" src="assets/img/Plane.png" alt="">
+            </div>
+            <!-- <div class="image" style="background: url('assets/img/Clouds.png'); "> -->
             <div class="container ">
                 <div class="title-area">
                         <hr  style="width: 9%; border-width: 5px; margin-left: 45%; color: #158390; border-top: 5px solid #158390;" />
@@ -305,9 +314,12 @@
 
     <div class="section section-header">
         <div class="parallax">
-            <div class="image"
-                style="background-image: url('assets/img/Wms2.png'); height: 120vh;">
+            <div style="">
+                <img style="width: 100%" src="assets/img/Wms2.png" height="750" alt="">
             </div>
+            <!-- <div class="image"
+                style="background-image: url('assets/img/Wms2.png'); position:absolute; margin-top:20px; padding-top:10px; height: 120vh;">
+            </div> -->
             <div class="container">
                 <div class="row">
                     <div class="col-xl-2"></div>

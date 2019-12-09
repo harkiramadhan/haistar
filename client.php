@@ -64,7 +64,7 @@
                         <li class="active">
                             <a href="client.php" style="color: #104C66">Clients & Partners</a>
                         </li>
-                        <li>
+                        <li> 
                             <a href="locations.php" style="color: #104C66">Location</a>
                         </li>
                         <li>
@@ -113,9 +113,9 @@
                         <!-- <li data-target="#carousel-example-generic" data-slide-to="4"></li> -->
                     </ol>
                     <!-- Slider content (slider wrap)-->
-                    <div class="carousel-inner">
+                    <div class="carousel-inner" >
                         <div class="item active">
-                            <div class="row">
+                            <div class="row" style="margin-left: 10%; margin-right:10%">
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0;">
                                         <img src="./assets/img/Client/Airy Room.png" alt="" style="max-height: 100px">
@@ -164,7 +164,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="row">    
+                            <div class="row" >    
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
                                          <img src="./assets/img/Client/Jbl.png" alt="" style="max-height: 100px">
