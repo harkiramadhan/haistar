@@ -314,7 +314,7 @@
 
     <div class="section section-header">
         <div class="parallax">
-            <div style="">
+            <div>
                 <img style="width: 100%" src="assets/img/Wms2.png" height="750" alt="">
             </div>
             <!-- <div class="image"
