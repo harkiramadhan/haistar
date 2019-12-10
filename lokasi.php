@@ -57,7 +57,7 @@
                             <a href="beranda.php" style="color: #104C66">Tentang Haistar</a>
                         </li>
                         <li >
-                            <a href="servis.php" style="color: #104C66">Layanan</a>
+                            <a href="layanan.php" style="color: #104C66">Layanan</a>
                         </li>
                         <li>
                             <a href="mengapa.php" style="color: #104C66">Mengapa Haistar?</a>

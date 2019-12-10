@@ -56,7 +56,7 @@
                             <a href="beranda.php" >Tentang Haistar</a>
                         </li>
                         <li>
-                            <a href="servis.php">Layanan</a>
+                            <a href="layanan.php">Layanan</a>
                         </li>
                         <li  class="active">
                             <a href="mengapa.php">Mengapa Haistar?</a>

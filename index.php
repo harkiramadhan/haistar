@@ -23,7 +23,7 @@
     <nav class="navbar navbar-default navbar-transparent navbar-fixed-top" style="background-color: white;">
         <div class="container">
             <div class="navbar-header">
-                <button id="menu-toggle" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example">
+                <button id="menu-toggle" type="button" class="navbar-toggle" style="background-color: black" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar bar1"></span>
                     <span class="icon-bar bar2"></span>
@@ -56,7 +56,7 @@
                             <a href="index.php" >About</a>
                         </li>
                         <li>
-                            <a href="service.php">Service</a>
+                            <a href="services.php">services</a>
                         </li>
                         <li>
                             <a href="why.php">Why Haistar</a>
@@ -84,8 +84,8 @@
                 <div class="content">
                     <div class="title-area-2">
                     <h2 class="title-modern" style="margin-top:5%; font-family: sui generis free; font-size:22px">We Help Grow Your E-Commerce <br> Business With No Hassle</strong></h2>
-                        <p style="font-size: medium; text-transform: none; font-family: roboto;">A Jakarta-based e-logistics solutions company equipped with experienced management team in the industry, warehouses <br> in five different cities, integrated warehouse management system, and <br> industry-standard business process
-                            and infrastructure, Haistar aims to <br> ease your way in scaling up your business.</p>
+                        <p style="font-size: medium; text-transform: none; font-family: roboto;">A Jakarta-based e-logistics solutions company equipped with experienced management team in the industry, warehouses  in five different cities, <br> integrated warehouse management system,  <br> and industry-standard business process
+                            and infrastructure, <br> Haistar aims to  ease your way in scaling up your business.</p>
                         <p style="font-size: medium; text-transform: none; font-family: roboto;"> Whether you’re just starting, in the middle of growing, <br> or getting too big still be independent, <br> we can adjust and provide to your specific needs.
                         </p>
                     </div>
@@ -97,15 +97,16 @@
     <div class="section">
         <div class="row">
             <div class="col-sm-4 text-center" id="warehouse" >
-                <img src="./assets/img/Warehouse Service.png" style="max-height: 150px;" class="img-rounded">
+                <img src="./assets/img/Warehouse Service.png" style="max-height: 150px; min-height:50px" class="img-rounded">
                 <h3 class="title-modern pt-5" style="color: #158390;">Warehouse Service</h3>
             </div>
             <div class="col-sm-4 text-center" id="delivery" style="margin-left: -40px">
-                <img src="./assets/img/Delivery Management Process.png" style="max-height: 150px;" class="img-rounded">
+                <img src="./assets/img/Delivery Management Process.png" style="max-height: 150px; min-height:50px" class="img-rounded">
+               
                 <h3 class="title-modern pt-5" style="color: #158390";>Delivery Management <br> Process</h3>
             </div>
             <div class="col-sm-4 text-center" style="color: #158390; margin-left: 50px" id="channel">
-                <img src="./assets/img/Store Operations.png" style="max-height: 150px;" class="img-rounded">
+                <img src="./assets/img/Store Operations.png" style="max-height: 150px; min-height:50px" class="img-rounded">
                 <h3 class="title-modern pt-5">Channel Management</h3>
             </div>
         </div>
@@ -135,7 +136,7 @@
                     </p>
                 </div>
                 <div class="col-md-6">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/FmhYr8jBdHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe style="width: 100%; min-height:320px;" src="https://www.youtube.com/embed/FmhYr8jBdHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -238,7 +239,7 @@
                                                 <div style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Rifani.png" />
                                                 </div > 
-                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>Commercial General Manager</p></h4>
+                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>General Manager Commercial</p></h4>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -256,7 +257,7 @@
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Oky.png" />
                                                 </div>
-                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>Operational General Manager</p></p>
+                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>General Manager Operartional</p></p>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">

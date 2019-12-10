@@ -56,7 +56,7 @@
                             <a href="index.php" style="color: #104C66">About</a>
                         </li>
                         <li >
-                            <a href="service.php" style="color: #104C66">Service</a>
+                            <a href="services.php" style="color: #104C66">services</a>
                         </li>
                         <li>
                             <a href="why.php" style="color: #104C66">Why Haistar</a>

@@ -56,7 +56,7 @@
                             <a href="index.php" >About</a>
                         </li>
                         <li>
-                            <a href="service.php">Service</a>
+                            <a href="services.php">Services</a>
                         </li>
                         <li  class="active">
                             <a href="why.php">Why Haistar</a>

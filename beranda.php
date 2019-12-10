@@ -56,7 +56,7 @@
                             <a href="beranda.php" >Tentang Haistar</a>
                         </li>
                         <li>
-                            <a href="servis.php">Layanan</a>
+                            <a href="layanan.php">Layanan</a>
                         </li>
                         <li>
                             <a href="mengapa.php">Mengapa Haistar?</a>
@@ -84,7 +84,7 @@
                 <div class="content">
                     <div class="title-area-2">
                         <h2 class="title-modern" style="margin-top:5%; font-family: sui generis free; font-size:22px"><strong><br><br>Hilangkan Kerumitan Dalam Menumbuhkan Bisnis <br> E-commerce Anda Dengan Haistar</strong></h2>
-                        <p style="font-size: medium; text-transform: none; font-family: roboto;">Haistar adalah perusahaan solusi e-logistic yang memiliki tim manajemen berpengalaman di industri, gudang di lima kota, manajemen sistem gudang yang terintegrasi, dan infrastruktur serta proses bisnis yang sesuai dengan standar industri.</p>
+                        <p style="font-size: medium; text-transform: none; font-family: roboto;">Haistar adalah perusahaan solusi e-logistic yang memiliki tim manajemen berpengalaman di industri, gudang di lima kota, manajemen sistem gudang  <br> yang terintegrasi, dan infrastruktur serta proses bisnis yang sesuai <br> dengan standar industri.</p>
                         <p style="font-size: medium; text-transform: none; font-family: roboto;"> 
                              Haistar bertujuan menjadi rekan yang memudahkan Anda dalam memperbesar <br> skala bisnis, apapun ukurannya. Baik Anda baru memulai, <br> sedang bertumbuh, atau justru bisnis Anda sudah terlalu besar <br> untuk masih ditangani sendiri, kami dapat menyesuaikan solusi <br> kami dengan kebutuhan spesifik Anda.
                         </p>
@@ -98,7 +98,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-2 text-center" id="warehouse">
-                    <img src="./assets/img/Warehouse Service.png" style="max-height: 150px;">
+                    <img src="./assets/img/Warehouse service.png" style="max-height: 150px;">
                     <h3 class="title-modern pt-5" style="color: #158390;">Layanan Gudang</h3>
                 </div>
                 <div class="col-md-2 text-center" id="delivery">
@@ -187,7 +187,7 @@
                 <div class="content">
                     <div class="row">
                         <div class="title-area">
-                            <h2 class="text-white" style="font-family:'sui'; color: #0f525e;">Leadership Team</h2>
+                            <h2 class="text-white" style="font-family:'sui'; color: #0f525e;">Tim Manajemen</h2>
                         </div>
                     </div>
 
@@ -205,8 +205,7 @@
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
-                                            <p style="font-family: roboto; font-size: medium;">Donny has over 22 years of experience in supply chain, logistics, and e-commerce enablement industry with focus on Operations and Sales. Donny is a strategic thinker and a visionary leader with strong analytical
-                                                skill in market intelligence. Some of the companies he had worked for as part of the senior management team were aCommerce, Quantum Solutions - Singapore Post, JNE, UPS, TNT, and DHL Express.</p>
+                                            <p style="font-family: roboto; font-size: medium;">Donny memiliki lebih dari 22 tahun pengalaman di industri supply chain, logistik, dan pemberdayaan e-commerce dengan fokus pada Operations dan Sales. Donny adalah seorang pemikir strategis dan pemimpin yang visioner dengan kemampuan analisa intelejensia pasar yang kuat. Beberapa perusahaan tempat Donny menjadi bagian dari tim manajemen senior sebelum Haistar adalah aCommerce, Quantum Solutions - Singapore Post, JNE, UPS, TNT, dan DHL Express.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -223,8 +222,7 @@
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
-                                            <p style="font-family: roboto; font-size: medium;">Fahrian brings with him 12 years of experience in consulting management, business development, e-commerce enablement, and technology development and implementation. He had previously worked for Accenture and
-                                                aCommerce and is an IT graduate from University of Indonesia.</p>
+                                            <p style="font-family: roboto; font-size: medium;">Fahrian memiliki 12 tahun pengalaman dalam bidang manajemen konsultasi, pengembangan bisnis, pemberdayaan e-commerce, serta pengembangan dan implementasi teknologi. Sebelumnya Fahrian pernah bekerja untuk Accenture dan aCommerce dan merupakan Sarjana Teknologi Informatika dari Universitas Indonesia.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -238,12 +236,11 @@
                                                 <div style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Rifani.png" />
                                                 </div > 
-                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>Commercial General Manager</p></h4>
+                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>General Manager Commercial</p></h4>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
-                                            <p style="font-family: roboto; font-size: medium;">With 10 years of experience in education, consulting, logistics, and e-commerce enablement industry, Rifani has sharpened his expertise in consulting, strategic business planning, marketing, and sales, in addition
-                                                to his Master Degree in Marketing from PPM Manajemen. Rifani's previous roles were at PPM Manajemen, JNE, and aCommerce. </p>
+                                            <p style="font-family: roboto; font-size: medium;">Dengan 10 tahun pengalaman di dunia edukasi, konsultasi, logistik, dan pemberdayaan e-commerce, Rifani telah membentuk keahliannya dalam bidang konsultasi, perencanaan bisnis strategis, pemasaran, dan penjualan, selain memiliki gelar S2 di bidang Pemasaran dari PPM School of Management. Rifani sebelumnya pernah bekerja di PPM Manajemen, JNE, dan aCommerce. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -256,12 +253,11 @@
                                                 <div  style="margin-left: 10%; margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Oky.png" />
                                                 </div>
-                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>Operational General Manager</p></p>
+                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>General Manager Operartional</p></p>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
-                                            <p style="font-family: roboto; font-size: medium;">Oki has a strong capability and 17 years worth of experience in operational strategic planning and leadership. Oki came with a degree in Transport Management from STMT Trisakti before jumping into various industries
-                                                such as retail and distribution, e-commerce fashion, and e-commerce enablement. Oki previously worked at aCommerce, Zalora Indonesia, and Oriflame Indonesia.</p>
+                                            <p style="font-family: roboto; font-size: medium;">Oki memiliki kapabilitas yang kuat serta 17 tahun pengalaman dalam bidang perencanaan operasional strategis, sekaligus kepemimpinan. Oki datang dengan latar belakang pendidikan S1 Manajement Transpor STMT Trisakti sebelum masuk ke berbagai industri seperti distribusi dan ritel, e-commerce fesyen, dan pemberdayaan e-commerce. Sebelumnya Oki pernah bekerja untuk aCommerce, Zalora  Indonesia, dan Oriflame Indonesia.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -279,8 +275,7 @@
                                         </br>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
-                                            <p style="font-family: roboto; font-size: medium;">Aditya has a unique blend of experiences in freight forwarding, logistics, banking, and e-commerce enablement industry, all with main focuses in business administration, business strategic analysis, and account
-                                                management over the past 10 years. Aditya also has a Master degree in Management focusing in Marketing Strategy from PPM Management School and a Bachelor degree in Economy from Swiss German University.</p>
+                                            <p style="font-family: roboto; font-size: medium;">Aditya memiliki paduan pengalaman kerja yang unik dalam bidang freight forwarding, logistik, perbankan, dan pemberdayaan e-commerce. Semuanya dengan fokus dalam administrasi bisnis dan analisis strategis serta account management dalam 10 tahun terakhir. Aditya memilliki gelar S2 di bidang Strategi Pemasaran dari PPM School of Management dan gelar S1 Ekonomi dari Swiss German University.</p>
                                         </div>
                                     </div>
                                 </div>

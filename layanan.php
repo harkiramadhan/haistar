@@ -52,9 +52,9 @@
                             <a href="https://api.whatsapp.com/send?phone=6281296555536"><img width="25" height="25" src="./assets/img/wa.png"></a>
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/haistar.id/"><img width="25" height="25" src="./assets/img/icon_ig.png"></a>
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img style="padding:1px" width="25" height="25" src="./assets/img/icon_youtube.png"></a>
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px;" href="servis.php"><strong>ID</strong></a>
+                            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px;" href="layanan.php"><strong>ID</strong></a>
                             &nbsp;&nbsp;<a href="#"><img height="25px" src="./assets/img/i.png"></a>
-                            &nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px" href="service.php"><strong>EN</strong></a>
+                            &nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px" href="services.php"><strong>EN</strong></a>
                         </div>
                     </ul>
                 </div>
@@ -66,22 +66,22 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li>
-                            <a href="index.php" style="color: #104C66">About</a>
+                            <a href="beranda.php" style="color: #104C66">Tentang Haistar</a>
                         </li>
                         <li class="active">
-                            <a href="service.php" style="color: #104C66">Services</a>
+                            <a href="layanan.php" style="color: #104C66">Layanan</a>
                         </li>
                         <li>
-                            <a href="why.php" style="color: #104C66">Why Haistar</a>
+                            <a href="mengapa.php" style="color: #104C66">Mengapa Haistar?</a>
                         </li>
                         <li>
-                            <a href="client.php" style="color: #104C66">Clients & Partners</a>
+                            <a href="klien.php" style="color: #104C66">Klien & Partner</a>
                         </li>
                         <li>
-                            <a href="locations.php" style="color: #104C66">Location</a>
+                            <a href="lokasi.php" style="color: #104C66">Lokasi</a>
                         </li>
                         <li>
-                            <a href="contact_us.php" style="color: #104C66">Contact Us</a>
+                            <a href="hubungu_kami.php" style="color: #104C66">Hubungi Kami</a>
                         </li>
                     </ul>
                 </div>
@@ -90,19 +90,21 @@
 
     <div class="section section-header">
         <div class="parallax">
-            <div class="image"
+        <div class="image"
                 style="background: url('assets/img/Icon.png');  background-size: 800px 300px; background-repeat: no-repeat;  background-position: right; ">
             </div>
+            <!-- <div class="image"
+                style="background-image: url('assets/img/Service.jpg');">
+            </div> -->
             <div class="container">
                 <div class="content">
                     <div class="title-area-2" style="color: black;">
-                        <h2 style="font-family:'sui'; color: #0b2f3c;"><strong><b>Hassle-free services</strong></b></h2>
-                        <h2 style="font-family:'sui'; color: #158390; margin: -0.6em 0 !important; margin-bottom: 8px !important;"><strong><b> tailored to your needs</strong></b></h2>
-                        <p style="font-family:roboto; text-transform: none">
-                            Managing multiple marketplaces can be overwhelming. This is where <br>
-                            our Store Operations capability can step in. Haistar will assist you in <br>
-                            managing your order so you can focus on developing products and <br>
-                            increasing sales.
+                        <h2 style="font-size:30px; font-family:'sui'; color: #0b2f3c; line-height: 1.6;"><strong><b>Layanan tanpa kesulitan yang</strong></b></h2>
+                        <h2 style="font-size:30px; font-family:'sui'; color: #158390; margin: -0.6em 0 !important; margin-bottom: 8px !important; line-height: 1.6;"><strong><b>  disesuaikan dengan kebutuhan Anda</strong></b></h2>
+                        <p style="font-family:roboto; text-transform: inherit;">
+                        Mengelola banyak marketplace di saat yang bersamaan bisa membuat Anda kewalahan. <br> Di sinilah layanan Channel Management kami bisa mengambil 
+                         alih masalah Anda.<br> Haistar akan mendampingi Anda dalam mengelola  pesanan sehingga Anda dapat fokus berinovasi dan mengembangkan produk, <br>
+                          meningkatkan demand, dan berkompetisi di pasar. 
                         </p>
                     </div>
                 </div>
@@ -113,7 +115,7 @@
     <!-- our service -->
     <div class="section section-our-clients-freebie">
         <div class="parallax">
-            <div style="position:absolute; margin-left:25%; margin-top:60px">
+        <div style="position:absolute; margin-left:25%; margin-top:60px">
                 <img height="auto" width="150" src="assets/img/Clouds.png" alt="">
             </div>
             <div style="position:absolute; float:right; margin-left:70%; margin-top:450px">
@@ -122,11 +124,11 @@
             <div style="position:absolute; margin-left:70%; margin-top:30px">
                 <img height="auto" width="150" src="assets/img/Plane.png" alt="">
             </div>
-            <!-- <div class="image" style="background: url('assets/img/Clouds.png'); "> -->
+            <!-- <div class="image" style="background-image: url('assets/img/plane.png'); margin-top: 50px"> -->
             <div class="container ">
                 <div class="title-area">
                         <hr  style="width: 9%; border-width: 5px; margin-left: 45%; color: #158390; border-top: 5px solid #158390;" />
-                    <h2 style="font-family:'sui'; color: #158390;"> Our Services</h2>
+                    <h2 style="font-family:'sui'; color: #158390;">Layanan Kami</h2>
                 </div>
                 <div class="carousel nav nav-text moveNextCarousel" style=" margin-top: -50px;">
                     
@@ -136,14 +138,14 @@
                                 <img alt="..." class="img-circle" src="assets/img/Delivery Management Process.png"/>
                             </div>
                             <div>
-                                <h5 style="color: #158390;">Delivery Management</h5>
+                                <h5 style="color: #158390;">Pengelolaan Pengantaran</h5>
                             </div>
                             <div>
-                                <p class="content-oser" style="font-family: roboto">
-                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; &nbsp; </span>Handover to delivery company</br> 
-                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; &nbsp; </span>I3PL assignment</br> 
-                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; &nbsp; </span>Shipment monitoring and </br>
-                                &nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> reporting</br>  
+                                <p class="content-oser" style="font-family: robotoha">
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span>Serah terima dengan perusahaan <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pengantaran</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span>Penunjukkan 3PL</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span>Pengawasan dan pelaporan </br>
+                                &nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span>  pengiriman</br>  
                                 </p>
                             </div>
                         </div>
@@ -154,17 +156,17 @@
                                 <img alt="..." class="img-circle" src="assets/img/Warehouse Service.png"/>
                             </div>
                             <div>
-                                <h5 style="color: #158390;">Warehouse Management</h5>
+                                <h5 style="color: #158390;">Pengelolaan Gudang</h5>
                             </div>
                             <div >
                                 <p class="content-oser" style="font-family: roboto">
-                                    <span>&#8226; &nbsp; </span> Product storage</br> 
-                                    <span>&#8226; &nbsp; </span> Inbound process - quality</br> 
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> control and put away</br> 
-                                    <span>&#8226; &nbsp; </span> Outbound process - picking and </br> 
-                                    <span> &nbsp;&nbsp;&nbsp;&nbsp; </span> packing</br> 
-                                    <span>&#8226; &nbsp; </span> Stock monitoring and reporting</br> 
-                                    <span>&#8226; &nbsp; </span> Order monitoring and reporting</br>
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Penyimpanan produk </br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Proses inbound - quality</br> 
+                                &nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> control dan put away</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Proses outbound  - picking dan  </br> 
+                                &nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> packing</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Pengawasan dan pelaporan stok</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Pengawasan dan pelaporan order</br>
                                 </p>
                             </div>
                         </div>
@@ -175,15 +177,15 @@
                                 <img alt="..." class="img-circle" src="assets/img/Store Operations.png"/>
                             </div>
                             <div>
-                                <h5 style="color: #158390;">Channel Management</h5>
+                                <h5 style="color: #158390;">Pengelolaan Kanal Penjualan</h5>
                             </div>
                             <div>
                                 <p class="content-oser" style="font-family: roboto">
-                                &nbsp;&nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Marketplace integration and </br>
-                                &nbsp;&nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> order management</br> 
-                                &nbsp;&nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Third party (partner) multi-</br>
-                                &nbsp;&nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> channel platform</br> 
-                                &nbsp;&nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Customer Service</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Integrasi marketplace dan  </br>
+                                &nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> manajemen order</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Platform multi-kanal dari </br>
+                                &nbsp;&nbsp;&nbsp;<span> &nbsp;&nbsp;&nbsp;&nbsp; </span> pihak ketiga (partner)</br> 
+                                &nbsp;&nbsp;&nbsp;<span>&#8226; &nbsp; </span> Layanan pelanggan</br> 
                                 </p>
                             </div>
                         </div>
@@ -258,9 +260,9 @@
     <div class="section">
         <div class="container">
             <div class="title-area">
-                <h2 style="color: #158390; font-family:'sui';">Warehouse Management System</h2>
+                <h2 style="color: #158390; font-family:'sui';">Sistem Pengelolaan Gudang</h2>
                 <p class="texte-center" style="font-family:roboto">
-                    Our Warehouse Management System (WMS) covers the entire order process from Shipping, Receiving, Putaway, Movement, and Packing. It provides realtime visibility and accuracy on transaction process and inventory stock.                         
+                Sistem Pengelolaan Gudang kami meliputi keseluruhan proses dari  Shipping, Receiving, Putaway, Movement, dan Packing. Sistem ini menyediakan visibilitas yang realtime dan akurat pada proses transaksi dan inventarisasi stok.                         
                 </p>
                 <!-- <p class="description"> 
                     <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Simple and straight forward UI/UX &nbsp; 
@@ -314,27 +316,27 @@
 
     <div class="section section-header">
         <div class="parallax">
-            <div>
+        <div>
                 <img style="width: 100%" src="assets/img/Wms2.png" height="750" alt="">
             </div>
             <!-- <div class="image"
-                style="background-image: url('assets/img/Wms2.png'); position:absolute; margin-top:20px; padding-top:10px; height: 120vh;">
+                style="background-image: url('assets/img/Wms2.png'); height: 120vh;">
             </div> -->
             <div class="container">
                 <div class="row">
                     <div class="col-xl-2"></div>
                     <div class="col-xl-6">
                         <div class="text-area" style="margin-left: 30%;">
-                            <h2 style="font-family:'sui'; color: #104C66">Capability</h2>
+                            <h2 style="font-family:'sui'; color: #104C66">Kapabilias</h2>
                             <h4 style="color: white;">
-                                <i class="fa fa-check-circle"></i> Simple and straight forward UI/UX <br>
-                                <i class="fa fa-check-circle"></i> Order status dashboard <br>
-                                <i class="fa fa-check-circle"></i> Mass upload capability <br>
-                                <i class="fa fa-check-circle"></i> Multi warehouse and multi channel capability <br>
-                                <i class="fa fa-check-circle"></i> Connection to 3PL: API system for order and transport management <br>
-                                <i class="fa fa-check-circle"></i> Realtime inventory check & minimum stock alert that help client in: <br>
-                                &nbsp;&nbsp;1. Understanding heatmap: fast and slow moving SKUs (Stock Keeping Unit) indicating best <br>  &nbsp;&nbsp; &nbsp;&nbsp;and worst sales performance for future improvement <br>
-                                &nbsp;&nbsp;2. Inventory planning: inventory replenishment and dead stock management<br>
+                                <i class="fa fa-check-circle"></i> UI/UX yang sederhana dan mudah dioperasikan <br>
+                                <i class="fa fa-check-circle"></i> Dasbor status order <br>
+                                <i class="fa fa-check-circle"></i> Kapabilitas untuk menggunggah massal <br>
+                                <i class="fa fa-check-circle"></i> Terhubung dengan lebih dari satu gudang dan kanal <br>
+                                <i class="fa fa-check-circle"></i> Koneksi ke 3PL dengan sistem API (application program interface) untuk mengelola order dan transpor <br>
+                                <i class="fa fa-check-circle"></i> Memberikan informasi realtime untuk inventaris dan stok yang menipis yang memudahkan klien dalam: <br>
+                                &nbsp;&nbsp;1. Memahami heatmap: di mana SKU (stock keeping unit) bergerak paling cepat maupun lambat,  <br>  &nbsp;&nbsp; &nbsp;&nbsp;memberikan indikasi performa penjualan terbaik dan terburuk sehingga perbaikan bisa dilakukan <br>
+                                &nbsp;&nbsp;2. Perencanaan inventaris: pengisian ulang inventaris dan pengelolaan stok mati<br>
                             </h4>
                             <button class="btn btn-fill btn-sm btn-white" style="border-radius: 50px; color: #104C66">JOIN US NOW</button>
                         </div>
@@ -350,9 +352,9 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="info">
-                        <h4 class="title" style="color: #158390;">ABOUT US</h4>
+                        <h4 class="title" style="color: #158390;">TENTANG HAISTAR</h4>
                         <p class="text-justify" style="color: #158390;">
-                            Haistar is an e-logistic solutions company that aims to help business owners to scale up their businesses by eliminating space, manpower, and system barriers with Haistar's industry-standard business process and Warehouse Management System.
+                        Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
                         </p><br>
                     </div>
 
