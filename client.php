@@ -109,7 +109,7 @@
                         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                         <li data-target="#carousel-example-generic" data-slide-to="1" ></li>
                         <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-                        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                        <!-- <li data-target="#carousel-example-generic" data-slide-to="3"></li> -->
                         <!-- <li data-target="#carousel-example-generic" data-slide-to="4"></li> -->
                     </ol>
                     <!-- Slider content (slider wrap)-->
@@ -118,22 +118,22 @@
                             <div class="row" style="margin-left: 10%; margin-right:10%">
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0;">
-                                        <img src="./assets/img/Client/Airy Room.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/airy.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/akulaku.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/Akulaku.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/Aukey.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/aukey.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/Bank Bri.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/Bri.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
@@ -143,7 +143,7 @@
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/Crayola.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/crayola.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
@@ -153,7 +153,7 @@
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/Walt Disney.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/disney.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
@@ -164,15 +164,10 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="row" >    
+                            <div class="row" style="margin-left: 10%; margin-right:10%" >    
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                         <img src="./assets/img/Client/Jbl.png" alt="" style="max-height: 100px">
-                                    </a>
-                                </div>
-                                <div class="col-xs-6 col-md-4">
-                                    <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/Lote Mart.png" alt="" style="max-height: 100px">
+                                         <img src="./assets/img/Client/lotemart.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
@@ -182,51 +177,56 @@
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/Pioneer.png" alt="" style="max-height: 100px">    
+                                        <img src="./assets/img/Client/pioneer.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/REddorz.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/reddorz.png" alt="" style="max-height: 100px">    
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/jonson.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/scjohnson.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/sen.jpg" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/senheiser.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/sopi.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/sophie.jpg" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/toped.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/tokopedia.png" alt="" style="max-height: 100px">
+                                    </a>
+                                </div>
+                                <div class="col-xs-6 col-md-4">
+                                    <a href="#" class="thumbnail" style="border: 0">
+                                        <img src="./assets/img/Client/Torch.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                             </div>
                         </div>
                         <div class="item">
-                            <div class="row">        
+                            <div class="row" style="margin-left: 10%; margin-right:10%">        
                             <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/Torch.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/xiaomi.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/mi.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/zilingo.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/Zlinggo.png" alt="" style="max-height: 100px">
+                                        <!-- <img src="./assets/img/Client/Zlinggo.png" alt="" style="max-height: 100px"> -->
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
@@ -256,40 +256,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="row">    
-                                <div class="col-xs-6 col-md-4">
-                                    <a href="#" class="thumbnail" style="border: 0">
-                                        <!-- <img src="./assets/img/Client/mi.png" alt="" style="max-height: 100px"> -->
-                                    </a>
-                                </div>
-                                <div class="col-xs-6 col-md-4">
-                                    <a href="#" class="thumbnail" style="border: 0">
-                                        <!-- <img src="./assets/img/Client/Zlinggo.png" alt="" style="max-height: 100px"> -->
-                                    </a>
-                                </div>
-                                <!-- <div class="col-xs-6 col-md-4">
-                                    <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/REddorz.png" alt="" style="max-height: 100px">
-                                    </a>
-                                </div>
-                                <div class="col-xs-6 col-md-4">
-                                    <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/Sc Jhonson.png" alt="" style="max-height: 100px">
-                                    </a>
-                                </div>
-                                <div class="col-xs-6 col-md-4">
-                                    <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/senheiser.png" alt="" style="max-height: 100px">
-                                    </a>
-                                </div>
-                                <div class="col-xs-6 col-md-4">
-                                    <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/sopie.png" alt="" style="max-height: 100px">
-                                    </a>
-                                </div> -->
-                            </div>
-                        </div>
+
                         <!-- <div class="item">
                             <div class="row">    
                                 <div class="col-xs-6 col-md-4">
@@ -342,25 +309,20 @@
                     <!-- Slider content (slider wrap)-->
                     <div class="carousel-inner">
                         <div class="item active">
-                            <div class="row">
+                            <div class="row" style="margin-left: 10%; margin-right:10%">
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0;">
-                                        <img src="./assets/img/Partner/cepat.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Partner/J&t.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Partner/jt.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Partner/JNE.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Partner/jne.png" alt="" style="max-height: 100px">
-                                    </a>
-                                </div>
-                                <div class="col-xs-6 col-md-4">
-                                    <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Partner/cargo.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Partner/Indah.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
@@ -373,18 +335,23 @@
                                         <img src="./assets/img/Partner/pos.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
+                                <div class="col-xs-6 col-md-4">
+                                    <a href="#" class="thumbnail" style="border: 0">
+                                        <img src="./assets/img/Partner/gojek.png" alt="" style="max-height: 100px">
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="item">
-                            <div class="row">    
+                            <div class="row" style="margin-left: 10%; margin-right:10%">    
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Partner/grab.png" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Partner/Grab.png" alt="" style="max-height: 100px">
                                     </a>
                                  </div>
                                <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Partner/gojek.png" alt="" style="max-height: 100px">
+                                        <!-- <img src="./assets/img/Partner/gojek.png" alt="" style="max-height: 100px"> -->
                                     </a>
                                  </div>
                             </div>
