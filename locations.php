@@ -86,7 +86,7 @@
 
     <div class="section">
         <div class="parallax">
-            <div class="image" style="background-image: url('assets/img/indo.png'); margin-top: 50px">
+            <div class="image" style="background-image: url('assets/img/polos.png'); margin-top: 50px">
                  <div id="jakarta-spot">
                     <button type="button" class="spot" onmouseenter="jakartaShow()" onclick="jakartaShow()"></button>
                 </div>

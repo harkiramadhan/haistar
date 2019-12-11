@@ -78,8 +78,18 @@
 
     <div class="section section-header">
         <div class="parallax">
-            <div class="image"
+            <!-- <div class="image"
                 style="background-image: url('assets/img/Why.png')">
+            </div> -->
+            <div class="image"
+                style="background: url('assets/img/bannerbg.png');  background-size: 100% 100%; background-repeat: no-repeat;  background-position: center; ">
+                
+            </div>
+            <div class="image"
+                style="background: url('assets/img/Icons.png');  background-size: 70% 60%; background-repeat: no-repeat;  background-position: bottom; ">  
+            </div>
+            <div class="image"
+                style="background: url('assets/img/whyeng.png');  background-size: 35% 4%; background-repeat: no-repeat;  margin-top:15%; margin-left:35%; ">  
             </div>
         </div>
     </div>

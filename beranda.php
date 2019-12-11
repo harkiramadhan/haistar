@@ -147,8 +147,18 @@
 
     <div class="section">
         <div class="parralax">
-            <div class="image" style="background-image: url('assets/img/visi.png'); height: 135vh">
+        <div class="image"
+                style="background: url('assets/img/line.png');  background-size: 100% 65%; background-repeat: no-repeat;  margin-top:20%; ">  
             </div>
+            <div class="image"
+                style="background: url('assets/img/rocket.png');  background-size: 25% 50%; background-repeat: no-repeat;  margin-left:75%; margin-top:24% ">  
+            </div>
+            <!-- <div class="image"
+                style="background: url('assets/img/kotak.png');  background-size: 100% 30%; background-repeat: no-repeat; margin-top:45% ">  
+            </div> -->
+            
+            <!-- <div class="image" style="background-image: url('assets/img/visi.png'); height: 135vh">
+            </div> -->
             <div class="container">
                 <div class="title-area">
                     <h2  style="font-family:'sui'; color: #158390;">Visi</h2>
@@ -181,11 +191,16 @@
 
     <div class="section section-our-team-freebie">
         <div class="parallax">
+        
+            
             <div class="image" style="background-color:#fff">
             </div>
             <div class="container">
+            
                 <div class="content">
+                
                     <div class="row">
+                   
                         <div class="title-area">
                             <h2 class="text-white" style="font-family:'sui'; color: #0f525e;">Tim Manajemen</h2>
                         </div>

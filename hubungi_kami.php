@@ -92,9 +92,12 @@
     <br>
     <div class="section section-header" style="margin-top: 50px;">
         <div class="parallax">
-            <div class="image"
-                style="background-image: url('assets/img/Contact.png');">
+        <div class="image"
+                style="background: url('assets/img/kontak.png');  background-size: 100% 100%; background-repeat: no-repeat;  background-position: center; ">      
             </div>
+            <!-- <div class="image"
+                style="background-image: url('assets/img/Contact.png');">
+            </div> -->
         </div>
     </div>
 

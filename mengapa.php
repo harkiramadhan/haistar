@@ -78,9 +78,24 @@
 
     <div class="section section-header">
         <div class="parallax">
-            <div class="image"
-                style="background-image: url('assets/img/mengapa.png')">
+        <!-- <div id="mengapa-spot">
+                <h1>Mengapa Haistar</h1>
+            </div> -->
+        <div class="image"
+                style="background: url('assets/img/bannerbg.png');  background-size: 100% 100%; background-repeat: no-repeat;  background-position: center; ">
+                
             </div>
+            <div class="image"
+                style="background: url('assets/img/Icons.png');  background-size: 70% 60%; background-repeat: no-repeat;  background-position: bottom; ">  
+            </div>
+            <div class="image"
+                style="background: url('assets/img/why.png');  background-size: 35% 4%; background-repeat: no-repeat;  margin-top:15%; margin-left:35%; ">  
+            </div>
+            
+            
+            <!-- <div class="image"
+                style="background-image: url('assets/img/mengapa.png')">
+            </div> -->
         </div>
     </div>
 
