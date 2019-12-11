@@ -81,7 +81,7 @@
                             <a href="lokasi.php" style="color: #104C66">Lokasi</a>
                         </li>
                         <li>
-                            <a href="hubungu_kami.php" style="color: #104C66">Hubungi Kami</a>
+                            <a href="hubungi_kami.php" style="color: #104C66">Hubungi Kami</a>
                         </li>
                     </ul>
                 </div>

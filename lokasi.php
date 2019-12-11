@@ -42,7 +42,7 @@
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img style="padding:1px" width="25" height="25" src="./assets/img/icon_youtube.png"></a>
                             &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px;" href="lokasi.php"><strong>ID</strong></a>
                             &nbsp;&nbsp;<a href="#"><img height="25px" src="./assets/img/i.png"></a>
-                            &nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px" href="location.php"><strong>EN</strong></a>
+                            &nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px" href="locations.php"><strong>EN</strong></a>
                         </div>
                     </ul>
                 </div>
@@ -230,19 +230,19 @@
                                         <div class="row">
                                             <div class="col-md-8">
                                                 <p class="description text-justify">
-                                                    Jl. Pegangsaan Dua No. KM 42, Pegangsaan Dua, Kelapa Gading Jakarta Utara, DKI Jakarta 14250
+                                                Jl. Soekarno Hatta No. 480, Kota Bandung<br> (022) 875 08 919
                                                 </p>
                                                 <p class="description">
                                                     <table class="text-left">
                                                         <tr>
                                                             <td>Space&nbsp;</td>
                                                             <td>&nbsp;:&nbsp;</td>
-                                                            <td>&nbsp;4,300 sqm</td>
+                                                            <td>&nbsp;2,000 sqm</td>
                                                         </tr>
                                                         <tr>
                                                             <td>Storage Capacity&nbsp;</td>
                                                             <td>&nbsp;:&nbsp;</td>
-                                                            <td>&nbsp;600.000 - 800.000 Items</td>
+                                                            <td>&nbsp;200.000 - 300.000 Items</td>
                                                         </tr>
                                                         <tr>
                                                             <td>Inbound SLA&nbsp;</td>
@@ -253,6 +253,11 @@
                                                             <td>Outbound SLA&nbsp;</td>
                                                             <td>&nbsp;:&nbsp;</td>
                                                             <td>&nbsp;24 Hours</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Fully Operational&nbsp;</td>
+                                                            <td>&nbsp;:&nbsp;</td>
+                                                            <td>&nbsp;April 2019</td>
                                                         </tr>
                                                     </table>
                                                 </p>
@@ -288,21 +293,21 @@
                                     <div class="title-area" style="color: black;">
                                         <h4 class="title-modern text-left text-uppercase"><strong>Surabaya</strong></h4>
                                         <div class="row">
-                                            <div class="col-md-8">
+                                        <div class="col-md-8">
                                                 <p class="description text-justify">
-                                                    Jl. Pegangsaan Dua No. KM 42, Pegangsaan Dua, Kelapa Gading Jakarta Utara, DKI Jakarta 14250
+                                                Jl. Kaliwaron No. 54-56, Mojo, Kota Surabaya<br> (031) 593 92 94 / (031) 593 84 26
                                                 </p>
                                                 <p class="description">
                                                     <table class="text-left">
                                                         <tr>
                                                             <td>Space&nbsp;</td>
                                                             <td>&nbsp;:&nbsp;</td>
-                                                            <td>&nbsp;4,300 sqm</td>
+                                                            <td>&nbsp; sqm</td>
                                                         </tr>
                                                         <tr>
                                                             <td>Storage Capacity&nbsp;</td>
                                                             <td>&nbsp;:&nbsp;</td>
-                                                            <td>&nbsp;600.000 - 800.000 Items</td>
+                                                            <td>&nbsp;Items</td>
                                                         </tr>
                                                         <tr>
                                                             <td>Inbound SLA&nbsp;</td>
@@ -313,6 +318,11 @@
                                                             <td>Outbound SLA&nbsp;</td>
                                                             <td>&nbsp;:&nbsp;</td>
                                                             <td>&nbsp;24 Hours</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Fully Operational&nbsp;</td>
+                                                            <td>&nbsp;:&nbsp;</td>
+                                                            <td>&nbsp;April 2019</td>
                                                         </tr>
                                                     </table>
                                                 </p>
@@ -372,21 +382,22 @@
                                     <div class="title-area" style="color: black;">
                                         <h4 class="title-modern text-left text-uppercase"><strong>Makassar</strong></h4>
                                         <div class="row">
-                                            <div class="col-md-8">
+                                        <div class="col-md-8">
                                                 <p class="description text-justify">
-                                                    Jl. Pelita Raya No. 34C, Kec. Rapoccini, Kota Makassar 0852 9919 0858
+                                                Jl. Pelita Raya No. 34C, Kec. Rapoccini, Kota Makkassar 0852 9919 0858
+
                                                 </p>
                                                 <p class="description">
                                                     <table class="text-left">
                                                         <tr>
                                                             <td>Space&nbsp;</td>
                                                             <td>&nbsp;:&nbsp;</td>
-                                                            <td>&nbsp;4,300 sqm</td>
+                                                            <td>&nbsp;sqm</td>
                                                         </tr>
                                                         <tr>
                                                             <td>Storage Capacity&nbsp;</td>
                                                             <td>&nbsp;:&nbsp;</td>
-                                                            <td>&nbsp;600.000 - 800.000 Items</td>
+                                                            <td>&nbsp;Items</td>
                                                         </tr>
                                                         <tr>
                                                             <td>Inbound SLA&nbsp;</td>
@@ -397,6 +408,11 @@
                                                             <td>Outbound SLA&nbsp;</td>
                                                             <td>&nbsp;:&nbsp;</td>
                                                             <td>&nbsp;24 Hours</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Fully Operational&nbsp;</td>
+                                                            <td>&nbsp;:&nbsp;</td>
+                                                            <td>&nbsp;April 2019</td>
                                                         </tr>
                                                     </table>
                                                 </p>
@@ -431,11 +447,11 @@
                                     <div class="title-area" style="color: black;">
                                         <h4 class="title-modern text-left text-uppercase"><strong>Palembang</strong></h4>
                                         <div class="row">
-                                            <div class="col-md-8">
+                                        <div class="col-md-8">
                                                 <p class="description text-justify">
-                                                    Jl. Pelita Raya No. 34C, Kec. Rapoccini, Kota Makassar 0852 9919 0858
+                                                Coming Soon 
                                                 </p>
-                                                <p class="description">
+                                                <!-- <p class="description">
                                                     <table class="text-left">
                                                         <tr>
                                                             <td>Space&nbsp;</td>
@@ -458,7 +474,7 @@
                                                             <td>&nbsp;24 Hours</td>
                                                         </tr>
                                                     </table>
-                                                </p>
+                                                </p> -->
                                             </div>
                                             <div class="col-md-4">
                                                 <div id="myCarousel" class="carousel slide" data-ride="carousel">

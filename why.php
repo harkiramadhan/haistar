@@ -104,7 +104,7 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1> <img style="max-height: 70px;" src="assets/img/time.png"> </h1>
-                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px">We Uphold Time Efficiency <br><br> and Productivity</h3>
+                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px; line-height: 1.6">We Uphold Time Efficiency and Productivity</h3>
                                 <p class="small-text"></p>
                                 <p class="description text-justify"  style="font-family:roboto">We are deeply commited in delivering our best and meeting your expectations. We focus on being time efficient and highly productive. We work with standard Service Level Agreement (SLA) and measureable Key Performance Indicators (KPIs) for a tangible, excellent result.</p>
                             </div>
@@ -132,7 +132,7 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1><img style="max-height: 70px;" src="assets/img/integrated.png"></h1>
-                                <h3 class="title" style="color: #158390;font-family: sui generis free; font-size:15px">Integrated System, Thorough <br><br> Accessibility, Realtime Visibility, <br><br> Communication</h3>
+                                <h3 class="title" style="color: #158390;font-family: sui generis free; font-size:15px; line-height: 1.6">Integrated System, Thorough  Accessibility, Realtime Visibility, Communication</h3>
                                 <p class="small-text"></p>
                                 <p class="description text-justify"  style="font-family:roboto">Our system enables you to access Order Management System (OMS), Warehouse Management System (WMS), and Transport Management System (TMS) on the same dashboard. 
                                     Our Application Programming Interface (API) integration also allows this system to be integrated with marketplace, your system, and our system with thorough visibility. On top of that, we also maintain a fast response policy in communicating with marketplace and you.</p>
@@ -150,7 +150,7 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1><img style="max-height: 70px;" src="assets/img/data mining.png"></i></h1>
-                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px">Data Mining, Customer Behavior <br> <br> Insight, Better Sales Forecast</h3>
+                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px; line-height: 1.6">Data Mining, Customer Behavior Insight, Better Sales Forecast</h3>
                                 <p class="small-text"></p>
                                 <p class="description text-justify"  style="font-family:roboto">Accesibility to view the entire business process on realtime basis means there will so much data to mine. Our team will then analyse and translate this into a comprehensive report that covers customer behavior insight on your fast moving-slow moving Stock Keeping Units (SKUs), heatmap, and our best practice in Marketing.   
                                     You will be able to focus on developing your core business based on this information and create better sales forecast and marketing approach to avoid loss sales.</p>

@@ -172,14 +172,14 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="info">
-                        <h4 class="title" style="color: #158390;">ABOUT US</h4>
+                        <h4 class="title" style="color: #158390; font-family: sui generis free">ABOUT US</h4>
                         <p class="text-justify" style="color: #158390;">
                             Haistar adalah perusahaan penyedia solusi e-logistics yang bertujuan membantu pemilik bisnis untuk memperbesar skala bisnis dengan mengeliminasi masalah space, tenaga kerja, dan sistem dengan proses bisnis dan sistem pengelolaan gudang yang sesuai dengan standar industri.
                         </p><br>
                     </div>
 
                     <div class="info">
-                        <h4 class="title" style="color: #158390;">HEAD OFFIICE</h4>
+                        <h4 class="title" style="color: #158390; font-family: sui generis free">HEAD OFFIICE</h4>
                         <p class="text-justify" style="color: #158390;">
                             Jl. Pegangsaan Dua No. KM 42, Pegangsaan Dua, Kelapa Gading Jakarta Utara, DKI Jakarta 14250
                         </p>
@@ -187,7 +187,7 @@
                 </div>
                 <div class="col-md-3">
                     <div class="info">
-                        <h4 class="title" style="color: #158390;">CONTACT</h4>
+                        <h4 class="title" style="color: #158390; font-family: sui generis free">CONTACT</h4>
                         <nav>
                             <ul>
                                 <li style="color: #158390;"><i class="fa fa-envelope" style="color: #158390;"></i> sales@haistar.asia</li>

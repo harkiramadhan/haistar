@@ -79,7 +79,7 @@
     <div class="section section-header">
         <div class="parallax">
             <div class="image"
-                style="background-image: url('assets/img/Whyindo.png')">
+                style="background-image: url('assets/img/mengapa.png')">
             </div>
         </div>
     </div>
@@ -101,7 +101,7 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1> <img style="max-height: 70px;" src="assets/img/time.png"> </h1>
-                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px">Kami Menjunjung Waktu <br><br>dan Produktivitas</h3>
+                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px; line-height: 1.6">Kami Menjunjung Waktu dan Produktivitas</h3>
                                 <p class="small-text"></p>
                                 <p class="description text-justify"  style="font-family:roboto">Kami sangat berkomitmen dalam memberikan yang terbaik, sesuai dengan ekspektasi Anda. Kami fokus pada kinerja yang efisien, tepat waktu, dan produktif. Kami bekerja sesuai dengan standar Service Level Agreement (SLA) dan Key Performance Indicators (KPI) yang terukur untuk menghasilkan hasil yang nyata dan unggul.</p>
                             </div>
@@ -115,7 +115,7 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1> <img style="max-height: 70px;" src="assets/img/task.png"></h1>
-                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px">Perencanaan Inventaris <br><br> yang Lebih Baik</h3>
+                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px; line-height: 1.6">Perencanaan Inventaris yang Lebih Baik</h3>
                                 <p class="small-text"></p>
                                 <p class="description text-justify"  style="font-family:roboto">Bekerjasama dengan kami berarti 100% transparansi. Transparansi akan keseluruhan proses bisnis.
                                    Transparansi biaya, dan transparansi dan akurasi stok inventaris. Sistem kami akan memberikan peringatan pada Anda untuk stok yang menipis dan stok mati agar dapat membuat perencanaan dan pengisian ulang inventaris yang lebih baik.</p>
@@ -130,7 +130,7 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1><img style="max-height: 70px;" src="assets/img/integrated.png"></h1>
-                                <h3 class="title" style="color: #158390;font-family: sui generis free; font-size:15px">Sistem Terintegrasi, Aksesibilitas <br><br> Menyeluruh, Visibilitas Realtime,<br><br> Komunikasi</h3>
+                                <h3 class="title" style="color: #158390;font-family: sui generis free; font-size:15px; line-height: 1.6">Sistem Terintegrasi, Aksesibilitas Menyeluruh, Visibilitas Realtime, Komunikasi</h3>
                                 <p class="small-text"></p>
                                 <p class="description text-justify"  style="font-family:roboto">Sistem kami memungkinkan Anda untuk mengakses Order Management System (OMS), Warehouse Management System (WMS), dan Transport Management System (TMS) pada satu dashboard. Integrasi Application Programming Interface (API) kami menghubungkan antara marketplace, sistem Anda, dan sistem kami dengan visibilitas yang menyeluruh. Selain itu, kami juga mempunyai kebijakan di mana kami harus cepat memberikan respon ketika berkomunikasi dengan marketplace dan Anda.</p>
                             </div>
@@ -147,7 +147,7 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1><img style="max-height: 70px;" src="assets/img/data mining.png"></i></h1>
-                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px">Penggalian Data, Wawasan <br><br> Perilaku Pelanggan, Perkiraan<br><br> Penjualan yang Lebih Baik</h3>
+                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px; line-height: 1.6">Penggalian Data, Wawasan Perilaku Pelanggan, Perkiraan Penjualan yang Lebih Baik</h3>
                                 <p class="small-text"></p>
                                 <p class="description text-justify"  style="font-family:roboto">Akses untuk melihat keseluruhan proses bisnis secara realtime berarti akan ada banyak sekali data yang bisa digali. Tim kami akan menganalisa dan menerjemahkan data ini menjadi sebuah laporan komprehensif yang mencakup informasi mengenai perilaku pelanggan dari Stock Keeping Unit (SKU) Anda yang cepat habis, lama habis, heatmap penjualan, serta rekomendasi best practice pemasaran yang bisa Anda lakukan. Dengan ini Anda bisa fokus pada pengembangan inti bisnis Anda dan membuat perkiraan penjualan serta pendekatan pemasaran yang lebih tepat untuk menghindari kerugian.</p>
                             </div>
@@ -161,7 +161,7 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-10 text-center">
                                 <h1><img style="max-height: 70px;" src="assets/img/fleksible.png"></h1>
-                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px">Sumber Daya yang Fleksibel <br><br> dan Dapat Disesuaikan</h3>
+                                <h3 class="title" style="color: #158390; font-family: sui generis free; font-size:15px; line-height: 1.6">Sumber Daya yang Fleksibel dan Dapat Disesuaikan</h3>
                                 <p class="small-text"></p>
                                 <p class="description text-justify"  style="font-family:roboto">Fluktuasi volume dapat menjadi sumber resiko dan masalah untuk pengelolaan sumber daya manusia Anda. Dengan wawasan dan informasi yang disebut di atas, kami dapat membantu Anda menyesuaikan sumber daya Anda sesuai dengan masa penjualan tinggi maupun rendah dan merekomendasikan perencanaan Full Time Employee (FTE) yang ideal.</p>
                             </div>

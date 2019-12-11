@@ -83,10 +83,10 @@
             <div class="container">
                 <div class="content">
                     <div class="title-area-2">
-                        <h2 class="title-modern" style="margin-top:5%; font-family: sui generis free; font-size:22px"><strong><br><br>Hilangkan Kerumitan Dalam Menumbuhkan Bisnis <br> E-commerce Anda Dengan Haistar</strong></h2>
+                        <h2 class="title-modern" style="margin-top:5%; font-family: sui generis free; font-size:22px; line-height: 1.6"><strong><br><br>Hilangkan Kerumitan Dalam Menumbuhkan Bisnis <br> E-commerce Anda Dengan Haistar</strong></h2>
                         <p style="font-size: medium; text-transform: none; font-family: roboto;">Haistar adalah perusahaan solusi e-logistic yang memiliki tim manajemen berpengalaman di industri, gudang di lima kota, manajemen sistem gudang  <br> yang terintegrasi, dan infrastruktur serta proses bisnis yang sesuai <br> dengan standar industri.</p>
                         <p style="font-size: medium; text-transform: none; font-family: roboto;"> 
-                             Haistar bertujuan menjadi rekan yang memudahkan Anda dalam memperbesar <br> skala bisnis, apapun ukurannya. Baik Anda baru memulai, <br> sedang bertumbuh, atau justru bisnis Anda sudah terlalu besar <br> untuk masih ditangani sendiri, kami dapat menyesuaikan solusi <br> kami dengan kebutuhan spesifik Anda.
+                             Haistar bertujuan menjadi rekan yang memudahkan Anda <br> dalam memperbesar skala bisnis, apapun ukurannya. <br> Baik Anda baru memulai, sedang bertumbuh, <br> atau justru bisnis Anda sudah terlalu besar <br>untuk masih ditangani sendiri, kami dapat <br> menyesuaikan solusi kami dengan kebutuhan spesifik Anda.
                         </p>
                     </div>
                 </div>
@@ -152,25 +152,25 @@
             <div class="container">
                 <div class="title-area">
                     <h2  style="font-family:'sui'; color: #158390;">Visi</h2>
-                    <p class="text-justify" style="font-size: 12px;">
+                    <p class="text-justify" style="font-size: 14px;">
                     Menjadi partner teknologi regional pilihan yang dikenal karena jaringan logistik dan keahlian industri yang kuat bagi para pemilik Usaha Kecil Menengah (UKM) dan brand yang ingin memperbesar dan mempercepat pertumbuhan bisnis mereka di Indonesia maupun Asia Tenggara.
                     </p>
                 </div>
                 <div class="title-area">
                     <h2  style="font-family:'sui'; color: #158390;">Misi</h2>
-                    <p class="text-justify" style="font-size: 12px;">
+                    <p class="text-justify" style="font-size: 14px;">
                     Menyediakan solusi rantai pasokan bagi pemilik bisnis tanpa menyulitkan: masuk akal dalam biaya, pengalaman pengguna yang mulus, dan ekosistem logistik yang kuat namun fleksibel.
                     </p>
-                    <p class="text-justify" style="font-size: 12px;">
+                    <p class="text-justify" style="font-size: 14px;">
                      Proses bisnis dan infrastruktur yang sesuai standar kelayakan industri
                     </p>
-                    <p class="text-justify" style="font-size: 12px;">
+                    <p class="text-justify" style="font-size: 14px;">
                     Sistem yang terintegrasi, mudah digunakan, serta memberikan visibilitas dan transparansi dalam memonitor kegiatan operasional klien
                     </p>
-                    <p class="text-justify" style="font-size: 12px;">
+                    <p class="text-justify" style="font-size: 14px;">
                     Investasi yang masuk akal dan teroptimalisasi untuk memperbesar skala usaha ketika memasuki dan menumbuhkan bisnis e-commerce. Haistar memiliki fleksibilitas yang memungkinkan pemilik bisnis untuk berkolaborasi dengan partner Haistar di kota manapun di Indonesia dan Asia Tenggara sehingga biaya yang dikeluarkan lebih efisien dan digunakan secara optimal
                     </p>
-                    <p class="text-justify" style="font-size: 12px;">
+                    <p class="text-justify" style="font-size: 14px;">
                     Membentuk ekosistem logistik baru di mana pemilik bisnis, Haistar, dan para stakeholder yang terlibat bersinergi dan tumbuh bersama-sama 
                     </p>
                 </div>
