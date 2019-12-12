@@ -1110,6 +1110,10 @@ fieldset[disabled] .form-control {
     background-color: #FFFFFF;
 }
 
+.res {
+    margin-top: -20vh;
+}
+
 .section-gray {
     background-color: #EEEEEE;
     padding: 70px 0;
@@ -3148,6 +3152,9 @@ fieldset[disabled] .form-control {
 }
 
 @media (max-width: 992px) {
+    .res {
+        margin-top: 0vh;
+    }
     .section-with-hover .project .over-area {
         opacity: 1;
         -webkit-transition: background 0.25s, opacity 0.25s 0.25s;
@@ -3251,6 +3258,9 @@ fieldset[disabled] .form-control {
 }
 
 @media (max-width: 768px) {
+    .res {
+        margin-top: 0vh;
+    }
     h1 {
         font-size: 2em;
         line-height: 1.25;
@@ -3893,6 +3903,9 @@ body {
 /*          Changes for small display      */
 
 @media (max-width: 767px) {
+    .res {
+        margin-top: 0vh;
+    }
     .navbar-transparent {
         padding-top: 0;
         background-color: rgba(0, 0, 0, 0.45);
@@ -4119,6 +4132,9 @@ body {
 }
 
 @media (max-width: 930px) {
+    .res {
+        margin-top: 0vh;
+    }
     .text-xs-center {
         text-align: center;
     } 
@@ -4152,6 +4168,15 @@ body {
 }
 
 @media (max-width: 992px) {
+    .navresponsive{
+        margin-top: -100000vh !important;
+    }
+    .res {
+        margin-top: 0vh;
+    }
+    .titleresponsive {
+        margin-top: 28vh;
+    }
     .section-faq .box {
         max-width: 480px;
         margin: 0 auto;

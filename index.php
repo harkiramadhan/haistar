@@ -23,7 +23,7 @@
     <nav class="navbar navbar-default navbar-transparent navbar-fixed-top" style="background-color: white;">
         <div class="container">
             <div class="navbar-header">
-                <button id="menu-toggle" type="button" class="navbar-toggle" style="background-color: black" data-toggle="collapse" data-target=".navbar-collapse">
+                <button id="menu-toggle" type="button" class="navbar-toggle" style="background-color: #0f525e" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar bar1"></span>
                     <span class="icon-bar bar2"></span>
@@ -33,81 +33,94 @@
                     <img src="assets/img/Haistar - Color.png" style="max-height: 30px;" alt="">
                 </a>
             </div>
-            <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav navbar-right" style="margin-right:30px; margin-top:30px;">
-                        <div>
-                            <a href="https://api.whatsapp.com/send?phone=6281296555536"><img width="25" height="25" src="./assets/img/wa.png"></a>
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/haistar.id/"><img width="25" height="25" src="./assets/img/icon_ig.png"></a>
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img style="padding:1px" width="25" height="25" src="./assets/img/icon_youtube.png"></a>
-                            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px;" href="beranda.php"><strong>ID</strong></a>
-                            &nbsp;&nbsp;<a href="#"><img height="25px" src="./assets/img/i.png"></a>
-                            &nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px" href="index.php"><strong>EN</strong></a>
-                        </div>
-                    </ul>
-                </div>
+            <div class="collapse navbar-collapse" id="socialArea">
+                <ul class="nav navbar-nav navbar-right" style="margin-right:30px; margin-top:30px;">
+                    <div>
+                        <a href="https://api.whatsapp.com/send?phone=6281296555536"><img width="25" height="25" src="./assets/img/wa.png"></a>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/haistar.id/"><img width="25" height="25" src="./assets/img/icon_ig.png"></a>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCSGE-UNRo63yCs6xOmWAfOg"><img style="padding:1px" width="25" height="25" src="./assets/img/icon_youtube.png"></a>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px;" href="beranda.php"><strong>ID</strong></a>
+                        &nbsp;&nbsp;<a href="#"><img height="25px" src="./assets/img/i.png"></a>
+                        &nbsp;&nbsp;<a style="color: #104C66; font-size: large; margin-bottom: -1px" href="index.php"><strong>EN</strong></a>
+                    </div>
+                </ul>
+            </div>
         </div>
     </nav>
-    <nav class="navbar navbar-blue navbar-transparent navbar-fixed-top" color-on-scroll="200" style="margin-top: 80px">
-
+    <nav class="navbar navbar-blue navbar-transparent navbar-fixed-top navresponsive" color-on-scroll="200" style="margin-top: 80px">
         <div class="container">
-                <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li class="active">
-                            <a href="index.php" >About</a>
-                        </li>
-                        <li>
-                            <a href="services.php">services</a>
-                        </li>
-                        <li>
-                            <a href="why.php">Why Haistar</a>
-                        </li>
-                        <li>
-                            <a href="client.php">Clients & Partners</a>
-                        </li>
-                        <li>
-                            <a href="locations.php">Location</a>
-                        </li>
-                        <li>
-                            <a href="contact_us.php">Contact Us</a>
-                        </li>
-                    </ul>
-                </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active">
+                        <a href="index.php" >About</a>
+                    </li>
+                    <li>
+                        <a href="services.php">services</a>
+                    </li>
+                    <li>
+                        <a href="why.php">Why Haistar</a>
+                    </li>
+                    <li>
+                        <a href="client.php">Clients & Partners</a>
+                    </li>
+                    <li>
+                        <a href="locations.php">Location</a>
+                    </li>
+                    <li>
+                        <a href="contact_us.php">Contact Us</a>
+                    </li>
+                </ul>
             </div>
+        </div>
     </nav>
 
 
     <div class="section section-header">
         <div class="parallax">
-            <div class="image" style="background-image: url('assets/img/home.png')">
+            <div class="image" style="background-image: url('assets/img/home.png'); z-index: 0;">
             </div>
             <div class="container">
-                <div class="content">
+                <div class="content titleresponsive">
                     <div class="title-area-2">
                     <h2 class="title-modern" style="margin-top:5%; font-family: sui generis free; font-size:22px; line-height: 1.6">We Help Grow Your E-Commerce <br> Business With No Hassle</h2>
                         <p style="font-size: medium; text-transform: none; font-family: roboto;">A Jakarta-based e-logistics solutions company equipped with experienced management team in the industry, warehouses  in five different cities, <br> integrated warehouse management system,  <br> and industry-standard business process
-                            and infrastructure, <br> Haistar aims to  ease your way in scaling up your business.</p>
-                        <p style="font-size: medium; text-transform: none; font-family: roboto;"> Whether you’re just starting, in the middle of growing, <br> or getting too big still be independent, <br> we can adjust and provide to your specific needs.
+                            and infrastructure, <br> Haistar aims to  ease your way in scaling up your business. <br><br>
+                            Whether you’re just starting, in the middle of growing, <br> or getting too big still be independent, <br> we can adjust and provide to your specific needs.
                         </p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
-    <div class="section">
-        <div class="row">
-            <div class="col-sm-4 text-center" id="warehouse" >
-                <img src="./assets/img/Warehouse Service.png" style="max-height: 150px; min-height:50px" class="img-rounded">
-                <h3 class="title-modern pt-5" style="color: #158390;">Warehouse Service</h3>
-            </div>
-            <div class="col-sm-4 text-center" id="delivery" style="margin-left: -40px">
-                <img src="./assets/img/Delivery Management Process.png" style="max-height: 150px; min-height:50px" class="img-rounded">
-               
-                <h3 class="title-modern pt-5" style="color: #158390";>Delivery Management <br> Process</h3>
-            </div>
-            <div class="col-sm-4 text-center" style="color: #158390; margin-left: 50px" id="channel">
-                <img src="./assets/img/Store Operations.png" style="max-height: 150px; min-height:50px" class="img-rounded">
-                <h3 class="title-modern pt-5">Channel Management</h3>
+        
+    <div class="section res" style="background-color: transparent">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2">
+                    <div class="info-icon">
+                        <div class="icon">
+                            <img src="./assets/img/Warehouse Service.png" style="max-height: 120px;" class="img-rounded">
+                        </div>
+                        <h3 class="title-modern" style="color: #158390;">Warehouse Service</h3>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="info-icon">
+                        <div class="icon">
+                            <img src="./assets/img/Delivery Management Process.png" style="max-height: 120px;" class="img-rounded">
+                        </div>
+                        <h3 class="title-modern" style="color: #158390;">Delivery Management Process</h3>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="info-icon">
+                        <div class="icon">
+                            <img src="./assets/img/Store Operations.png" style="max-height: 120px;" class="img-rounded">
+                        </div>
+                        <h3 class="title-modern" style="color: #158390;">Channel Management</h3>
+                    </div>
+                </div>
+                <div class="col-md-6"></div>
             </div>
         </div>
     </div>
