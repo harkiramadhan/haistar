@@ -10,14 +10,8 @@
     <title>Haistar</title>
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     
-    
-    
-
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="assets/css/materialize.min-1.0.0.css">
-
-    
-
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <link href="assets/css/gaia.css" rel="stylesheet"/>
     <link href="assets/css/style.css" rel="stylesheet"/>
@@ -33,10 +27,10 @@
 
 <body>
 
-<nav class="navbar navbar-default navbar-transparent navbar-fixed-top" style="background-color: white;">
+    <nav class="navbar navbar-default navbar-transparent navbar-fixed-top" style="background-color: white;">
         <div class="container">
             <div class="navbar-header">
-                <button id="menu-toggle" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example">
+                <button id="menu-toggle" type="button" class="navbar-toggle" style="background-color: #0f525e" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar bar1"></span>
                     <span class="icon-bar bar2"></span>
@@ -60,7 +54,7 @@
                 </div>
         </div>
     </nav>
-    <nav class="navbar navbar-blue navbar-fixed-top" style="margin-top: 80px">
+    <nav class="navbar navbar-blue navbar-fixed-top navresponsive" style="margin-top: 80px">
 
         <div class="container">
                 <div class="collapse navbar-collapse">
@@ -314,8 +308,8 @@
 
     <div class="section section-header">
         <div class="parallax">
-            <div>
-                <img style="width: 100%" src="assets/img/Wms2.png" height="750" alt="">
+            <div class="image">
+                <img style="width: 100%" src="assets/img/Wms2.png" height="750vh" alt="">
             </div>
             <!-- <div class="image"
                 style="background-image: url('assets/img/Wms2.png'); position:absolute; margin-top:20px; padding-top:10px; height: 120vh;">
@@ -326,7 +320,7 @@
                     <div class="col-xl-6">
                         <div class="text-area" style="margin-left: 30%;">
                             <h2 style="font-family:'sui'; color: #104C66">Capability</h2>
-                            <h4 style="color: white;">
+                            <h4 style="color: white; margin-top: 10vh;">
                                 <i class="fa fa-check-circle"></i> Simple and straight forward UI/UX <br>
                                 <i class="fa fa-check-circle"></i> Order status dashboard <br>
                                 <i class="fa fa-check-circle"></i> Mass upload capability <br>

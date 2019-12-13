@@ -20,10 +20,10 @@
 
 <body>
 
-<nav class="navbar navbar-default navbar-transparent navbar-fixed-top" style="background-color: white;">
+    <nav class="navbar navbar-default navbar-transparent navbar-fixed-top" style="background-color: white;">
         <div class="container">
             <div class="navbar-header">
-                <button id="menu-toggle" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example">
+                <button id="menu-toggle" type="button" class="navbar-toggle" style="background-color: #0f525e" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar bar1"></span>
                     <span class="icon-bar bar2"></span>
@@ -47,7 +47,7 @@
                 </div>
         </div>
     </nav>
-    <nav class="navbar navbar-blue navbar-transparent navbar-fixed-top" color-on-scroll="200" style="margin-top: 80px">
+    <nav class="navbar navbar-blue navbar-transparent navbar-fixed-top navresponsive" color-on-scroll="200" style="margin-top: 80px">
 
         <div class="container">
                 <div class="collapse navbar-collapse">
