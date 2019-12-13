@@ -5,39 +5,140 @@
     border-radius: 50%;
 }
 
+
+.image-paralax {
+    height: auto;
+    width: 100%;
+    position: relative !important;
+    /* background: url('../img/polos.png'); */
+    /* background-size: auto 90% !important;   */
+    background-repeat: no-repeat !important;  
+    background-position: center !important;
+}
+
+#jakarta {
+    z-index: 99;
+    position: absolute;
+    left: -16.1px;
+    bottom: 20px;
+}
+
+#bandung {
+    z-index: 99;
+    position: absolute;
+    left: -16.1px;
+    bottom: 20px;
+}
+
+#surabaya {
+    z-index: 99;
+    position: absolute;
+    left: -16.1px;
+    bottom: 20px;
+}
+
+#palembang {
+    z-index: 99;
+    position: absolute;
+    left: -16.1px;
+    bottom: 20px;
+}
+
+#makassar {
+    z-index: 99;
+    position: absolute;
+    left: -16.1px;
+    bottom: 20px;
+}
+
 #jakarta-spot {
-    left: 32%;
-    top: 100%;
+    left: 26%;
+    bottom: 18%;
     position: absolute;
     z-index: 999;
 }
 
 #bandung-spot {
     left: 29%;
-    top: 73%;
+    bottom: 16%;
     position: absolute;
     z-index: 999;
 }
 
 #surabaya-spot {
-    left: 40%;
-    top: 73%;
+    left: 38%;
+    bottom: 15%;
     position: absolute;
     z-index: 999;
 }
 
 #makassar-spot {
     left: 47%;
-    top: 70%;
+    top: 77%;
     position: absolute;
     z-index: 999;
 }
 
 #palembang-spot {
     left: 20%;
-    top: 62%;
+    top: 70%;
     position: absolute;
     z-index: 999;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+    .img-sub-kota{
+        transform: scale(0.6);
+        left: ;
+        bottom: -40px !important;
+    }
+
+    #jakarta-spot {
+        left: 26%;
+        bottom: 20%;
+    }
+
+    #bandung-spot {
+        left: 29%;
+        bottom: 18%;
+    }
+
+    #surabaya-spot {
+        left: 38%;
+        bottom: 17%;
+    }
+
+    #makassar-spot {
+        left: 47%;
+        top: 75%;
+    }
+
+    #palembang-spot {
+        left: 20%;
+        top: 70%;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
 }
 
 .ware-loc {
@@ -63,41 +164,6 @@
     top: -72%;
     position: absolute;
     z-index: 999;
-}
-
-#jakarta {
-    z-index: 99;
-    position: absolute;
-    left: 31%;
-    top: 35%;
-}
-
-#bandung {
-    z-index: 99;
-    position: absolute;
-    left: 28%;
-    top: 33%;
-}
-
-#surabaya {
-    z-index: 99;
-    position: absolute;
-    left: 39%;
-    top: 33%;
-}
-
-#palembang {
-    z-index: 99;
-    position: absolute;
-    left: 19%;
-    top: 21%;
-}
-
-#makassar {
-    z-index: 99;
-    position: absolute;
-    left: 46%;
-    top: 29%;
 }
 
 @font-face {

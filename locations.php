@@ -21,7 +21,7 @@
 
 <body>
 
-<nav class="navbar navbar-default navbar-transparent navbar-fixed-top" style="background-color: white;">
+    <nav class="navbar navbar-default navbar-transparent navbar-fixed-top" style="background-color: white;">
         <div class="container">
             <div class="navbar-header">
                 <button id="menu-toggle" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example">
@@ -48,7 +48,7 @@
                 </div>
         </div>
     </nav>
-    <nav class="navbar navbar-blue navbar-fixed-top" style="margin-top: 80px">
+    <nav class="navbar navbar-blue navbar-fixed-top navresponsive" style="margin-top: 80px">
 
         <div class="container">
                 <div class="collapse navbar-collapse">
@@ -84,45 +84,46 @@
         </div>
     </div>
 
-    <div class="section">
+    <!-- <div class="section">
         <div class="parallax">
-            <div class="image" style="background: url('assets/img/polos.png');background-size: 80% 60%; background-repeat: no-repeat;  background-position: center;">
-                 <div id="jakarta-spot">
-                    <button type="button" class="spot" onmouseenter="jakartaShow()" onclick="jakartaShow()"></button>
-                </div>
-                <div id="bandung-spot">
-                    <button type="button" class="spot" onmouseenter="bandungShow()" onclick="bandungShow()"></button>
-                </div>
-                <div id="surabaya-spot">
-                    <button type="button" class="spot" onmouseenter="surabayaShow()" onclick="surabayaShow()"></button>
-                </div>
-                <div id="makassar-spot">
-                    <button type="button" class="spot" onmouseenter="makassarShow()" onclick="makassarShow()"></button>
-                </div>
-                <div id="palembang-spot">
-                    <button type="button" class="spot" onmouseenter="palembangShow()" onclick="palembangShow()"></button>
-                </div>
-                <div id="jakarta">
-                    <img src="./assets/img/Arrow_JKT.png"/>
-                </div>
-                <div id="bandung">
-                    <img src="./assets/img/Arrow_BDG.png"/>
-                </div>
-                <div id="surabaya">
-                    <img src="./assets/img/Arrow_SBY.png"/>
-                </div>
-                <div id="palembang">
-                    <img src="./assets/img/Arrow_PLB.png"/>
-                </div>
-                <div id="makassar">
-                    <img src="./assets/img/Arrow_MKS.png"/>
-                </div>
+            <div class="image image-paralax">
+                
             </div>
         </div>
-    </div>
+    </div> -->
 
-    <div>
-        
+    <div class="section" style="background: #f5f5f5;">
+        <img class="image-paralax" src="./assets/img/polos.png" alt="">
+        <div id="jakarta-spot">
+            <button type="button" class="spot" onmouseenter="jakartaShow()" onclick="jakartaShow()"></button>
+            <div class="img-sub-kota" id="jakarta">
+                <img src="./assets/img/Arrow_JKT.png"/>
+            </div>
+        </div>
+        <div id="bandung-spot">
+            <button type="button" class="spot" onmouseenter="bandungShow()" onclick="bandungShow()"></button>
+            <div class="img-sub-kota" id="bandung">
+                <img src="./assets/img/Arrow_BDG.png"/>
+            </div>
+        </div>
+        <div id="surabaya-spot">
+            <button type="button" class="spot" onmouseenter="surabayaShow()" onclick="surabayaShow()"></button>
+            <div class="img-sub-kota" id="surabaya">
+                <img src="./assets/img/Arrow_SBY.png"/>
+            </div>
+        </div>
+        <div id="makassar-spot">
+            <button type="button" class="spot" onmouseenter="makassarShow()" onclick="makassarShow()"></button>
+            <div class="img-sub-kota" id="makassar">
+                <img src="./assets/img/Arrow_MKS.png"/>
+            </div>
+        </div>
+        <div id="palembang-spot">
+            <button type="button" class="spot" onmouseenter="palembangShow()" onclick="palembangShow()"></button>
+            <div class="img-sub-kota" id="palembang">
+                <img src="./assets/img/Arrow_PLB.png"/>
+            </div>
+        </div>
     </div>
     
 
