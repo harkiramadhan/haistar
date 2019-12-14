@@ -80,7 +80,7 @@
             <div class="image" style="background-image: url('assets/img/home.png'); z-index: 0;">
             </div>
             <div class="container">
-                <div class="content titleresponsive">
+                <div class="content">
                     <div class="title-area-2">
                     <h2 class="title-modern" style="margin-top:5%; font-family: sui generis free; font-size:22px; line-height: 1.6">We Help Grow Your E-Commerce <br> Business With No Hassle</h2>
                         <p style="font-size: medium; text-transform: none; font-family: roboto;">A Jakarta-based e-logistics solutions company equipped with experienced management team in the industry, warehouses  in five different cities, <br> integrated warehouse management system,  <br> and industry-standard business process
