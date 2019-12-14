@@ -197,7 +197,7 @@
                                 </div>
                                 <div class="col-xs-6 col-md-4">
                                     <a href="#" class="thumbnail" style="border: 0">
-                                        <img src="./assets/img/Client/sophie.jpg" alt="" style="max-height: 100px">
+                                        <img src="./assets/img/Client/sophie.png" alt="" style="max-height: 100px">
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-md-4">
