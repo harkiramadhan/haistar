@@ -4214,6 +4214,10 @@ body {
     .section-header .parallax, .section-header .static-image {
         height: 155vh !important;
     }
+    p.description{
+        margin-right: 15px !important;
+        margin-left: 15px !important;
+    }
     .section-faq .box {
         max-width: 480px;
         margin: 0 auto;

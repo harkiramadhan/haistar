@@ -76,7 +76,7 @@
     </nav>
 
 
-    <div class="section section-header">
+    <div class="section section-header d-sm-none">
         <div class="parallax">
             <!-- <div class="image"
                 style="background-image: url('assets/img/Why.png')">
