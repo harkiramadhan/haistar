@@ -282,21 +282,20 @@
                 <img style="" src="assets/img/Wms2.png" height="750vh" alt="">
             </div>
             <div class="container">
-                        <div class="text-area capability-area">
-                            <h2 style="font-family:'sui'; color: #104C66">Capability</h2>
-                            <h4 style="color: white; margin-top: 10vh;">
-                                <i class="fa fa-check-circle"></i> Simple and straight forward UI/UX <br>
-                                <i class="fa fa-check-circle"></i> Order status dashboard <br>
-                                <i class="fa fa-check-circle"></i> Mass upload capability <br>
-                                <i class="fa fa-check-circle"></i> Multi warehouse and multi channel capability <br>
-                                <i class="fa fa-check-circle"></i> Connection to 3PL: API system for order and transport management <br>
-                                <i class="fa fa-check-circle"></i> Realtime inventory check & minimum stock alert that help client in: <br>
-                                &nbsp;&nbsp;1. Understanding heatmap: fast and slow moving SKUs (Stock Keeping Unit) indicating best <br>  &nbsp;&nbsp; &nbsp;&nbsp;and worst sales performance for future improvement <br>
-                                &nbsp;&nbsp;2. Inventory planning: inventory replenishment and dead stock management<br>
-                            </h4>
-                            <button class="btn btn-fill btn-sm btn-white" style="border-radius: 50px; color: #104C66">JOIN US NOW</button>
-                        </div>
-                    </div>
+                <div class="text-area capability-area">
+                    <h2 style="font-family:'sui'; color: #104C66">Capability</h2>
+                    <p style="color: white; margin-top: 10vh;">
+                        <i class="fa fa-check-circle"></i> Simple and straight forward UI/UX <br>
+                        <i class="fa fa-check-circle"></i> Order status dashboard <br>
+                        <i class="fa fa-check-circle"></i> Mass upload capability <br>
+                        <i class="fa fa-check-circle"></i> Multi warehouse and multi channel capability <br>
+                        <i class="fa fa-check-circle"></i> Connection to 3PL: API system for order and transport management <br>
+                        <i class="fa fa-check-circle"></i> Realtime inventory check & minimum stock alert that help client in: <br>
+                        &nbsp;&nbsp;1. Understanding heatmap: fast and slow moving SKUs (Stock Keeping Unit) indicating best <br>  &nbsp;&nbsp; &nbsp;&nbsp;and worst sales performance for future improvement <br>
+                        &nbsp;&nbsp;2. Inventory planning: inventory replenishment and dead stock management<br>
+                    </p>
+                    <button class="btn btn-fill btn-sm btn-white" style="border-radius: 50px; color: #104C66; margin-top: 10px;">JOIN US NOW</button>
+                </div>
             </div>
         </div>
     </div>

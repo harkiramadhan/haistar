@@ -4211,6 +4211,9 @@ body {
     .section .image {
         margin-left: -500px !important;
     }
+    .section-header .parallax, .section-header .static-image {
+        height: 155vh !important;
+    }
     .section-faq .box {
         max-width: 480px;
         margin: 0 auto;
