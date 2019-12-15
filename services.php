@@ -83,11 +83,11 @@
     </nav>
 
     <div class="section section-header">
-        <div class="parallax">
-            <div class="image"
+        <div class="parallax sm-h-100">
+            <div class="image d-sm-none"
                 style="background: url('assets/img/Icon.png');  background-size: 800px 300px; background-repeat: no-repeat;  background-position: right; ">
             </div>
-            <div class="container">
+            <div class="container sm-75">
                 <div class="content">
                     <div class="title-area-2" style="color: black;">
                         <h2 style="font-family:'sui'; color: #0b2f3c; line-height: 1.6"><strong><b>Hassle-free services</strong></b></h2>

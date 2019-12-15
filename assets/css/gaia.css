@@ -4185,6 +4185,12 @@ body {
     .d-sm-none{
         display: none !important;
     }
+    .sm-75{
+        height: 75% !important;
+    }
+    .sm-h-100{
+        height: 100vh !important;
+    }
     .section-faq .box {
         max-width: 480px;
         margin: 0 auto;
