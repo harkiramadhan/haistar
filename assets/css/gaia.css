@@ -4238,4 +4238,12 @@ body {
     .section-pricing .row [class^="col-"] {
         padding: 0;
     }
+    .carousel .carousel-item-products {
+        visibility: hidden;
+        width: 450px;
+        height: 350px;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
 }

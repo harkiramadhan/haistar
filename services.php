@@ -254,54 +254,32 @@
                 <p class="texte-center" style="font-family:roboto">
                     Our Warehouse Management System (WMS) covers the entire order process from Shipping, Receiving, Putaway, Movement, and Packing. It provides realtime visibility and accuracy on transaction process and inventory stock.                         
                 </p>
-                <!-- <p class="description"> 
-                    <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Simple and straight forward UI/UX &nbsp; 
-                    <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Order status dashboard &nbsp;
-                    <br>
-                    <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Mass upload capability &nbsp;                            
-                    <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Multi warehouse and multi channel capability &nbsp; 
-                    <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Connection to 3PL: API system for order and transport management &nbsp;
-                    <small><i class="fa fa-circle" aria-hidden="true"></i></small>&nbsp; Realtime inventory check & minimum stock alert that help client in: &nbsp;
-                    <br>
-                    <small><i aria-hidden="true"></i></small>&nbsp; 1.Understanding heatmap: fast and slow moving SKUs (Stock Keeping Unit) indicating best and worst sales performance for future improvement &nbsp;
-                    <br>
-                    <small><i aria-hidden="true"></i></small>&nbsp; 2. Inventory planning: inventory replenishment and dead stock management &nbsp;
-               
-                </p> -->
+            </div>
+            <div class="carousel">
+        
+                <div class="carousel-item carousel-item-products" >
+                    <img alt="..." src="assets/img/wms 1.png"/>
+                </div>
+                <div class="carousel-item carousel-item-products" >
+                    <img alt="..." src="assets/img/wms 2.png"/>
+                </div>
+                <div class="carousel-item carousel-item-products" >
+                    <img alt="..." src="assets/img/wms 3.png"/>
+                </div>
+        
+                <!-- //PREV -->
+                <div class="next-item-cor-pr d-sm-none">
+                    <a href="Previo" class="movePrevCarousel middle-indicator-text content-indicator l-b-pre-pr"><i class="fa fa-angle-left fa-3x grey-muda"></i></a>
+                    <a href="Siguiente" class=" moveNextCarousel middle-indicator-text content-indicator r-b-nex-pr"><i class="fa fa-angle-right fa-3x grey-muda"></i></a>
+                </div> 
             </div>
         </div>
     </div>
 
     <!-- display product -->
     <div class="section">
-            <div class="container">
-                <div class="carousel">
-                        
-        
-                        <div class="carousel-item carousel-item-product" >
-                                    <img style="height: auto;" alt="..." src="assets/img/wms 1.png"/>
-                        </div>
-                        <div class="carousel-item carousel-item-product" >
-                                    <img style="height: auto;" alt="..." src="assets/img/wms 2.png"/>
-                        </div>
-                        <div class="carousel-item carousel-item-product" >
-                                    <img style="height: auto;" alt="..." src="assets/img/wms 3.png"/>
-                        </div>
-        
-                    <!-- //PREV -->
-                    <div class="next-item-cor-pr">
-                            <a href="Previo" class="movePrevCarousel middle-indicator-text content-indicator l-b-pre-pr"><i class="fa fa-angle-left fa-3x grey-muda"></i></a>
-                    
-                            <a href="Siguiente" class=" moveNextCarousel middle-indicator-text content-indicator r-b-nex-pr"><i class="fa fa-angle-right fa-3x grey-muda"></i></a>
-                    
-                    </div> 
-                </div>
-        <!-- <div class="parallax">
-            <div class="image"
-                style="background-image: url('assets/img/Wms.png');">
-            </div>
-        </div> -->
-            </div>
+        <div class="container">
+        </div>
     </div>
 
     <div class="section section-header">
