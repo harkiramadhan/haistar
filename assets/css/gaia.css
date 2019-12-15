@@ -3098,6 +3098,10 @@ fieldset[disabled] .form-control {
     margin-top: 80px;
 }
 
+.navcarousel{
+    margin-top: 165px;
+}
+
 
 /* END PRESENTATION PAGE */
 
@@ -3111,6 +3115,9 @@ fieldset[disabled] .form-control {
 }
 
 @media (min-width: 992px) {
+    .d-xl-none{
+        display: none !important;
+    }
     .section-we-made-1 .row {
         margin: 0;
     }

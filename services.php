@@ -182,13 +182,21 @@
                             </div>
                         </div>
                     </div>
-
+                    
+                    <div class="navcarousel d-xl-none">
+                        <a class="left" href="#Previo" data-slide="prev">
+                            <span class="fa fa-angle-left fa-3x"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="right" href="#Siguiente" data-slide="next">
+                            <span class="fa fa-angle-right fa-3x"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div> 
                     <!-- //PREV -->
-                    <div class="next-item-cor">
+                    <div class="next-item-cor d-sm-none">
                         <a href="Previo" class="movePrevCarousel middle-indicator-text content-indicator l-b-pre"><i class="fa fa-angle-left fa-3x grey-muda"></i></a>
-                
                         <a href="Siguiente" class=" moveNextCarousel middle-indicator-text content-indicator r-b-nex"><i class="fa fa-angle-right fa-3x grey-muda"></i></a>
-                
                     </div> 
 
                     <!-- <ul class="nav nav-text" role="tablist">
