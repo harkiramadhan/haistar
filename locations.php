@@ -84,15 +84,7 @@
         </div>
     </div>
 
-    <!-- <div class="section">
-        <div class="parallax">
-            <div class="image image-paralax">
-                
-            </div>
-        </div>
-    </div> -->
-
-    <div class="section" style="background: #f5f5f5;">
+    <div class="section d-sm-none" style="background: #f5f5f5;">
         <img class="image-paralax" src="./assets/img/polos.png" alt="">
         <div id="jakarta-spot">
             <button type="button" class="spot" onmouseenter="jakartaShow()" onclick="jakartaShow()"></button>
@@ -127,7 +119,7 @@
     </div>
     
 
-    <div class="section section-header" style="margin-top: 100px;">
+    <div class="section section-header mt-sm-150 mt-100">
         <div class="container">
             <div class="content">
                 <ul class="nav nav-text" role="tablist">
