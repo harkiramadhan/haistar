@@ -4192,6 +4192,9 @@ body {
     .d-sm-none{
         display: none !important;
     }
+    .sm-mt--250{
+        margin-top: -250px !important;
+    }
     .sm-75{
         height: 75% !important;
     }
@@ -4200,6 +4203,13 @@ body {
     }
     .our-service-st {
         width: 100% !important;
+    }
+    .capability-area{
+        margin-left: 40px !important;
+        margin-right: 40px !important;
+    }
+    .section .image {
+        margin-left: -500px !important;
     }
     .section-faq .box {
         max-width: 480px;
@@ -4245,5 +4255,11 @@ body {
         position: absolute;
         top: 0;
         left: 0;
+    }
+    .capability-area{
+        margin-left: 350px !important;
+    }
+    .section .image {
+        width: 100% !important;
     }
 }

@@ -276,25 +276,13 @@
         </div>
     </div>
 
-    <!-- display product -->
-    <div class="section">
-        <div class="container">
-        </div>
-    </div>
-
-    <div class="section section-header">
+    <div class="section section-header sm-mt--250">
         <div class="parallax">
             <div class="image">
-                <img style="width: 100%" src="assets/img/Wms2.png" height="750vh" alt="">
+                <img style="" src="assets/img/Wms2.png" height="750vh" alt="">
             </div>
-            <!-- <div class="image"
-                style="background-image: url('assets/img/Wms2.png'); position:absolute; margin-top:20px; padding-top:10px; height: 120vh;">
-            </div> -->
             <div class="container">
-                <div class="row">
-                    <div class="col-xl-2"></div>
-                    <div class="col-xl-6">
-                        <div class="text-area" style="margin-left: 30%;">
+                        <div class="text-area capability-area">
                             <h2 style="font-family:'sui'; color: #104C66">Capability</h2>
                             <h4 style="color: white; margin-top: 10vh;">
                                 <i class="fa fa-check-circle"></i> Simple and straight forward UI/UX <br>
@@ -309,8 +297,6 @@
                             <button class="btn btn-fill btn-sm btn-white" style="border-radius: 50px; color: #104C66">JOIN US NOW</button>
                         </div>
                     </div>
-                    <div class="col-xl-4"></div>
-                </div>
             </div>
         </div>
     </div>
