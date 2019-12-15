@@ -2883,13 +2883,17 @@ fieldset[disabled] .form-control {
 
 .section .image {
     background-size: cover;
-    background-position: center center;
+    /* background-position: center center; */
     background-repeat: no-repeat;
     width: 100%;
     height: 100vh;
     z-index: 2;
     position: absolute;
     display: block;
+}
+
+.text-full{
+    max-width: 712px !important;
 }
 
 .section-get-started,
@@ -3210,7 +3214,9 @@ fieldset[disabled] .form-control {
     }
     .section-header .parallax,
     .section-header .static-image {
-        height: 80vh;
+        margin-top: 25px;
+        height: 127vh;
+        background-color: #10465E;
     }
     .section-header .parallax:after,
     .section-header .static-image:after {
@@ -4088,7 +4094,7 @@ body {
     }
     .navbar-toggle:hover,
     .navbar-toggle:focus {
-        background-color: transparent !important;
+        background-color: #0f525e !important;
     }
     .btn.dropdown-toggle {
         margin-bottom: 0;
@@ -4176,6 +4182,9 @@ body {
     }
     .titleresponsive {
         margin-top: 28vh;
+    }
+    .d-sm-none{
+        display: none !important;
     }
     .section-faq .box {
         max-width: 480px;

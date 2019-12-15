@@ -75,14 +75,14 @@
     </nav>
 
 
-    <div class="section section-header">
+    <div class="section section-header" style="padding-top: 79px;">
         <div class="parallax">
             <div class="image" style="background-image: url('assets/img/home.png'); z-index: 0;">
             </div>
             <div class="container">
                 <div class="content">
-                    <div class="title-area-2">
-                    <h2 class="title-modern" style="margin-top:5%; font-family: sui generis free; font-size:22px; line-height: 1.6">We Help Grow Your E-Commerce <br> Business With No Hassle</h2>
+                    <div class="title-area-2 text-full">
+                    <h2 class="title-modern" style="font-family: sui generis free; font-size:22px; line-height: 1.6">We Help Grow Your E-Commerce <br> Business With No Hassle</h2>
                         <p style="font-size: medium; text-transform: none; font-family: roboto;">A Jakarta-based e-logistics solutions company equipped with experienced management team in the industry, warehouses  in five different cities, <br> integrated warehouse management system,  <br> and industry-standard business process
                             and infrastructure, <br> Haistar aims to  ease your way in scaling up your business. <br><br>
                             Whether you’re just starting, in the middle of growing, <br> or getting too big still be independent, <br> we can adjust and provide to your specific needs.
@@ -159,7 +159,7 @@
 
     <div class="section">
         <div class="parralax">
-            <div class="image" style="background-image: url('assets/img/visi.png'); height: 135vh">
+            <div class="image d-sm-none" style="background-image: url('assets/img/visi.png'); height: 135vh">
             </div>
             <div class="container">
                 <div class="title-area">
@@ -209,13 +209,13 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="card card-member" id="leader-1" style="box-shadow:none;">
-                                    <div class="row">
+                                    <div class="row" style="padding-left: 5px">
                                         <div class="col-md-3">
                                             <div>
-                                                <div style="margin-left: 10%;  margin-top: 10%;">
+                                                <div style="margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Donny.png" />
                                                 </div>
-                                                <h5 style="font-family:'sui'; color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Dony Maya Wardhana <p>Chief Executive Officer</p></b></h5>
+                                                <h5 style="font-family:'sui'; color: #0f525e;" class="text-left text-xs-center"><b>Dony Maya Wardhana <p>Chief Executive Officer</p></b></h5>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -227,13 +227,13 @@
                             </div>
                             <div class="col-md-12">
                                 <div class="card card-member" id="leader-2" style="box-shadow:none; ">
-                                    <div class="row">
+                                    <div class="row" style="padding-left: 5px">
                                         <div class="col-md-3">
                                             <div>
-                                                <div style="margin-left: 10%; margin-top: 10%;">
+                                                <div style="margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Fahrian.png" />
                                                 </div>
-                                                <h5 style="font-family:'sui'; color: #0f525e; margin-left: 10%;" class="text-left text-xs-center"><b>Muhammad Fahrian</b><p>Chief Commercial Officer</p></h5>
+                                                <h5 style="font-family:'sui'; color: #0f525e; " class="text-left text-xs-center"><b>Muhammad Fahrian</b><p>Chief Commercial Officer</p></h5>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -246,13 +246,13 @@
                           
                             <div class="col-md-12">
                                 <div class="card card-member" id="leader-3" style="box-shadow:none; "> 
-                                    <div class="row">
+                                    <div class="row" style="padding-left: 5px">
                                         <div class="col-md-3">
                                             <div>
-                                                <div style="margin-left: 10%; margin-top: 10%;">
+                                                <div style="margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Rifani.png" />
                                                 </div > 
-                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>General Manager Commercial</p></h4>
+                                                <h5 style="font-family:'sui'; color: #0f525e;" class="text-left text-xs-center"><b>Rifani Budi Kristanto</b> <p>General Manager Commercial</p></h4>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -264,13 +264,13 @@
                             </div>
                             <div class="col-md-12">
                                 <div class="card card-member" id="leader-4" style="box-shadow:none; ">
-                                    <div class="row">
+                                    <div class="row" style="padding-left: 5px">
                                         <div class="col-md-3">
                                             <div >
-                                                <div  style="margin-left: 10%; margin-top: 10%;">
+                                                <div  style="margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Oky.png" />
                                                 </div>
-                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>General Manager Operartional</p></p>
+                                                <h5 style="font-family:'sui'; color: #0f525e;" class="text-left text-xs-center"><b>Oki Hermawan</b> <p>General Manager Operartional</p></p>
                                             </div>
                                         </div>
                                         <div class="col-md-9 text-left" style="padding-top: 50px;">
@@ -282,13 +282,13 @@
                             </div>
                             <div class="col-md-12">
                                 <div class="card card-member" id="leader-5" style="box-shadow:none; ">
-                                    <div class="row">
+                                    <div class="row" style="padding-left: 5px">
                                         <div class="col-md-3">
                                             <div>
-                                                <div  style="margin-left: 10%; margin-top: 10%;">
+                                                <div  style="margin-top: 10%;">
                                                     <img alt="..." src="./assets/img/leadership/Albertus.png" />
                                                 </div>
-                                                <h5 style="font-family:'sui'; color: #0f525e;  margin-left: 10%;" class="text-left text-xs-center"><b>Albertus Aditya</b><p>Strategic Senior Manager</p> </h4>
+                                                <h5 style="font-family:'sui'; color: #0f525e;" class="text-left text-xs-center"><b>Albertus Aditya</b><p>Strategic Senior Manager</p> </h4>
                                             </div>
                                         </br>
                                         </div>
