@@ -3216,7 +3216,6 @@ fieldset[disabled] .form-control {
     .section-header .static-image {
         margin-top: 25px;
         height: 127vh;
-        background-color: #10465E;
     }
     .section-header .parallax:after,
     .section-header .static-image:after {

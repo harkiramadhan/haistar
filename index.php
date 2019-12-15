@@ -76,7 +76,7 @@
 
 
     <div class="section section-header" style="padding-top: 79px;">
-        <div class="parallax">
+        <div class="parallax" style="background-color: #10465E;">
             <div class="image" style="background-image: url('assets/img/home.png'); z-index: 0;">
             </div>
             <div class="container">
